@@ -33,9 +33,8 @@ To install the translation:
 3. Unpack the downloaded archive to your Nintendo Switch's SD card. Place the translation files in the appropriate directory, typically:
 ```SDCARD/
 ├── atmosphere/
-│ └─────────── titles/
-│ └─────────────────── contents/
-│ └──────────────────────────── [Translation Files]
+│ └─────────── contents/
+│ └─────────────────────[Translation Files]
 ├── ...
 └── [Other Files and Folders]
 ```
