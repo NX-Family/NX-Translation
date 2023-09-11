@@ -1,3 +1,4 @@
+# github.com/NX-Family/NX-Translation
 000cfda8=Si utilitzes una connexió amb cable, si us plau, comprova que el cable Ethernet i/o l'adaptador LAN estiguin connectats correctament
 00110df4=Denver
 0018529c=GSRMR (Taiwan)

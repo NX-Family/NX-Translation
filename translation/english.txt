@@ -1,3 +1,4 @@
+# github.com/NX-Family/NX-Translation
 000cfda8=If you are using a wired connection, please check that your Ethernet cable and/or LAN adapter is properly connected
 00110df4=Denver
 0018529c=GSRMR (Taiwan)

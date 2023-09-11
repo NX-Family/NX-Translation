@@ -1,3 +1,4 @@
+# github.com/NX-Family/NX-Translation
 000cfda8=Assto in fêstsein ferbining brûkst, kontrolearje dan oft dyn Ethernet-kabel en/of LAN-adapter goed ferbûn binne.
 00110df4=Denver
 0018529c=GSRMR (Taiwan)
@@ -16,7 +17,7 @@
 01316f40=Dizze konsole sil no keppelje mei de
 013532d8=So basically a lot of stuff about games! We’ll also have news about your Nintendo Switch console itself, including tips and updates when we add new features
 016392bf=F: Hoe kin ik it apparaat oplaadzje?\nA: Op twa manieren: slút it oan op de Nintendo Switch-dock of slút de stroomadapter direkt oan op it apparaat
-018d58b2=Ynfoarnûmmer=864fc56f=Set in spultsjoenkaart yn of downloadje software út de Nintendo eShop
+018d58b2=Ynformaasjenûmer:
 018db5c0=Jo wurde ôfkaptele fan de hjoed oanwêzige ynternetferbining en draadleaze kommunikaasje
 0196fd47=Net ferbûn
 019e03ce=Freonfersiken
@@ -99,7 +100,7 @@
 094505b0=Om oare kontrollanten te brûken, ferbin se dan mei de spulkoarte
 09660adc=It kin wêze dat jo lûdzjevertraging ûnderfinen, ôfhinklik fan jo Bluetooth-ynstallaasje
 096fbdc6=Automatyske download ynstellings binne apart foar elke konsole
-09a4f258=Mii-karakters=3ae6dd92=Mii-ôfbyldings wiene bedoarn en binne fuorthelle
+09a4f258=Mii-karakters:
 09a80458=Koble til Nintendo Account
 09c74ffd=It is net mooglek om part fan de software of del te laden omdat de personifikatoarnde Nintendo Account net brûkt wurde koe
 09ca55ca=Share
@@ -205,7 +206,7 @@
 12a9fcf6=Kopieer alle screenshots en video's naar een microSD-kaart
 12aa38d5=Sign in to your Nintendo Account again
 12aabd25=Utblank
-12d83914=Partinummer=c5b099a5=Lavt batteri
+12d83914=Lottenummer:
 1310d248=Brûkers mei Nintendo-akken ûnder de 13 jier kinne net op sosiale media postje, ûngelyk fan dizze ynstellingen
 13190533=Net yn steat om de Nintendo Account te brûken
 131dd3d6=Alarms
@@ -251,7 +252,7 @@
 171a0606=Groep
 1743467f=Skermhelderheid
 174bf419=Binne de Bestjoerders Koppelen?
-17516149=Utjouwer=a351ca7f=Set it apparaat yn de sliepmodus
+17516149=Utgonger:
 1758356d=as
 175934b9=om letter te konfigurearjen
 176cd1e9=Sommige noodzakelijke gegevens konden niet worden gevonden. \nHet wordt nu gedownload
@@ -315,7 +316,7 @@
 1cc34a71=Sidenynformaasje
 1ccdb997=Alle software ynskeakelje
 1ce1a02b=Jo kinne nijs krije út it Nintendo Switch Ynformaasjesintrum sels sûnder in account te keppeljen. Jo hoege allinnich ferbûn te wêzen mei ynternet
-1d01e0fe=Leden=21334479=Meksiko-Stêd
+1d01e0fe=Leden:
 1d061565=Download stoppe om't der in foutsje op trede is
 1d0c8304=Kleur
 1d353b6c=Skip the user-selection screen. It may still be displayed in some cases, depending on the software
@@ -622,7 +623,7 @@
 37d41699=sille
 37ec2cbb=Foarkomme dat it apparaat automatysk yngong sliept at der media-ynhâld ôfspile wurdt.\nAs dizze opsje útsketten is, sil it apparaat noch altyd nei fjouwer oere media-ôfspyl oer gean yn de sliepmodus
 380fd6b0=Trilfunctie van de controller
-3837303b=Ondersteuningscode=%04d-%04d
+3837303b=Supportkoad: %04d-%04d
 38406424=De ferskafte ynformaasje kin ferâldere wêze, of de brûker hat gjin aksjefolchjende Nintento Account.
 38526a0a=Fertsjinje Gouden Punten (allinnich Game Card)
 385c9c73=Sending system update data..
@@ -890,7 +891,7 @@
 4f81f261=Data Net op dizze Konsoles Bewarre
 4f84c8ff=Wiere ferbining
 4fad87b6=Britske ferzje fan de AC-adapter sjoen
-4fc62ba4=Freonkode=47df2292=Freonfunksjes
+4fc62ba4=Freonkode:
 4fc7b936=Bewurkje en dieldzje profielynformaasje dy't it brûkers mooglik makket har eigen tekst yn te jaan
 4fcd39a7=Groep aanmaken
 4fd70b58=Knop-yndied ferrekkenje fraget in draadlosse kontrôlleur
@@ -903,7 +904,7 @@
 502733a5=De gebruiker is toegevoegd aan de console
 50303b06=Brûkersdata oerdrachte
 503f7be6=Dit sil allinnich effekt hawwe as it systeem ferbûn is mei ynternet fia in ferbining mei kabel
-5048e328=Foutkode=9ed76220=Foutdetails
+5048e328=Ferrekôdekoad:
 505a44fa=GB
 508d8165=Download foarûtgong is bywurke
 50a3f38d=Freon wurde
@@ -974,7 +975,7 @@
 561090ad=Smartphone App
 561d1356=Er is beschadigde gegevens gedetecteerd.\nVoer een controle uit voor beschadigde gegevens
 56299e7f=Alstublief, set VliegtÃ ¼ modus út as dat tastandich is foar jo omjouwing
-5645638a=Online=8737f095=Allinnich
+5645638a=Online:
 5646e938=Gjin bewaringsyndielingen
 56554922=Er is onvoldoende vrije ruimte om opslaggegevens te maken
 5697bcd4=As der freonen fan dy op Facebook binne dy't ek Nintendo Switch brûke, sille se hjir sjen
@@ -1307,7 +1308,7 @@
 73e76a98=De microSD-kaart formatearjen.\nDizze net fan de konsol ôfnimme
 73e959d6=Wis alle skermprinten en video's yn it systeemgeheugen
 73f1e253=Jo Nintendo Account is suksesfol keppene! \nNou kinne jo genietsje fan de folgjende funksjes:
-741fe248=IP-adres=%s
+741fe248=IP-adres: %s
 7423cdcb=Om stipe-informaasje, wichtige ynformaasje en yntellektuele eigendomsmeldingen wer te jaan, set de gamecard ynstekken of download dizze software
 74426051=Selektearje skermprinten en/of video's om se te kopiearjen nei de kompjuter
 74725ac3=De gegevens kinne werom helle wurde troch it op 'e nij te downloaden
@@ -1374,7 +1375,7 @@
 793078ad='s bewarje fan data foar dizze titel moat wiskerre wurde
 794145f0=Knop
 7966435e=sille freonen wurde
-797b9bf5=Wekkers=ÚTskaakeld foar hjoed
+797b9bf5=Alarms: ûnskeakele foar hjoed
 799a5482=Opnieuw beginnen
 799b8788=Selektearje skermprinten en/of video's om se te wiskjen
 79a2b900=In microSDXC-geheugenkaart is ynstekke.\nWurkje it systeem by om dizze SD-kaart te brûken
@@ -1422,7 +1423,7 @@
 7dc5f017=As dizze boadskip weromkearre ferskynt, soe dat betsjutte kinne dat de spultsjeskaart of de konsole net goed wurket
 7dccd06a=Belangrike ynformaasje
 7dd5e041=THÚS Knop
-7de196b1=Hint=e5507961=Hobart
+7de196b1=Hint:
 7e05fbb0=De bewaringsgegevens op dizze konsole sille ferset wurde.
 7e473744=Tijdelijk ouderlijk toezicht uitschakelen
 7e754bc1=Nintendo Account
@@ -1541,7 +1542,7 @@
 86edb42f=De bewaringsplak kin net mear ôfbylden hâlde.
 87018c96=Dizze brûker kin gjin gebrûk meitsje fan online funksjes
 872eca51=De update wordt gestopt als de software die u speelt draadloze communicatie gebruikt of bij het bijwerken van andere software
-8737f095=Allinne
+8737f095=Allinnich
 87439385=Brûker Tafoegje
 87442ae9=Freonlist
 875138e2=Kan niet opslaan
@@ -1553,7 +1554,7 @@
 87f35f8a=Selektearje software om ta te foegjen oan de groep
 87f6f7e3=Voorbereidingen starten bij het voor het eerst instellen van de console
 87f768ee=AC adapter
-883effe3=Registraasjekoade=60e77c63=Registraasje folbrocht
+883effe3=Registrearjekoad:
 884c106b=Om fierder te spyljen, ferbin dêrfoar mei ynternet en ferfolgje fanôf it THÚS-menu
 88581706=Rjochts Stick
 885b0d26=Jo blokkearde-brûkerslist is fol
@@ -1725,7 +1726,7 @@
 95f2ac51=De ynstellingen fan dit netwurk wurde net stipe.\nKies in oar netwurk
 960734d3=Verbinje mei in \nUSB-oplaadkabel
 9625f2e6=oeren lyn
-9633ed8f=Wekker=131dd3d6=Wekkertoanen
+9633ed8f=Wekker:
 963dd210=Tokio
 9642406c=Jo Mii-Liste is fol. As jo mear Mii-karakters ûntfange wolle, moatte jo earst in pear út jo Mii-liste wisse
 9645540d=Jo kinne de list behearje yn Brûkersyntstellingen
@@ -1809,7 +1810,7 @@
 9ce3bd42=OK
 9cfd50c4=HDMI Kabel
 9d19cf2d=Verbin in kontroller dy't amiibo lêze kin
-9d23ad98=Betrouberens=WPA2-PSK(AES)\Wachtwurd=85982229=Selektearje
+9d23ad98=Beveiliging: WPA2-PSK(AES)\Wachtwurd:
 9d375db7=Jo ferbining mei dizze side is net fersleutele
 9d4e4b25=Senk maksimal hodetelefonvolum
 9d5c1771=Yntalearje is mislearre.\nSjoch ta dat de konsol op in flak plak stiet
@@ -1951,7 +1952,7 @@ aa3a4dd9=Bli med nå
 aa568137=oanfreonde foarstellen oanzetten op harren brûkerspagina ek
 aa57520d=Bewurkje Mii
 aa63ea37=Spile mear as 3 moanne lyn
-aa76b671=Video's=b7778c3c=Alle beskikbere nijs besjen
+aa76b671=Video's:
 aa7c58bc=Automatyske bewarje datan download kin net altiten fuortfierd wurde
 aa99dc98=Wer ynstelle amiibo
 aaca7e16=De THÚS Menu kin\nno net sjen wurde
@@ -2049,7 +2050,7 @@ b253c3ed=Ymportante gegevens, lykas bewaringsgegevens, binne ferbûn mei elke sp
 b25928c6=Hielendal
 b25aa8ec=Doorgaan met toevoegen
 b2856516=Ferbinje mei TV
-b287b7dc=Systeem-MAC-adres=f13d5ebe=Systeemgeheugen
+b287b7dc=Systeem MAC-adres:
 b2886afb=Hoe kin ik myn PIN-koades neisjen?
 b28b14ad=Feroarje Brûker
 b29f3108=Succesvol geverifieerd
@@ -2075,7 +2076,7 @@ b4f25a14=Alle Brûkers
 b506b045=Databehear yn it systeemgeheugen wurdt wiske, de konsole sil weromsteld wurde nei fabrieksynstellings.\nBewaringsdata, skermprinten, video's en brûkersynformaasje sil net wiske wurde
 b515ee43=Sarajevo
 b52b36b7=Werom
-b5477821=Skermprinten=1b28faf1=It útfieren fan it skript duorret lang
+b5477821=Skermprinten:
 b54af2a7=Download foarûtgong:
 b553bacb=Allinne bewaringsdata en it ikoon op it HJÛS-menú sille oerbleaun wêze
 b5637df2=Registrearre netwurken
@@ -2109,7 +2110,7 @@ b7152342=Size
 b76021ce=Software-útstel annulearje
 b766999f=Selektearje software om te ferpleatsen nei de microSD-kaart
 b7740330=Hâld de amiibo fêst oant de reset klear is
-b7778c3c=Besjoch alle beskikbere nijs
+b7778c3c=Alle beskikbere nijs besjen
 b77de300=It spul wurdt ûnderbroch
 b7934bcc=Nintendo Switch Ynformaasjinte Senter
 b7c17e97=Froulik
@@ -2149,7 +2150,7 @@ baff4a1e=Download snelheid
 bb13e3da=Dizze Nintendo Account is al keppele oan in oare brûker op dizze konsole, dus hy kin net keppelt wurde
 bb344057=Verbinje mei de ynternet om de titel fan de software te sjen
 bb402cde=Frije kommunikaasje mei oare brûkers is beheind foar dizze software
-bb4d02c7=Freonfersiken=f68667e0=Freonfoarstellen foar dit sosjale medianetwurk sille net mear sjen wurde op dyn brûkersside, en dyn account sil net mear as freonfoarstel foar oare brûkers sjen wurde
+bb4d02c7=Freonfersiken:
 bb54db51=Oannimme
 bb66a614=Omke-rekkens binne no ynschakele.\nDe Omke-rekkens-PIN moat yntast wurde foar fierder gebrûk
 bb7f165b=Share Error Information
@@ -2168,7 +2169,7 @@ bc40d35d=Freonefersyk-melding
 bc44f743=Yntalearje kontrôlles
 bc486d62=Foardat jo in kontroller brûke kinne, moat dy koppene wurde mei de konsole.\nJo kinne dit altyd dwaan troch it fysyk oanslidzjen op de konsole
 bc4f2c86=De download sil trochgean. Jo moatte de konsole bywurkje as de download klear is.
-bc51afbf=Bygelyks=0123 4567 8900
+bc51afbf=Bygelyks: 0123 4567 8900
 bc5de071=Wiisizer
 bc6c85bb=Forsikre deg om at konsollene er i nærheten av hverandre
 bc92b3b1=Dit freonfersyk is noch net ferstjoerd. \nIt sil automatysk ferstjoerd wurde asstû ferwurkje mei it ynternet
@@ -2428,7 +2429,7 @@ d32f3914=kin ek dyn freonen wurde op
 d34d5bc2=Fêstmeitsje oan de konsol
 d3525e1f=Serverûnderhâld fan
 d35bfa42=In bynamme kin allinnich oant fiif nûmers befetsje
-d35ee0d2=Spyljend=125eee5f=Spilet dit spul
+d35ee0d2=Oan it spyljen:
 d36aa6ee=Mii aanmaken/bewerken
 d376358e=As jo automatyske reservekopie ynskeakelje, sil bewarber materiaal automatysk reservekopiearre wurde, sels wylst de konsol yn sliepmodus is of nei't de software ôfsluten hat west
 d38e1d72=Formatearje microSD-kaart
@@ -2517,7 +2518,7 @@ dbfdd169=Jo kinne Nintendo Switch brûke om yngame skermfoto’s en video’s te
 dc046ab0=Net mooglik om in video\ncapture te meitsjen
 dc1ce3f7=Jo sille de folgjende dingen nedich hawwe:
 dc3decbb=Details
-dc6b9d46=Website=%s
+dc6b9d46=Website: %s
 dc806daf=Brûkers om in brûker ta te foegjen
 dcbe9f52=5 GHz
 dcc23849=Koppel jo\noan it ynternet
@@ -2809,7 +2810,7 @@ f63bc0d9=Wer ynstelle Posysje
 f641dcde=Wiske Filter
 f660ba49=groepsleden dy't in update nedich hawwe
 f6624c1d=Troch freon koade út te wikselen
-f68667e0=Freon foarstellen foar dit sosjale media-akount sille net langer op jo brûkersside sjen wurde, en jo akount sil net langer as in freonfoarstel foar oare brûkers ferskine
+f68667e0=Freonfoarstellen foar dit sosjale medianetwurk sille net mear sjen wurde op dyn brûkersside, en dyn account sil net mear as freonfoarstel foar oare brûkers sjen wurde
 f6ae83ab=Deze software wurdt no wiske.\nWisket software en ynladbere ynhâld kin opnij helle wurde fan Nintendo eShop
 f6c4e7b6=Snor
 f6fdbe48=Wis
