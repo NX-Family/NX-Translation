@@ -65,6 +65,6 @@ We welcome contributions from the community! If you have translation fixes or ne
 If you'd like to request a new language translation, please open a new issue in the [Issues](https://github.com/NX-Family/NX-Translation/issues) section, providing the following details:
 
 - Language name.
-- Which languages to replace.
+- Which languages to replace. (Games will use that language)
 
 We appreciate your help in making Nintendo Switch firmware translations better for everyone.
