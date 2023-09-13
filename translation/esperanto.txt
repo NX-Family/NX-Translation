@@ -167,7 +167,7 @@
 0ecab8fc=Halifax
 0f217179=Regiono
 0f4f4694=ReSendi
-0f51c234=Honkongo / Tajvano / Sud-Koreio
+0f51c234=Honkongo/Tajvano/Sud-Koreio
 0f7fb939=X Butono
 0f87eeba=Kontroloj sen vibracia trajto ne povas esti serĉitaj per tiu metodo
 0fa260c6=La Patronaj Reguloj-Aplikaĵo ebligas al vi uzi vian cerbon por meti restriktojn. Ĝi estas havebla por senpage elŝuti
@@ -349,7 +349,7 @@
 1f4e743c="Elŝuto Kompletita" Informoj
 1f5a1abf=Kompleta
 1f647f0a=Specialaj Ofertoj
-1f66b2d1=Movi Datumon Inter la Sistemo / la microSD-Karton
+1f66b2d1=Movi Datumon Inter la Sistemo/la microSD-Karton
 1f6bd4c6=Aviadila Reĝimo
 1f6c5e88=Nenegotita
 1fb1ede5=Vi povas ŝanĝi ĉi tiun agordon ajniam irante al la
@@ -547,7 +547,7 @@
 304225af=Ho, sed memorigu fermi la konsolon kiam vi foriĝas aŭ enmetas mikroSD-karton.
 30425ba9=Mi aŭdas, ke vi demandas, "Rapida Agordado? Kio tio estas?" Permesu al mi montri!
 3068406a=Ĉu vi certas ke vi deziras rekomenci la konzolon?
-30704bb9=Ŝanĝi Pozon / Faka Esprimo
+30704bb9=Ŝanĝi Pozon/Faka Esprimo
 30797dda=Amikoj, kiuj komencis ĉi tiun ludon en la lasta monato
 308e401e=Mi havas la aplikaĵon instalitan. Kio estas la sekva paŝo?
 30b7f093=Ĉu la Baterio Ŝargita estas?
@@ -612,7 +612,7 @@
 36f95cfc=Tiu ĉi paĝo ne povas esti montrita
 3712e26e=Nekorekta enigo
 3723fd9e=Vi ne povas aldoni pli da amikoj
-373cfb07=Children\ Gateway\ for\ Rationality/ by\ Computing\ for\ Real\ Beginners (Korea)
+373cfb07=Children\ Gateway\ for\ Rationality/by\ Computing\ for\ Real\ Beginners (Korea)
 37683f01=Tiu ĉi mikroSD-karto estas uzata per alia
 3770d88c=Ĝisdatigado de la sistemo...
 377ad92e=La elŝuto estis nuligita
@@ -769,7 +769,7 @@
 441bda6c=Forigita
 441da1bf=Legosignoj
 4426f7dc=Inputviro estas tro granda
-44313a4c=Enhavo ĝenerale taŭga por aĝoj 17 jaroj kaj pli. Povas enhavi intensan perforton, sangon kaj gorĝon, seksan enhavon kaj / aŭ forta lingvo
+44313a4c=Enhavo ĝenerale taŭga por aĝoj 17 jaroj kaj pli. Povas enhavi intensan perforton, sangon kaj gorĝon, seksan enhavon kaj/aŭ forta lingvo
 446bede0=Senditaj amikpetoj
 446ee9f1=Provu la sekvan: (2)
 4481e332=Malsukcesis restarigi datumojn.\nBonvolu provi denove
@@ -1294,7 +1294,7 @@
 7263ade1=Elektu plej ŝatatan koloron
 726cbb87=Ludoj Kiujn Viaj Amikoj Ludas
 7288026b=Kelkaj kanaloj eble disponeblas nur dum limigita tempo
-729a8731=La programo estos forviŝita por liberi spatmemoron. Vi povas reŝutigi la programon per selektado de la ikono en la HEJMENa Menuo. Restantaj uzanto-datumoj povas esti forviŝitaj ene de Administrado de Savdateno / Scenoj kaj Filmetoj ene de Dato-Administrado
+729a8731=La programo estos forviŝita por liberi spatmemoron. Vi povas reŝutigi la programon per selektado de la ikono en la HEJMENa Menuo. Restantaj uzanto-datumoj povas esti forviŝitaj ene de Administrado de Savdateno/Scenoj kaj Filmetoj ene de Dato-Administrado
 729b0dc8=Malplenigi Agordojn
 72b3c1e2=Nur Lumigilo de Sciigo
 7348d8c8=Vi gajnos poentojn por ĉiuj la programoj inkluditaj en saman ludkarton
@@ -1476,7 +1476,7 @@
 8200cf35=Ricevu averton, kiam iu, kun kiu vi ludas retumorde, komencas voĉa ĉato per la
 8207f1bb=Ne povis konekti
 82121a52=povas esti ludataj en la cela konsolo. Vi povas elŝuti ĉi tiun programaron el Kontinformo en la Nintendo-eŜopo
-822e9228=Forigu Konservitajn Datenojn / Administratoru Bildskrivaĵojn kaj Filmetojn
+822e9228=Forigu Konservitajn Datenojn/Administratoru Bildskrivaĵojn kaj Filmetojn
 823ac0f4=Ĉu vi volas daŭrigi la plenumon de la skripto?
 825d3790=Ĉu vi volas restaŭri la amiibon kun la konservitaj datumoj sur ĉi tiu konsolo?
 825fd02e=Prenoprenbutono
@@ -1686,7 +1686,7 @@
 9283873c=Kapturito farita
 92845ab7=Kune kun via Nintendo-Switch-konzolo, Nintendo sendis iom da aparataro por konekti vian konzolon al televidilo. Jen kiel ĝui ludadon sur la granda ekrano:
 92849bcd=La amikipeto de tiu uzanto estos forviŝota
-92912179=Vi povas administri konservitajn datumojn, prenajn registrojn, kaj videajn registrojn per la menuoj Forviŝi Konservitajn Datumojn / Administri Prenajn Registrojn kaj Videajn Registrojn
+92912179=Vi povas administri konservitajn datumojn, prenajn registrojn, kaj videajn registrojn per la menuoj Forviŝi Konservitajn Datumojn/Administri Prenajn Registrojn kaj Videajn Registrojn
 929b133b=Sistema MAC-adreso
 929fa5ca=Sone mergetante kiam aŭskultiloj estas malebligita
 92bed830=Programtitolo
@@ -1947,7 +1947,7 @@ aa013f67=da libera spaco en la sistemo-memoro de la konzolo.\nBonvolu arĥivi io
 aa034ebb=Ĉiu Nintendo Switch-aplikaĵo havas aĝolimigon
 aa03f6d5=Nur redaktita datumo kaj la ikono de la HEJM-menurubando restos por arĥivita programaro. Vi devos redownloadi la programaron por uzi ĝin denove
 aa2a08d2=Restriktita
-aa317b41=Aŭstralio / Nov-Zelando
+aa317b41=Aŭstralio/Nov-Zelando
 aa3a4dd9=Kunuĝu Nun
 aa568137=avigoj de amik-farigoj ankaŭ estas ebligitaj sur ilia uzantpaĝo
 aa57520d=Redaktu Mii-on
