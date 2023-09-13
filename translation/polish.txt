@@ -928,7 +928,7 @@
 52925a3b=Ten tekst zawiera nieodpowiedni język
 529541bb=Wtorek
 52a0fb20=Informacje o tym, kiedy rozpocząłeś grę i jak długo w nią grałeś będą widoczne dla wybranej grupy użytkowników, jak i dla wszystkich innych użytkowników na tej konsoli. \nTakie informacje mogą również być używane do rekomendacji oprogramowania, w które grałeś, innym osobom
-52ab86a8=godzina
+52ab86a8=god.
 52cd14c7=Wymagane jest członkostwo w Nintendo Switch Online
 52ef041d=Lista zakładek
 52efefea=Inicjalizacja zakończona. \nKonsola zrestartuje się za chwilę
