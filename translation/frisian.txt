@@ -947,7 +947,7 @@
 4fe1e218=Dizze wachtwurd sil elke kear feroarje as jo ferbûn binne
 4fe46de8=Dat sei ik juster. Gelokkich, ik tink in foarbygeande djinn hearde my en hat myn winsk foldien, want Ik fûn de <N10/> Stipe webside!
 4ff62764=Op dit skerm kinne oant fjouwer bestjoerders op 'e nij ferbûn wurde. Wolle jo trochgean?
-500073c3=As jo freonen yn slimme-appen sa as <Q1>Super Mario Run</Q1> ek <NXCQ/> brûke, sillen se hjir as freonen foarsteld wurde
+500073c3=As jo freonen yn slimme-appen sa as <Q1><SMR/></Q1> ek <NXCQ/> brûke, sillen se hjir as freonen foarsteld wurde
 50018e56=Feroarje nei Rjochtsit
 501a6860=Fier de namme fan it netwurk yn
 502733a5=De gebruiker is toegevoegd aan de console
@@ -2160,7 +2160,7 @@ b1bce57b=Langer hoare kin jo gehoar beskadigje
 b1d16c24=Netwurknamme
 b1e0f228=Bereid de brûnkonsole foar om de bewaringsgegevens te ferstjoeren
 b1e5359f=Net no
-b1e6fc93=Freonen fan Super Mario Run en oare apps
+b1e6fc93=Freonen fan <SMR/> en oare apps
 b20b4f43=deis ferlyn
 b2135393=Nei it grutskte fan de side kinne net allinnich alle ynhâld sjen wurde
 b22dee50=De oerdracht fan de bewaringsgegevens is ôfbrocht.

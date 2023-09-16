@@ -947,7 +947,7 @@
 4fe1e218=Aquesta contrasenya canviarà cada cop que et connectis
 4fe46de8=Això és el que deia ahir. Afortunadament, suposo que un geni que passava em va sentir i va concedir el meu desig, perquè vaig trobar el lloc web d'assistència de <N10/>!
 4ff62764=Es poden tornar a connectar fins a quatre controladors en aquesta pantalla. Voleu continuar?
-500073c3=Si algun dels teus amics en aplicacions per a dispositius intel·ligents com <Q1>Super Mario Run</Q1> també fa servir <NXCQ/>, se't suggeriran com a amics aquí
+500073c3=Si algun dels teus amics en aplicacions per a dispositius intel·ligents com <Q1><SMR/></Q1> també fa servir <NXCQ/>, se't suggeriran com a amics aquí
 50018e56=Canvi a l'stick dret
 501a6860=Introduïu el nom de la xarxa
 502733a5=S'ha afegit l'usuari a la consola
@@ -2160,7 +2160,7 @@ b1bce57b=L'audició prolongada i amb un volum elevat pot danyar l'oïda
 b1d16c24=Nom de xarxa
 b1e0f228=Prepara la consola d'origen per enviar les dades desades
 b1e5359f=Ara no
-b1e6fc93=Amics de Super Mario Run i altres aplicacions
+b1e6fc93=Amics de <SMR/> i altres aplicacions
 b20b4f43=fa dies
 b2135393=A causa de la mida de la pàgina, no tot el contingut ha pogut ser
 b22dee50=S'ha cancel·lat la transferència de les dades de la partida guardada

@@ -947,7 +947,7 @@
 4fe1e218=This password will change each time you connect
 4fe46de8=That's what I was saying yesterday. Luckily, I guess a passing genie heard me and granted my wish, because I found the <N10/> Support Website!
 4ff62764=Up to four controllers can be reconnected on this screen. Do you want to continue?
-500073c3=If any of your friends in smart-device apps such as <Q1>Super Mario Run</Q1> also use <NXCQ/>, they will be suggested as friends here
+500073c3=If any of your friends in smart-device apps such as <Q1><SMR/></Q1> also use <NXCQ/>, they will be suggested as friends here
 50018e56=Change to Right Stick
 501a6860=Enter the name of the network
 502733a5=The user has been added to the console
@@ -2160,7 +2160,7 @@ b1bce57b=Extended high-volume listening may damage your hearing
 b1d16c24=Network Name
 b1e0f228=Prepare the source console to send the save data
 b1e5359f=Not Now
-b1e6fc93=Friends from Super Mario Run and other apps
+b1e6fc93=Friends from <SMR/> and other apps
 b20b4f43=days ago
 b2135393=Due to the size of the page, not all content could be
 b22dee50=The save-data transfer has been canceled

@@ -947,7 +947,7 @@
 4fe1e218=Ĉi tiu pasvorto ŝanĝiĝos ĉiufoje, kiam vi konektiĝos
 4fe46de8=Tio estas kion mi diris hieraŭ. Feliĉe, mi supozas, pasanta djenio aŭdis min kaj plenumis mian deziron, ĉar mi trovis la <N10/> Subteno retejon!
 4ff62764=Ĝis kvar kontrloregiloj povas rekonektiĝi sur ĉi tiu ekrano. Ĉu vi volas daŭrigi?
-500073c3=Se iu el viaj amikoj en inteligent-aplikaĵoj kiel <Q1>Super Mario Run</Q1> ankaŭ uzas <NXCQ/>, ili estos proponitaj kiel amikoj tie
+500073c3=Se iu el viaj amikoj en inteligent-aplikaĵoj kiel <Q1><SMR/></Q1> ankaŭ uzas <NXCQ/>, ili estos proponitaj kiel amikoj tie
 50018e56=Ŝanĝi al Dekstra Samtouĉo
 501a6860=Entajpu la nomon de la reto
 502733a5=La uzanto estas aldonita al la konsolo
@@ -2160,7 +2160,7 @@ b1bce57b=Pro longdaŭra aŭskultado kun alta sono, via aŭdado povas damaĝiĝi
 b1d16c24=Nomo de la reto
 b1e0f228=Preparu la fontan konzolon por sendi la konservitajn datumojn
 b1e5359f=Ne nun
-b1e6fc93=Amikoj de Super Mario Run kaj aliaj aplikaĵoj
+b1e6fc93=Amikoj de <SMR/> kaj aliaj aplikaĵoj
 b20b4f43=tagoj pasintaj
 b2135393=Pro la vasteco de la paĝo, ne ĉiuj enhavo povis esti
 b22dee50=La transferto de konservitaj datumoj estas nuligita

@@ -947,7 +947,7 @@
 4fe1e218=Mật khẩu này sẽ thay đổi mỗi lần bạn kết nối
 4fe46de8=Đây là điều tôi đã nói hôm qua. May mắn thay, tôi đoán là một thiên thần hiện hữu đã nghe tôi và ban cho tôi điều ước đó, vì tôi đã tìm thấy Trang web Hỗ trợ <N10/>.
 4ff62764=Có thể kết nối lại tối đa bốn bộ điều khiển trên màn hình này. Bạn có muốn tiếp tục?
-500073c3=Nếu bất kỳ người bạn nào trong ứng dụng trên thiết bị thông minh như <Q1>Super Mario Run</Q1> cũng sử dụng <NXCQ/>, họ sẽ được đề xuất làm bạn tại đây
+500073c3=Nếu bất kỳ người bạn nào trong ứng dụng trên thiết bị thông minh như <Q1><SMR/></Q1> cũng sử dụng <NXCQ/>, họ sẽ được đề xuất làm bạn tại đây
 50018e56=Đổi sang thanh bên phải
 501a6860=Nhập tên mạng
 502733a5=Người dùng đã được thêm vào bảng điều khiển
@@ -2160,7 +2160,7 @@ b1bce57b=Nghe với âm lượng lớn trong thời gian dài có thể làm h�
 b1d16c24=Tên mạng
 b1e0f228=Chuẩn bị bảng điều khiển nguồn để gửi dữ liệu lưu
 b1e5359f=Không phải bây giờ
-b1e6fc93=Những người bạn từ Super Mario Run và các ứng dụng khác
+b1e6fc93=Những người bạn từ <SMR/> và các ứng dụng khác
 b20b4f43=ngày trước
 b2135393=Do kích thước của trang, không phải tất cả nội dung đều có thể
 b22dee50=Việc truyền lưu dữ liệu đã bị hủy

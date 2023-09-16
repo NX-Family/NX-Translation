@@ -947,7 +947,7 @@
 4fe1e218=To hasło będzie się zmieniać za każdym razem, gdy się połączysz
 4fe46de8=To, co mówiłem wczoraj. Na szczęście, wydaje mi się, że przesłuchujący dżin mnie usłyszał i spełnił moje życzenie, ponieważ znalazłem Stronę Pomocy <N10/>
 4ff62764=Na tym ekranie można ponownie podłączyć maksymalnie cztery kontrolery. Czy chcesz kontynuować?
-500073c3=Jeśli którzyś z Twoich przyjaciół w aplikacjach na inteligentne urządzenia, takich jak <Q1>Super Mario Run</Q1> również korzysta z <NXCQ/>, zostaną oni zaproponowani jako przyjaciele tutaj
+500073c3=Jeśli którzyś z Twoich przyjaciół w aplikacjach na inteligentne urządzenia, takich jak <Q1><SMR/></Q1> również korzysta z <NXCQ/>, zostaną oni zaproponowani jako przyjaciele tutaj
 50018e56=Zmień na Prawy Stick
 501a6860=Wprowadź nazwę sieci
 502733a5=Użytkownik został dodany do konsoli
@@ -2160,7 +2160,7 @@ b1bce57b=Długotrwałe słuchanie na wysokiej głośności może uszkodzić słu
 b1d16c24=Nazwa Sieci
 b1e0f228=Przygotuj konsolę źródłową do przesłania danych zapisanych
 b1e5359f=Nie teraz
-b1e6fc93=Znajomi ze gry Super Mario Run i innych aplikacji
+b1e6fc93=Znajomi ze gry <SMR/> i innych aplikacji
 b20b4f43=dni temu
 b2135393=Ze względu na rozmiar strony, nie wszystkie treści mogły zostać
 b22dee50=Przeniesienie danych zapisanych zostało anulowane
