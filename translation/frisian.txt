@@ -1330,7 +1330,7 @@
 6e76541b= toetsenboardegegevens wurde wiskerase
 6e77aadc=Iepenje dy steander, en dan fynsto de lytske gluiper! As jo bang binne dat de bergrûmte foar software en DLC tekoart komt, kinne jo in microSD-kaart keapje
 6e979f42=MB
-6ea90362=Jo kinne de iennige brûker op de konsole net wiskerase. <Q1>Om dizze iene te wiskerase </ Q1>, tafoegje earst in oare brûker ta
+6ea90362=Jo kinne de iennige brûker op de konsole net wiskerase. <Q1>Om dizze iene te wiskerase </Q1>, tafoegje earst in oare brûker ta
 6eef6648=Net ien
 6fbd04b2=Wis taalgerelatearre data, lykas leard tekstfoarsizzingen foar elke brûker
 6fc4403c=Spultsje-kaart befettet
