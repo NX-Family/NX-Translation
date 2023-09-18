@@ -4,6 +4,8 @@ Welcome to the Nintendo Switch Firmware Translation Homebrew repository! This pr
 
 Currently supported languages: Arabic, Catalan, English, Esperanto, Fijian, Frisian, Kazakh, Polish, Ukrainian, Vietnamese
 
+Official Telegram group [t.me/NX_Translation](https://t.me/NX_Translation)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
