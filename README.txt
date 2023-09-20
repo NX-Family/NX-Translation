@@ -1,7 +1,11 @@
 ========================================
 CUSTOM FIRMWARE TRANSLATION INSTALLATION
-          downloaded from               
-  github.com/NX-Family/NX-Translation   
+
+          downloaded from
+  github.com/NX-Family/NX-Translation
+
+           Telegram Group
+        t.me/NX-Translation
 ========================================
 
 Thank you for selecting our NX-Translation pack. This guide will lead you through the process of installing a custom translation for your firmware. Please adhere to the steps below:
@@ -32,6 +36,6 @@ Thank you for selecting our NX-Translation pack. This guide will lead you throug
 
 **NOTE**:
 - Utilize the custom translation at your own risk as we cannot assure full compatibility with all firmware versions or game titles.
-- Submit translation requests and fixes here github.com/NX-Family/NX-Translation
+- Submit translation requests and fixes here github.com/NX-Family/NX-Translation or here t.me/NX-Translation
 
 Thank you for using our NX-Translation pack. Enjoy a personalized firmware experience!
