@@ -92,7 +92,7 @@
 082c53a7=Na kidra
 083f78d3=Na'i vakarau ni gunu e na vula
 084be9d8=Na vinakatona mo ni sogota mai vei iko e na vale
-08a4986b=E vakarautaki e na
+08a4986b=<PRO/> Weyaya Veisautaki
 08aa9452=Sa voliti tale
 08b59f16=Sa vinaka ga ki na <VAL1/> mada nai tovo e wase ni tovorolaba ni yademuni
 08ea889d=E rawa ni veivuetaki na setivatika ni cava e na KILAQ/ADIAG
@@ -125,7 +125,7 @@
 0ad11be4=Badili na tutaki
 0af9e213=Na dau vakarairaitaka ni software oqo e sega ni tu e yaga ena kalawa
 0afdf87d=E sega ni tu e yaga na news ena turtle o Malelewa
-0b17a57d=If you would like to use a <NXC/> Pro Controller that is currently connected to the console via wired communication, you will need to disconnect the USB charging cable and try again
+0b17a57d=If you would like to use a <NXC/> <PRO/> that is currently connected to the console via wired communication, you will need to disconnect the USB charging cable and try again
 0b513669=Na kena me savasava ni volakata na butonu ena oqo tu
 0b916489=Mo qai vakayagataka kei na kaivacu na butuka HOME
 0ba3b12f=E lewa tu na kena lewe ni itaukei ena vakayacora ki na console kadua
@@ -717,7 +717,6 @@
 3c7a008d=Veitabana na i vakatitobu, dodoka ka tu vata ena nai titoko 
 3c7ed3ae=Solovedi au na vuni voli ena kau i nanumi yadua!
 3c83fd0e=Rau tiko ga <HOME/> ka na yaco e dua na skrin me vakararawataki e nomu talei na rauta vuni i vosa.
-3c87d688=Pro Controller
 3c8c0b9c=Ka taleitaka mada
 3ca75822=Shanghai, Hong Kong
 3ca864d6=Dabe tiko me vakayadrati na veitarogi ena rauta taleitou ena consoli tu cake mada
@@ -2325,7 +2324,7 @@ bf58d17e=Nona cakacaka
 bf71c070=Vuravura na matadattaki-sentinesi
 bf71d118=Kabiti mamaca
 bf76ab02=Na veibuli-ui ovisa ni leceni
-bf8ba160=Kevaka sa rawa, na <NXC/> Pro Controller ena bose meca vei na console ni sa vakayaco ena nai bose vonovono kei na ka vauci bose. Na nomu nei vakamataiwili ni Pro Controller ena kana gumatua kei na veivakamaduataki ni Controller e na vakabale taki meca
+bf8ba160=Kevaka sa rawa, na <NXC/> <PRO/> ena bose meca vei na console ni sa vakayaco ena nai bose vonovono kei na ka vauci bose. Na nomu nei vakamataiwili ni <PRO/> ena kana gumatua kei na veivakamaduataki ni Controller e na vakabale taki meca
 bfa8b23e=Dou vakabose e na telefoni vua bake na TV
 bfc6ec6a=Raica, na nomu se bula vakadodonu me na vakatuataki vakadonuma na telefoni kevaka sa tiko tu na TV
 bffac9f2=Vakararavi taki

@@ -92,7 +92,7 @@
 082c53a7=Baterio de la konsolo
 083f78d3=Vi fariĝos ekrankopion kiu konserviĝos en via fotarbloko
 084be9d8=Bonvolu malselekti kelkajn programarojn
-08a4986b=Prokontrolilo Fila Komunikado
+08a4986b=<PRO/> Fila Komunikado
 08aa9452=Sekurkopio
 08b59f16=<VAL1/> aŭ pli da libera spaco en la sistemo-memoro
 08ea889d=Vi povas ŝanĝi agordojn per via sprita aparato
@@ -125,7 +125,7 @@
 0ad11be4=Ŝanĝu Pozicion
 0af9e213=Administri Programaron
 0afdf87d=Tiu novaĵofunkcio nuntempe ne estas havebla en Esperanto
-0b17a57d=Se vi volas uzi <NXC/> Pro-kontrolilon, kiu nun estas konektita al la konsolo per fil-komunikado, vi devos elŝalti la USB-ŝarĝkablon kaj provi denove
+0b17a57d=Se vi volas uzi <NXC/> <PRO/>, kiu nun estas konektita al la konsolo per fil-komunikado, vi devos elŝalti la USB-ŝarĝkablon kaj provi denove
 0b513669=La simbolo por la klavo, kiun vi premas, aperos ĉi tie
 0b916489=Bonvolu daŭrigi la preparojn sur la konsolo el kiu
 0ba3b12f=Kiu uzanto estos translokita al alia konsolo?
@@ -717,7 +717,6 @@
 3c7a008d=Metu la regumilon sur ebenan, stabilan surfacon kun la regumilo direktata supren
 3c7ed3ae=Enŝovitaj novaĵartikoloj estos montrataj ĉi tie
 3c83fd0e=Nur teni <HOME/> kaj aperos ekrano kun multfacilaj trajtoj
-3c87d688=Pro-Regumilo
 3c8c0b9c=Pli Da Informo
 3ca75822=Ŝanhajo, Honkongo
 3ca864d6=Por uzi aliajn kontrolilojn, vi devos rekonekti ilin al la aparateto unuafoje
@@ -2325,7 +2324,7 @@ bf58d17e=Administri
 bf71c070=Sensibileco de tuŝekrano
 bf71d118=Enigu ĉefŝlosilon
 bf76ab02=Kontrakto pri Finuzanto de la Elektita Regiono
-bf8ba160=Se ĉi tiu opcio estas ebligita, la <NXC/> Pro-Regilo komunikados kun la konzolo per kabla komunikado kiam li estas konektita al ĝi per la USB-ŝarga kablo. La NFC-tuŝpunkto sur la Pro-Regilo estos malŝaltita dum la regilo uzas kablan komunikadon
+bf8ba160=Se ĉi tiu opcio estas ebligita, la <NXC/> <PRO/> komunikados kun la konzolo per kabla komunikado kiam li estas konektita al ĝi per la USB-ŝarga kablo. La NFC-tuŝpunkto sur la <PRO/> estos malŝaltita dum la regilo uzas kablan komunikadon
 bfa8b23e=Konekti televidon poste
 bfc6ec6a=Aĥ, vi ne povas agordi la helolumon de la ekrano kiam vi estas konektita al televidilo
 bffac9f2=Agordo finita

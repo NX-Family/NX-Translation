@@ -92,7 +92,7 @@
 082c53a7=Consolebatterij
 083f78d3=Jo sille in skermôfbyld meitsje dat bewarre wurdt yn jo album
 084be9d8=Alstublief, selektearje wat software út
-08a4986b=Pro Controller fia kabel ferbûn
+08a4986b=<PRO/> fia kabel ferbûn
 08aa9452=Reserweskive meitsje
 08b59f16=<VAL1/> of mear frije romte yn it systeemgeheugen
 08ea889d=Jo kinne de ynstellings wizigje mei jo slim apparaat
@@ -125,7 +125,7 @@
 0ad11be4=Feroarje Pose
 0af9e213=Administrer programvare
 0afdf87d=Dizze nijsfunksje is op dit stuit net beskikber yn it Ingelsk
-0b17a57d=As jo in <NXC/> Pro Bestjoerder dy't op dit stuit troch ferbûnen kommunikaasje mei de konsol ferbûn is, brûke wolle, moatte jo de USB-oplaadkabel ûntkoppet wurde en it op 'e nij besykje
+0b17a57d=As jo in <NXC/> <PRO/> brûke wolle dy't op it stuit ferbûn is mei de konsole fia bedrade kommunikaasje, moatte jo de USB-oplaadkabel losmeitsje en it nochris besykje
 0b513669=Het symbool voor de knop die u indrukt verschijnt hier
 0b916489=Alstublief, gean troch mei de foarbereidings op de konsole fanût hwer
 0ba3b12f=Wolke brûker sil oerplaatst wurde nei in oare konsol?
@@ -717,7 +717,6 @@
 3c7a008d=Liz de gamekontroller op in flakke, stabile ûndergrûn mei de stok omheech
 3c7ed3ae=Bookmarke nijsartikels wurde hjir werjûn
 3c83fd0e=Hold simpelwei <HOME/> fêst en der ûntstiet in skerm dat jo maklik tagong jout ta in tal faak brûke funksjes
-3c87d688=Pro Controller
 3c8c0b9c=Mear ynformaasje
 3ca75822=Shanghai, Hong Kong
 3ca864d6=Om oare kontrollers te brûken, moatte jo se earst wer koppelije oan de konsole
@@ -2325,7 +2324,7 @@ bf58d17e=Administrere
 bf71c070=Touch-Screen Sensitivity
 bf71d118=Fier masterkey yn
 bf76ab02=Gebrûkerslisinsje foar einbrûkers
-bf8ba160=As dizze opsjon oansteand is, sil de <NXC/> Pro Bestjoerder mei de konsole kompetearje fia fêstsein kommunikaasje as dy fêstrûn is mei de USB-laadkabel. De NFC-òfstânpunt op de Pro Bestjoerder wurdt ôfslúten wylst de bestjoerder fêstsein kommunikaasje brûkt
+bf8ba160=As dizze opsje ynskeakele is, sil de <NXC/> <PRO/> kommunisearje mei de konsole fia bedrade kommunikaasje as dermei ferbûn is mei de USB-oplaadkabel. It NFC-oanraakpunt op 'e <PRO/> sil útskeakele wurde wylst de controller bedrade kommunikaasje brûkt
 bfa8b23e=Verbinje later mei TV
 bfc6ec6a=Oh, jo kinne net de helderheid fan it skerm oanpasse as jo ferbûn binne mei in TV
 bffac9f2=Setup complete

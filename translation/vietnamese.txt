@@ -92,7 +92,7 @@
 082c53a7=Pin bảng điều khiển
 083f78d3=Bạn sẽ chụp ảnh màn hình được lưu vào album của bạn
 084be9d8=Xin vui lòng bỏ chọn một số phần mềm
-08a4986b=Bộ điều khiển chuyên nghiệp Giao tiếp có dây
+08a4986b=<PRO/> Giao tiếp có dây
 08aa9452=Đang sao lưu
 08b59f16=<VAL1/> hoặc nhiều hơn không gian trống trong bộ nhớ hệ thống
 08ea889d=Bạn có thể thay đổi cài đặt bằng thiết bị thông minh của mình
@@ -125,7 +125,7 @@
 0ad11be4=Thay đổi tư thế
 0af9e213=Quản lý phần mềm
 0afdf87d=Tính năng tin tức này hiện không có sẵn bằng tiếng Anh
-0b17a57d=Nếu bạn muốn sử dụng Bộ điều khiển <NXC/> Pro hiện được kết nối với bảng điều khiển thông qua giao tiếp có dây, bạn sẽ cần ngắt kết nối cáp sạc USB và thử lại
+0b17a57d=Nếu bạn muốn sử dụng <NXC/> <PRO/> hiện được kết nối với bảng điều khiển thông qua giao tiếp có dây, bạn sẽ cần ngắt kết nối cáp sạc USB và thử lại
 0b513669=Biểu tượng cho nút bạn nhấn sẽ xuất hiện ở đây
 0b916489=Hãy tiếp tục chuẩn bị trên bảng điều khiển từ đó
 0ba3b12f=Người dùng nào sẽ được chuyển sang bảng điều khiển khác?
@@ -717,7 +717,6 @@
 3c7a008d=Đặt bộ điều khiển trên bề mặt phẳng, ổn định với Gậy hướng lên trên
 3c7ed3ae=Các bài báo được đánh dấu sẽ được hiển thị ở đây
 3c83fd0e=Hãy giữ <HOME/> và một màn hình sẽ hiển thị cho phép bạn dễ dàng truy cập vào một số tính năng thường xuyên sử dụng
-3c87d688=Bộ điều khiển chuyên nghiệp
 3c8c0b9c=Thông tin thêm
 3ca75822=Thượng Hải, Hồng Kông
 3ca864d6=Để sử dụng các bộ điều khiển khác, bạn cần ghép chúng với máy console lần nữa
@@ -2325,7 +2324,7 @@ bf58d17e=Quản lý
 bf71c070=Độ nhạy của màn hình cảm ứng
 bf71d118=Nhập khóa chính
 bf76ab02=Thỏa thuận cấp phép người dùng cuối
-bf8ba160=Nếu tùy chọn này được bật, Bộ điều khiển <NXC/> Pro sẽ giao tiếp với bảng điều khiển thông qua giao tiếp có dây khi được kết nối với nó bằng cáp sạc USB. Điểm cảm ứng NFC trên Bộ điều khiển Pro sẽ bị tắt khi bộ điều khiển đang sử dụng giao tiếp có dây
+bf8ba160=Nếu tùy chọn này được bật, <NXC/> <PRO/> sẽ giao tiếp với bảng điều khiển thông qua giao tiếp có dây khi được kết nối với nó bằng cáp sạc USB. Điểm cảm ứng NFC trên <PRO/> sẽ bị tắt khi bộ điều khiển đang sử dụng giao tiếp có dây
 bfa8b23e=Kết nối với TV sau
 bfc6ec6a=Ồ, bạn không thể điều chỉnh độ sáng màn hình khi kết nối với TV
 bffac9f2=Thiết lập hoàn tất

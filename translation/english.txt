@@ -92,7 +92,7 @@
 082c53a7=Console battery
 083f78d3=You'll take a screenshot that gets saved to your album
 084be9d8=Please deselect some software
-08a4986b=Pro Controller Wired Communication
+08a4986b=<PRO/> Wired Communication
 08aa9452=Backing up
 08b59f16=<VAL1/> or more of free space in the system memory
 08ea889d=You can change settings using your smart device
@@ -125,7 +125,7 @@
 0ad11be4=Change Pose
 0af9e213=Manage Software
 0afdf87d=This news feature is not currently available in English
-0b17a57d=If you would like to use a <NXC/> Pro Controller that is currently connected to the console via wired communication, you will need to disconnect the USB charging cable and try again
+0b17a57d=If you would like to use a <NXC/> <PRO/> that is currently connected to the console via wired communication, you will need to disconnect the USB charging cable and try again
 0b513669=The symbol for the button you press will appear here
 0b916489=Please continue the preparations on the console from which
 0ba3b12f=Which user will be transferred to another console?
@@ -717,7 +717,6 @@
 3c7a008d=Place the controller on a flat, stable surface with the Stick facing upward
 3c7ed3ae=Bookmarked news articles will be displayed here
 3c83fd0e=Just hold <HOME/> and a screen will pop up that lets you easily get at some frequently used features
-3c87d688=Pro Controller
 3c8c0b9c=More Info
 3ca75822=Shanghai, Hong Kong
 3ca864d6=To use other controllers, you will need to pair them to the console again first
@@ -2325,7 +2324,7 @@ bf58d17e=Manage
 bf71c070=Touch-Screen Sensitivity
 bf71d118=Enter master key
 bf76ab02=End-User License Agreement
-bf8ba160=If this option is enabled, the <NXC/> Pro Controller will communicate with the console via wired communication when connected to it using the USB charging cable. The NFC touchpoint on the Pro Controller will be disabled while the controller is using wired communication
+bf8ba160=If this option is enabled, the <NXC/> <PRO/> will communicate with the console via wired communication when connected to it using the USB charging cable. The NFC touchpoint on the <PRO/> will be disabled while the controller is using wired communication
 bfa8b23e=Connect to TV Later
 bfc6ec6a=Oh, you can't adjust the screen's brightness when you're connected to a TV
 bffac9f2=Setup complete

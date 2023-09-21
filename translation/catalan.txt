@@ -92,7 +92,7 @@
 082c53a7=Bateria de la consola
 083f78d3=Heu de fer una captura de pantalla que es desa a l'àlbum
 084be9d8=Si us plau, deselecciona algun programari
-08a4986b=Comunicació amb cable del controlador Pro
+08a4986b=<PRO/> Comunicació per cable
 08aa9452=S'està creant una còpia de seguretat
 08b59f16=<VAL1/>, o més, d'espai lliure en la memòria del sistema
 08ea889d=Pots canviar la configuració utilitzant el teu dispositiu intel·ligent
@@ -125,7 +125,7 @@
 0ad11be4=Canvi de posa
 0af9e213=Gestiona el programari
 0afdf87d=Aquesta funció de notícies no està disponible actualment en anglès
-0b17a57d=Si voleu utilitzar un controlador Pro de la <NXC/> que actualment estigui connectat a la consola mitjançant comunicació per cable, haureu de desconnectar el cable de càrrega USB i tornar-ho a intentar.
+0b17a57d=Si voleu utilitzar un <NXC/> <PRO/> que actualment està connectat a la consola mitjançant comunicació per cable, haureu de desconnectar el cable de càrrega USB i tornar-ho a provar.
 0b513669=Aquí apareixerà el símbol del botó que premeu
 0b916489=Si us plau, continua les preparacions a la consola des de la qual
 0ba3b12f=Quin usuari vols transferir a una altra consola?
@@ -717,7 +717,6 @@
 3c7a008d=Col·loca el controlador sobre una superfície plana i estable amb el Joystick cap amunt
 3c7ed3ae=Els articles de notícies marcats es mostraran aquí
 3c83fd0e=Nomes cal mantenir premut <HOME/> i apareixerà una pantalla que us permet accedir fàcilment a algunes funcions que s'utilitzen amb freqüència
-3c87d688=Controlador Pro
 3c8c0b9c=Més informació
 3ca75822=Xangai, Hong Kong
 3ca864d6=Per utilitzar altres controls, primer cal sincronitzar-los amb la consola.
@@ -2325,7 +2324,7 @@ bf58d17e=Gestiona
 bf71c070=Sensibilitat de la pantalla tàctil
 bf71d118=Introduïu una clau mestra
 bf76ab02=Llicència d'usuari final
-bf8ba160=Si aquesta opció està activada, el controlador Pro de <NXC/> es comunicarà amb la consola a través de la comunicació per cable quan estigui connectat a aquesta utilitzant el cable de càrrega USB. El punt de contacte NFC del controlador Pro estarà desactivat mentre el controlador utilitzi la comunicació per cable
+bf8ba160=Si aquesta opció està habilitada, el <NXC/> <PRO/> es comunicarà amb la consola mitjançant comunicació per cable quan s'hi connecti mitjançant el cable de càrrega USB. El punt de contacte NFC del <PRO/> es desactivarà mentre el controlador utilitzi la comunicació per cable
 bfa8b23e=Connecta-te'n a la televisió més endavant
 bfc6ec6a=Oh, no pots ajustar la brillantor de la pantalla quan estàs connectat a un televisor
 bffac9f2=Configuració completa

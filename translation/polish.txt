@@ -92,7 +92,7 @@
 082c53a7=Bateria konsoli
 083f78d3=Zrobisz zrzut ekranu, który zostanie zapisany w twoim albumie
 084be9d8=Proszę odznacz niektóre oprogramowanie
-08a4986b=Komunikacja przewodowa kontrolera Pro
+08a4986b=<PRO/> Komunikacja przewodowa
 08aa9452=Tworzenie kopii zapasowej
 08b59f16=<VAL1/> lub więcej wolnego miejsca w pamięci systemowej
 08ea889d=Można zmienić ustawienia za pomocą urządzenia mobilnego
@@ -125,7 +125,7 @@
 0ad11be4=Zmień pozę
 0af9e213=Zarządzaj oprogramowaniem
 0afdf87d=Ten funkcjonalność informacji nie jest obecnie dostępna w języku angielskim
-0b17a57d=Aby użyć kontrolera <NXC/> Pro, który jest obecnie podłączony do konsoli za pomocą komunikacji przewodowej, musisz odłączyć kabel ładowania USB i spróbować ponownie
+0b17a57d=Jeśli chcesz używać <NXC/> <PRO/>, który jest aktualnie podłączony do konsoli za pomocą komunikacji przewodowej, będziesz musiał odłączyć kabel ładujący USB i spróbować ponownie
 0b513669=Tutaj pojawi się symbol przycisku, który naciskasz
 0b916489=Proszę kontynuować przygotowania na konsoli, z której
 0ba3b12f=Który użytkownik zostanie przeniesiony na inną konsolę?
@@ -717,7 +717,6 @@
 3c7a008d=Umieść kontroler na płaskiej, stabilnej powierzchni z drążkiem skierowanym do góry
 3c7ed3ae=Tutaj będą wyświetlane artykuły informacyjne zapisane do ulubionych
 3c83fd0e=Wystarczy przytrzymać <HOME/> i pojawi się ekran, który pozwala łatwo uzyskać dostęp do niektórych często używanych funkcji
-3c87d688=Kontroler Pro
 3c8c0b9c=Dodatkowe informacje
 3ca75822=Shanghai, Hongkong
 3ca864d6=Aby używać innych kontrolerów, musisz najpierw sparować je z konsolą
@@ -2325,7 +2324,7 @@ bf58d17e=Zarządzaj
 bf71c070=Czułość ekranu dotykowego
 bf71d118=Wprowadź klucz główny
 bf76ab02=Umowa licencyjna dla użytkownika końcowego
-bf8ba160=Jeśli ta opcja jest włączona, kontroler <NXC/> Pro będzie komunikować się z konsolą za pomocą połączenia przewodowego, gdy jest podłączony za pomocą kabla ładowania USB. Punkt dotykowy NFC na kontrolerze Pro będzie wyłączony, gdy kontroler jest podłączony przewodowo.
+bf8ba160=Jeśli ta opcja jest włączona, <NXC/> <PRO/> będzie komunikować się z konsolą poprzez komunikację przewodową, jeśli zostanie do niej podłączony za pomocą kabla ładującego USB. Punkt dotykowy NFC w <PRO/> zostanie wyłączony, gdy kontroler będzie korzystał z komunikacji przewodowej
 bfa8b23e=Połącz z telewizorem później
 bfc6ec6a=O, nie możesz dostosować jasności ekranu, gdy jesteś podłączony do telewizora
 bffac9f2=Konfiguracja zakończona
