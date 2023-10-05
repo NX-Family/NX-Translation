@@ -671,7 +671,7 @@
 390ef05b=Vui Lòng Thử Lại Sau
 392848cd=Berlin, Rome, Viên, Zurich
 39328c0e=Đang Xóa Phần Mềm
-3934f69c=Hiệu Chỉnh Joycon / Tay Cầm Pro Controller
+3934f69c=Hiệu Chỉnh Tay Cầm Controller
 395e9769=2 Giờ
 39647e82=Lưu Dữ Liệu Đã Nhận
 3964f628=Quét Mã QR Bằng Camera Trên Điện Thoại Thông Minh Hoặc Thiết Bị Thông Minh Của Bạn
