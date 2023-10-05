@@ -10,8 +10,10 @@ Currently supported languages:
 * Frisian (Frysk)
 * Greek (Ελληνικά)
 * Hebrew (עִברִית)
+* Indonesian (Bahasa Indonesia)
 * Kazakh (Қазақ)
 * Polish (Polski)
+* Thai (แบบไทย)
 * Ukrainian (Українська)
 * Vietnamese (Tiếng Việt)
 
