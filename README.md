@@ -12,6 +12,7 @@ Currently supported languages:
 * Hebrew (עִברִית)
 * Indonesian (Bahasa Indonesia)
 * Kazakh (Қазақ)
+* Lao (ພາສາລາວ)
 * Polish (Polski)
 * Thai (แบบไทย)
 * Ukrainian (Українська)
