@@ -658,7 +658,7 @@
 377ad92e=Việc Tải Xuống Đã Bị Hủy
 37b3d3e5=Xóa Thiết Bị <BT/>?
 37b77f9f=Kênh (Mới Nhất)
-37c486a9=Nếu Bạn Có Dữ Liệu Người Dùng Hiện Có Trên Hệ Thống Khác, Bạn Có Thể Sao Chép Hoặc Chuyển Nó Sang Hệ Thống Này. Nếu Không, Hãy Tạo Người Dùng Mới
+37c486a9=Nếu có dữ liệu người dùng từ hệ thống khác, bạn có thể sao chép hoặc chuyển nó. Nếu không, tạo người dùng mới
 37cfacbc=Sau Đó Sử Dụng Cáp HDMI Để Kết Nối Đế Cắm Với TV
 37d7e6d5=sẽ Phải Chờ Một Lúc Trước Khi Thử Lại
 380fd6b0=Bộ Điều Khiển Rung

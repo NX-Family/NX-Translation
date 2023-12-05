@@ -658,7 +658,7 @@
 377ad92e=La elŝuto estis nuligita
 37b3d3e5=Forigi <BT/> aparaton?
 37b77f9f=Kanaloj (plej novaj)
-37c486a9=Se vi havas jamajn uzantinformojn en alia sistemo, vi povas kopii aŭ transferi ilin al ĉi tiu sistemo. Alie, kreu novan uzanton
+37c486a9=Se havas uzantinformojn en alia sistemo, kopii aŭ transferi ilin ĉi tien. Se ne, kreu novan uzanton
 37cfacbc=Tiam uzIu la HDMI-kablon por konekti la antendon al la televidilo
 37d7e6d5=vi devos atendi iom antaŭ ol provi reentron en ĝin
 380fd6b0=Regilo vibracio

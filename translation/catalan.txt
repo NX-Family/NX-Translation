@@ -658,7 +658,7 @@
 377ad92e=S'ha cancel·lat la descàrrega
 37b3d3e5=¿Esborrar el dispositiu <BT/>?
 37b77f9f=Canals (més nous)
-37c486a9=Si teniu dades d'usuari existents en un altre sistema, podeu copiar-les o transferir-les a aquest sistema. Si no, creeu un nou usuari.
+37c486a9=Si teniu dades d'usuari d'un altre sistema, podeu copiar-les o transferir-les aquí. Si no, creeu un nou usuari.
 37cfacbc=A continuació, feu servir el cable HDMI per connectar la base al televisor
 37d7e6d5=hauràs d'esperar un moment abans de tornar a intentar-ho
 380fd6b0=Vibració del controlador

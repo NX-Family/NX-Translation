@@ -658,7 +658,7 @@
 377ad92e=İndirme iptal edildi
 37b3d3e5=Kaldırmak<BT/> cihaz?
 37b77f9f=Kanallar (en yeni)
-37c486a9=Başka bir sistemde mevcut kullanıcı verileriniz varsa bu sisteme kopyalayabilir veya aktarabilirsiniz. Aksi halde yeni bir kullanıcı oluşturun
+37c486a9=Eğer başka bir sistemde kullanıcı verileriniz varsa, buraya kopyalayın veya aktarın. Yoksa, yeni bir kullanıcı oluşturun
 37cfacbc=Ardından bağlantı istasyonunu TV'ye bağlamak için HDMI kablosunu kullanın
 37d7e6d5=tekrar girmeyi denemeden önce bir süre beklemeniz gerekecek
 380fd6b0=Denetleyici Titreşimi

@@ -658,7 +658,7 @@
 377ad92e=Stahování bylo zrušeno
 37b3d3e5=Odstranit<BT/> přístroj?
 37b77f9f=Kanály (nejnovější)
-37c486a9=Pokud máte existující uživatelská data v jiném systému, můžete je zkopírovat nebo přenést do tohoto systému. V opačném případě vytvořte nového uživatele
+37c486a9=Pokud máte data uživatele z jiného systému, můžete je zkopírovat nebo přenést sem. Jinak vytvořte nového uživatele
 37cfacbc=Poté pomocí kabelu HDMI připojte dokovací stanici k televizoru
 37d7e6d5=bude muset chvíli počkat, než se jej znovu pokusíte zadat
 380fd6b0=Vibrace ovladače

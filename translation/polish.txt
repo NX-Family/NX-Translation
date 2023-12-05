@@ -658,7 +658,7 @@
 377ad92e=Pobieranie zostało anulowane
 37b3d3e5=Usunąć urządzenie <BT/>?
 37b77f9f=Kanały (najnowsze)
-37c486a9=Jeśli masz istniejące dane użytkownika na innym systemie, możesz je skopiować lub przenieść na ten system. W przeciwnym razie utwórz nowego użytkownika
+37c486a9=Jika ada data pengguna dari sistem lain, salin atau transfer ke sini. Jika tidak, buat pengguna baru
 37cfacbc=Następnie użyj kabla HDMI, aby podłączyć stację dokującą do telewizora
 37d7e6d5=będzie musiało trochę poczekać, zanim spróbuje ponownie się zalogować
 380fd6b0=Wibracja kontrolera

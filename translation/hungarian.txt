@@ -658,7 +658,7 @@
 377ad92e=A letöltés megszakadt
 37b3d3e5=Távolítsa el<BT/> eszköz?
 37b77f9f=Csatornák (legújabb)
-37c486a9=Ha egy másik rendszeren már vannak felhasználói adatok, átmásolhatja vagy átviheti őket ebbe a rendszerbe. Ellenkező esetben hozzon létre egy új felhasználót
+37c486a9=Ha más rendszerben vannak felhasználói adatok, átviheti ezeket ide. Ha nincs, hozzon létre új felhasználót
 37cfacbc=Karbantartási módban lehetőség van a konzol inicializálására a mentési adatok vagy felhasználói információk törlése nélkül. Ha inkább ezt szeretné kipróbálni, szakítsa meg az inicializálási folyamatot, és tegye a következőket
 37d7e6d5=Ezután a HDMI-kábellel csatlakoztassa a dokkolót a TV-hez
 380fd6b0=várnia kell egy ideig, mielőtt újra megpróbálná beírni

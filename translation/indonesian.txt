@@ -658,7 +658,7 @@
 377ad92e=Pengunduhan telah dibatalkan
 37b3d3e5=Hapus perangkat <BT/>?
 37b77f9f=Saluran (terbaru)
-37c486a9=Jika Anda memiliki data pengguna yang sudah ada di sistem lain, Anda dapat menyalin atau mentransfernya ke sistem ini. Jika tidak, buat pengguna baru
+37c486a9=Jika ada data pengguna di sistem lain, bisa disalin atau ditransfer ke sini. Jika tidak, buat pengguna baru
 37cfacbc=Lalu gunakan kabel HDMI untuk menghubungkan dok ke TV
 37d7e6d5=harus menunggu sebentar sebelum mencoba memasukinya lagi
 380fd6b0=Getaran Pengontrol
