@@ -17,6 +17,7 @@ Currently supported languages:
 * [Indonesian (Bahasa Indonesia)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_indonesian.zip)
 * [Kazakh (Қазақ)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_kazakh.zip)
 * [Lao (ພາສາລາວ)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_lao.zip)
+* [Lithuanian (Lietuvių)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_lithuanian.zip)
 * [Polish (Polski)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_polish.zip)
 * [Thai (แบบไทย)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_thai.zip)
 * [Turkish (Türkçe)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_turkish.zip)
