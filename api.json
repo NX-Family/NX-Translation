@@ -1,1 +1,866 @@
-{"translation":{"version":"1.13","firmware":"17.0.1","source":"https://github.com/NX-Family/NX-Translation"},"languages":[{"id":"hungarian","name":"Hungarian","name_native":"Magyar","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hungarian.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"esperanto","name":"Esperanto","name_native":"Esperanto","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_esperanto.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"EU","name":"Europe"},"path":"replaces_es-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"US","name":"America"},"path":"replaces_es-US"},{"locale":{"id":"fr","name":"French","name_native":"Français"},"region":{"id":"EU","name":"Europe"},"path":"replaces_fr-EU"},{"locale":{"id":"it","name":"Italian","name_native":"Italiano"},"region":{"id":"EU","name":"Europe"},"path":"replaces_it-EU"},{"locale":{"id":"de","name":"German","name_native":"Deutsch"},"region":{"id":"EU","name":"Europe"},"path":"replaces_de-EU"}]},{"id":"czech","name":"Czech","name_native":"Čeština","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_czech.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"vietnamese","name":"Vietnamese","name_native":"Tiếng Việt","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_vietnamese.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"ru","name":"Russian","name_native":"Русский"},"region":{"id":"EU","name":"Europe"},"path":"replaces_ru-EU"}]},{"id":"croatian","name":"Croatian","name_native":"Hrvatski","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_croatian.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"turkish","name":"Turkish","name_native":"Türkçe","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_turkish.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"hindi","name":"Hindi","name_native":"हिंदी","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hindi.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"indonesian","name":"Indonesian","name_native":"Bahasa Indonesia","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_indonesian.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"arabic","name":"Arabic","name_native":"عربي","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_arabic.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"fr","name":"French","name_native":"Français"},"region":{"id":"EU","name":"Europe"},"path":"replaces_fr-EU"}]},{"id":"polish","name":"Polish","name_native":"Polski","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_polish.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"catalan","name":"Catalan","name_native":"Català","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_catalan.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"EU","name":"Europe"},"path":"replaces_es-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"US","name":"America"},"path":"replaces_es-US"}]},{"id":"fijian","name":"Fijian","name_native":"Vosa Vakaviti","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_fijian.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"EU","name":"Europe"},"path":"replaces_es-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"US","name":"America"},"path":"replaces_es-US"}]},{"id":"hebrew","name":"Hebrew","name_native":"עִברִית","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hebrew.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"EU","name":"Europe"},"path":"replaces_es-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"US","name":"America"},"path":"replaces_es-US"}]},{"id":"kazakh","name":"Kazakh","name_native":"Қазақ","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_kazakh.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"ru","name":"Russian","name_native":"Русский"},"region":{"id":"EU","name":"Europe"},"path":"replaces_ru-EU"}]},{"id":"thai","name":"Thai","name_native":"แบบไทย","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_thai.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"ukrainian","name":"Ukrainian","name_native":"Українська","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_ukrainian.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"ru","name":"Russian","name_native":"Русский"},"region":{"id":"EU","name":"Europe"},"path":"replaces_ru-EU"}]},{"id":"frisian","name":"Frisian","name_native":"Frysk","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_frisian.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]},{"id":"lithuanian","name":"Lithuanian","name_native":"Lietuvių","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_lithuanian.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"ru","name":"Russian","name_native":"Русский"},"region":{"id":"EU","name":"Europe"},"path":"replaces_ru-EU"}]},{"id":"greek","name":"Greek","name_native":"Ελληνικά","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_greek.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"EU","name":"Europe"},"path":"replaces_es-EU"},{"locale":{"id":"es","name":"Spanish","name_native":"Español"},"region":{"id":"US","name":"America"},"path":"replaces_es-US"}]},{"id":"lao","name":"Lao","name_native":"ພາສາລາວ","download_url":"https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_lao.zip","replaces":[{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"US","name":"America"},"path":"replaces_en-US"},{"locale":{"id":"en","name":"English","name_native":"English"},"region":{"id":"EU","name":"Europe"},"path":"replaces_en-EU"}]}]}
+{
+    "format_version": "1.0",
+    "translation": {
+        "version": "1.13",
+        "firmware": "17.0.1",
+        "source": "https://github.com/NX-Family/NX-Translation"
+    },
+    "languages": [
+        {
+            "id": "hungarian",
+            "name": "Hungarian",
+            "name_native": "Magyar",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hungarian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "esperanto",
+            "name": "Esperanto",
+            "name_native": "Esperanto",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_esperanto.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_es-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_es-US"
+                },
+                {
+                    "locale": {
+                        "id": "fr",
+                        "name": "French",
+                        "name_native": "Français"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_fr-EU"
+                },
+                {
+                    "locale": {
+                        "id": "it",
+                        "name": "Italian",
+                        "name_native": "Italiano"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_it-EU"
+                },
+                {
+                    "locale": {
+                        "id": "de",
+                        "name": "German",
+                        "name_native": "Deutsch"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_de-EU"
+                }
+            ]
+        },
+        {
+            "id": "czech",
+            "name": "Czech",
+            "name_native": "Čeština",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_czech.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "vietnamese",
+            "name": "Vietnamese",
+            "name_native": "Tiếng Việt",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_vietnamese.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "ru",
+                        "name": "Russian",
+                        "name_native": "Русский"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_ru-EU"
+                }
+            ]
+        },
+        {
+            "id": "croatian",
+            "name": "Croatian",
+            "name_native": "Hrvatski",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_croatian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "turkish",
+            "name": "Turkish",
+            "name_native": "Türkçe",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_turkish.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "hindi",
+            "name": "Hindi",
+            "name_native": "हिंदी",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hindi.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "indonesian",
+            "name": "Indonesian",
+            "name_native": "Bahasa Indonesia",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_indonesian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "arabic",
+            "name": "Arabic",
+            "name_native": "عربي",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_arabic.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "fr",
+                        "name": "French",
+                        "name_native": "Français"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_fr-EU"
+                }
+            ]
+        },
+        {
+            "id": "polish",
+            "name": "Polish",
+            "name_native": "Polski",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_polish.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "catalan",
+            "name": "Catalan",
+            "name_native": "Català",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_catalan.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_es-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_es-US"
+                }
+            ]
+        },
+        {
+            "id": "fijian",
+            "name": "Fijian",
+            "name_native": "Vosa Vakaviti",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_fijian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_es-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_es-US"
+                }
+            ]
+        },
+        {
+            "id": "hebrew",
+            "name": "Hebrew",
+            "name_native": "עִברִית",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hebrew.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_es-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_es-US"
+                }
+            ]
+        },
+        {
+            "id": "kazakh",
+            "name": "Kazakh",
+            "name_native": "Қазақ",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_kazakh.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "ru",
+                        "name": "Russian",
+                        "name_native": "Русский"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_ru-EU"
+                }
+            ]
+        },
+        {
+            "id": "thai",
+            "name": "Thai",
+            "name_native": "แบบไทย",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_thai.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "ukrainian",
+            "name": "Ukrainian",
+            "name_native": "Українська",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_ukrainian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "ru",
+                        "name": "Russian",
+                        "name_native": "Русский"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_ru-EU"
+                }
+            ]
+        },
+        {
+            "id": "frisian",
+            "name": "Frisian",
+            "name_native": "Frysk",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_frisian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        },
+        {
+            "id": "lithuanian",
+            "name": "Lithuanian",
+            "name_native": "Lietuvių",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_lithuanian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "ru",
+                        "name": "Russian",
+                        "name_native": "Русский"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_ru-EU"
+                }
+            ]
+        },
+        {
+            "id": "greek",
+            "name": "Greek",
+            "name_native": "Ελληνικά",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_greek.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_es-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_es-US"
+                }
+            ]
+        },
+        {
+            "id": "lao",
+            "name": "Lao",
+            "name_native": "ພາສາລາວ",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_lao.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                }
+            ]
+        }
+    ]
+}
