@@ -954,7 +954,7 @@
 502733a5=Kullanıcı konsola eklendi
 50303b06=Kullanıcı Verilerinizi Aktarın
 503f7be6=Bu yalnızca internete kablolu bağlantıyla bağlanıldığında etkili olacaktır.
-505a44fa=Büyük Britanya
+505a44fa=GB
 508d8165=İndirme ilerleme durumu güncellendi
 50a3f38d=Arkadaş olmak
 50cb9f1b=Denetleyiciyle bağlantı kesildi
