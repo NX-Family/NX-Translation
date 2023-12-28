@@ -23,6 +23,66 @@
                         "name": "America"
                     },
                     "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_es-US"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_es-EU"
+                },
+                {
+                    "locale": {
+                        "id": "pt",
+                        "name": "Portuguese",
+                        "name_native": "Português"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_pt-US"
+                },
+                {
+                    "locale": {
+                        "id": "pt",
+                        "name": "Portuguese",
+                        "name_native": "Português"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_pt-EU"
                 }
             ]
         },
@@ -43,6 +103,66 @@
                         "name": "America"
                     },
                     "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_es-US"
+                },
+                {
+                    "locale": {
+                        "id": "es",
+                        "name": "Spanish",
+                        "name_native": "Español"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_es-EU"
+                },
+                {
+                    "locale": {
+                        "id": "fr",
+                        "name": "French",
+                        "name_native": "Français"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_fr-US"
+                },
+                {
+                    "locale": {
+                        "id": "fr",
+                        "name": "French",
+                        "name_native": "Français"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_fr-EU"
                 }
             ]
         }
