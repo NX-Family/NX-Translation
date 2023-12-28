@@ -4,12 +4,14 @@ Welcome to the Nintendo Switch Firmware Translation Homebrew repository! This pr
 
 Currently supported languages:
 * [Arabic (عربي)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_arabic.zip)
+* [Basque (Euskara)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_basque.zip)
 * [Catalan (Català)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_catalan.zip)
 * [Croatian (Hrvatski)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_croatian.zip)
 * [Czech (Čeština)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_czech.zip)
 * [Esperanto (Esperanto)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_esperanto.zip)
 * [Fijian (Vosa Vakaviti)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_fijian.zip)
 * [Frisian (Frysk)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_frisian.zip)
+* [Galician (Galego)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_galician.zip)
 * [Greek (Ελληνικά)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_greek.zip)
 * [Hebrew (עִברִית)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hebrew.zip)
 * [Hindi (हिंदी)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_hindi.zip)
