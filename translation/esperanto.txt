@@ -1332,7 +1332,7 @@
 6e76541b= la klavara datumo de estos forigita
 6e77aadc=Malfermu tiun apogilon, kaj vi trovos la malgrandan spionon! Vi povas aĉeti mikroSD-karton se vi timas pri elĉerpiĝo de memoro spaco por programaro, kaj ekstraj komponaĵoj
 6e979f42=MB
-6ea90362=Vi ne povas forigi la sola uzanton de la konzolo. <Q1>Por forigi </Q1>tiun ĉi, unue aldonu alian uzanton
+6ea90362=Vi ne povas forigi la sola uzanton de la konzolo. <Q1>Por forigi</Q1>tiun ĉi, unue aldonu alian uzanton
 6eef6648=Nenio
 6fbd04b2=Forigi klavararan daton kiel lernita teksto prognozas por ĉiu uzanto
 6fc4403c=Ludadkarto enhavas
@@ -1660,7 +1660,7 @@
 89306906=VR okulvitroj, kaj tiam elektu Fermi
 89560a68=Uzo de aplikaĵoj ekster <NXC/>, kiel ekzemple la <NXC/>-telefona aplikaĵo, ne estos limigita. Se vi volas agordaĵojn sur la aplikaĵo, bonvolu fari tion per via inteligenta aparato
 895702cf=Ajusti Bildo Grandon
-897ccd6d=<NXE/> aĉetoj povas esti limigitaj per <Q1><N10/> Kontaj </Q1>agordoj. Agordu tiujn agordojn per via sprucapabla aparato aŭ komputilo
+897ccd6d=<NXE/> aĉetoj povas esti limigitaj per <Q1><N10/> Kontaj</Q1>agordoj. Agordu tiujn agordojn per via sprucapabla aparato aŭ komputilo
 897e87b5=Ne eblas ricevi novaĵojn nun
 8991fc3d=La inteligenta aplikaĵo de la <NXCQ/> gepatraj regadoj ebligas uzi vian inteligentan aparaton por agordi limigojn. La aplikaĵo estas elŝutebla senpage
 89b86ab0=Lingvo

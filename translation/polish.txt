@@ -639,7 +639,7 @@
 3587f49d=Twe <N3DQ/> znajome <ICONF/> mogą też być Twoimi przyjaciółmi na <NXCQ/>
 3593ccd9=Czw
 35ad0a58=Uszkodzone dane zostaną usunięte
-35be8042=Czy korzystasz z <R/> audio <BT/>?
+35be8042=Czy korzystasz z<R/> audio <BT/>?
 35ccb491=Dostępna jest aktualizacja systemowa. Zaktualizować teraz?
 35d1891d=Do użycia tej karty gry wymagana jest aktualizacja systemowa
 35d3214e=Aby zobaczyć lub dodać znajomych, otwórz swoją stronę użytkownika w lewym górnym rogu menu HOME
@@ -1612,7 +1612,7 @@
 863a690c=Przenoszenie danych zapisanych
 864143c1=Komunikuj się z\xa0inną konsolą, aby przesłać informacje i\xa0dane*zapisane dla danego użytkownika
 8642aa5e=Wysyłanie i\xa0odbieranie wiadomości oraz korzystanie z\xa0funkcji chatu
-864fc56f=Włóż kartę gry lub pobierz oprogramowanie z\xa0<NXE/>
+864fc56f=Włóż kartę gry lub pobierz oprogramowanie z\xa0 <NXE/>
 8650c1e3=Autołączność
 86698e90=Zawsze wyłącz zasilanie przed włożeniem karty microSD.
 866d5d90=Sortuj/filtrowanie

@@ -911,8 +911,8 @@
 4c8aca9f=Na nomu caka ni dausakevaka sa vakadonui
 4c8e3ab8=Ni sa tauri ka tuki rawa na POWER Button ena viva voli na kau ni
 4ca1890b=O sa kunea vakayagataki e dua na punki!
-4ce77420=Na kerei<br/>
-4d1b29c1=Kevaka sa sega ni yaliqai na butoni sa tu cake, tukuna ga na kerekere <BTN16/> sa tu e na Menusala ki na sava ni vale<br/><NXE/>
+4ce77420=Na kerei <br/>
+4d1b29c1=Kevaka sa sega ni yaliqai na butoni sa tu cake, tukuna ga na kerekere <BTN16/> sa tu e na Menusala ki na sava ni vale <br/> <NXE/>
 4d23a022=Vakararawataki yani na AC
 4d3eaf6d=Lesu tale ward na program vakatekivu
 4d480cce=Sa vakararawataki na data solisoli se qori ni update data me na sega ni rawa ni vakatovolei
@@ -1117,7 +1117,7 @@
 5d49a00d=Rawarawa mo qalitavuna cake e dua na ka kece yaga
 5d5b5b50=Na software kece ena yaga mine update cake me taugataka nai versn e dodonu meda vakayoya mai nai voli
 5d90ff01=E vakadonui
-5d9fdca0=Keimami na mudu tiko na lewa naki vata kei na vakabulai i vakaraitaka, keimami na biuta tani mai na ki tegu na data vuravura ni mokasi sa na vakatikori na nodra itumutumu mai nai karua e vuna naki, kei na nodra volivoli sa na itukutuku saraga tiko e dau<br/><Q1><N10/> Account</Q1>na keimami na vunauca, kei na macawa ni tikotikoga keitou sa volita nomu qarauni vuni
+5d9fdca0=Keimami na mudu tiko na lewa naki vata kei na vakabulai i vakaraitaka, keimami na biuta tani mai na ki tegu na data vuravura ni mokasi sa na vakatikori na nodra itumutumu mai nai karua e vuna naki, kei na nodra volivoli sa na itukutuku saraga tiko e dau <br/> <Q1><N10/> Account</Q1>na keimami na vunauca, kei na macawa ni tikotikoga keitou sa volita nomu qarauni vuni
 5da96ea2=Sai koya talega sa sega ni kunea na nodra takanimacawa ko na marautaki na <AMI/>
 5db907b1=Na TV yacamu sega ni tukuna kina ka sa bwata tu.
 5dd51552=Vakayavuna e na internet ni kena
@@ -1193,7 +1193,7 @@
 62847419=Mo qai vakarautaki me displaya nomui itukutuku ni vaivai ka witi ena talei levu
 62946a20=Sa vakakina oso e na kenai vakatawa mai na interneti nai updeti ni kalisi
 6298be07=Na sorovaki oqo, (<BT/>) ni veituberi e sega ni rawa ni bokoci e na gauna e bokoci kina na console ki na loloma
-62abd430=a vakadrogodro ena<br/><BTN17/>qori ko
+62abd430=a vakadrogodro ena <br/> <BTN17/>qori ko
 62bac2a9=Na kena vakayaduna ni tini 
 62be7f51=Na mata-i-WIlkes
 62c2e348=Na vakayaduna ni digitaka sa oti tiko talega
@@ -1492,7 +1492,7 @@
 7b211c47=Veikalakala na vosa vakavutuniyautaki ni kena yadrena
 7b4bff84=Veivakakina ka tarai kina na <MI/> oqo
 7b7bade1=Ko ia na nomu rawa me vvakakina na kena vakayavalataki ni data ni caka ivalavala voli e na mataqali
-7b7fa750=Tokoni ga mai na <AMI/> me yacova nai qara ni volai vei iko na tavini.<Q1> svudatu.</Q1>
+7b7fa750=Tokoni ga mai na <AMI/> me yacova nai qara ni volai vei iko na tavini.<Q1>svudatu.</Q1>
 7b938e60=Ke sega ni vakaduarata na <NXC/> iko ka sa yaco sara na vakarau ka sega ni vakaraitaka na itukutuku ni maroroi, veivutuni ni biuta tani na itukutuku digitaka mai na telefoni iqori
 7b9ae785=Vakavuna na Konisoli/Sistemaa
 7bc1657d=Papuwa
@@ -1508,7 +1508,7 @@
 7cd635ed=Eso na programi na sega ni vakatuburi na tamata tani
 7ce5cba1=Na konisoli ni <NXC/> ko sa vakatubura vakadoudou ka sega ni vobo niuta?
 7ce86aad=Me vakavagakakina e nai yaloyalo, ko rawa me yaco duadua vakadina na yaco e waraka na cakacaka e dua tani dina e tiko vakavolivoliti, eso na ulukau ka sega ni sivia e lauta
-7d22fedb=Etonai duaduaga na kena turuki na audio kei na noda.<br/><BT/>me kita
+7d22fedb=Etonai duaduaga na kena turuki na audio kei na noda.<br/> <BT/>me kita
 7d472841=Na lailai na i voliyaya me vacanicini na i cakacaka
 7d573b59=Ni sa yacovi na i kabani ena i bukini baba waqa
 7d5b680b=Sa mai bau na dokai kina
@@ -1660,7 +1660,7 @@
 89306906=Na VR mata ni sarotia, ka na rairai Oti
 89560a68=Ni sa vakayagataka nai veitaba ni weba mai nai karua ni <NXC/>, me vaka na smartfon apliketi ni <NXC/>. Kevaka ko via vakayagataka na veitaba ni app, vakayalia e na nomu lagilagi cakacaka
 895702cf=Vakarautaka na rairai volasila
-897ccd6d=<NXE/> nakabeqa rawa ga me kevesi e na kena caka vinaka ki na <Q1><N10/> Account </Q1>vakayacamuitaki. Vakaotia na veika oqo e na nomu smart laisalo mo PC
+897ccd6d=<NXE/> nakabeqa rawa ga me kevesi e na kena caka vinaka ki na <Q1><N10/> Account</Q1>vakayacamuitaki. Vakaotia na veika oqo e na nomu smart laisalo mo PC
 897e87b5=Ni rawata na vuli ena gauna.
 8991fc3d=Na <NXCQ/> i Volavola me vakavakadei tiko na ituvatuva kakua ni Vakasaula, sa tiko mai na yo-yo. Me rawata mai na vakarauti mada nai yali, o mo sa qisi kina na ituvatuva kei na digitali
 89b86ab0=Vosavosa
@@ -2048,7 +2048,7 @@ a88ad90e=<NXC/> Dock
 a8abe4ad=Me vakadeitaka tani na nomuni data vakaqaqara, digitaki <Q1><ICONSS/> (Na yavu-ni-sokoni)</Q1> ⇒ <Q1>Data Management</Q1> e na loma ni <Q1>HOME Menu</Q1>
 a8ae8a15=Me vakayadra ga vata na console, mo cloud yani nai vutugunu, vakaoleiiraki kina na hardware, me se sapera.
 a8d51beb=Nai digitali yavu tolu yokoya
-a8e6a787=Vakayagataka nai vakadina kei na veitokoni<MI/>
+a8e6a787=Vakayagataka nai vakadina kei na veitokoni <MI/>
 a8f70e5d=<AMI/> Ni Yacova
 a90c5ef0=Vakavakadei me lewa kena rawa, omalua klik ka vauca nisitoa na cila
 a919d041=Kbps

@@ -1332,7 +1332,7 @@
 6e76541b='s keyboard data will be deleted
 6e77aadc=Open that stand, and you'll find the little sneak! You can buy a microSD card if you're worried about running out of storage space for software and DLC and stuff
 6e979f42=MB
-6ea90362=You cannot delete the only user on the console. <Q1>To delete </Q1>this one, add another user first
+6ea90362=You cannot delete the only user on the console. <Q1>To delete</Q1>this one, add another user first
 6eef6648=None
 6fbd04b2=Delete keyboard-related data such as learned text predictions for each user
 6fc4403c=Game card contains
@@ -1660,7 +1660,7 @@
 89306906=VR goggles, and then select Close
 89560a68=Use of applications operating outside of <NXC/>, such as the <NXC/> Online smartphone app, will not be restricted. If you would like to set restrictions on the app, please do so using your smart device
 895702cf=Adjust Screen Size
-897ccd6d=<NXE/> purchases can be restricted from <Q1><N10/> Account </Q1>settings. Configure these settings using your smart device or PC
+897ccd6d=<NXE/> purchases can be restricted from <Q1><N10/> Account</Q1>settings. Configure these settings using your smart device or PC
 897e87b5=Cannot receive news at this time
 8991fc3d=The <NXCQ/> Parental Controls app enables you to use your smart device to set restrictions. It is available for download free of charge
 89b86ab0=Language

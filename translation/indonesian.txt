@@ -875,7 +875,7 @@
 49fe07b0=diam. Sekarang akan masuk ke mode tidur
 4a3f990f=Anda dapat melanjutkan permainan Anda di konsol target
 4a697850=Apakah Anda ingin menghapus data simpanan cadangan?
-4a895fad=Untuk informasi lebih lanjut tentang peringkat usia khusus dari setiap organisasi peringkat perangkat lunak, kunjungi situs web Dukungan<N10/>
+4a895fad=Untuk informasi lebih lanjut tentang peringkat usia khusus dari setiap organisasi peringkat perangkat lunak, kunjungi situs web Dukungan <N10/>
 4a94017c=Untuk informasi lebih lanjut tentang cara menggunakan <NXCQ/>dan fitur-fiturnya, silakan lihat situs web Dukungan <N10/> pada perangkat pintar atau PC Anda
 4aa81251=Menunggu pengguna lain
 4aa993b9=Sambungkan ke Internet dan periksa statusnya
@@ -1332,7 +1332,7 @@
 6e76541b= data keyboard milik 's akan dihapus
 6e77aadc=Buka stand itu, dan kamu akan menemukan kejutan kecil! Kamu dapat membeli kartu microSD jika khawatir kehabisan ruang penyimpanan untuk perangkat lunak dan DLC dan sebagainya
 6e979f42=MB
-6ea90362=Anda tidak dapat menghapus satu-satunya pengguna di konsol ini. <Q1>Untuk menghapus </Q1>yang satu ini, tambahkan pengguna lain terlebih dahulu
+6ea90362=Anda tidak dapat menghapus satu-satunya pengguna di konsol ini. <Q1>Untuk menghapus</Q1>yang satu ini, tambahkan pengguna lain terlebih dahulu
 6eef6648=Tidak ada
 6fbd04b2=Hapus data terkait keyboard seperti prediksi teks yang dipelajari untuk setiap pengguna
 6fc4403c=Kartu game berisi

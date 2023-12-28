@@ -807,7 +807,7 @@
 441da1bf=Đánh Dấu
 4426f7dc=Giá Trị Đầu Vào Quá Lớn
 44313a4c=Nội Dung Nhìn Chung Phù Hợp Với Lứa Tuổi Từ 17 Trở Lên. Có Thể Chứa Bạo Lực Dữ Dội, Máu Me, Nội Dung Tình Dục Và/hoặc Ngôn Ngữ Thô Tục
-443a9e0a=Bạn Có Thể Thay Đổi Cài Đặt Này Bất Kỳ Lúc Nào Bằng Cách Vào <Q1> Màn Hình HOME </Q1> Và Chọn <Q1><ICONSS/> (Cài Đặt Hệ Thống)</Q1> ⇒ Hệ Thống
+443a9e0a=Bạn Có Thể Thay Đổi Cài Đặt Này Bất Kỳ Lúc Nào Bằng Cách Vào <Q1>Màn Hình HOME</Q1> Và Chọn <Q1><ICONSS/> (Cài Đặt Hệ Thống)</Q1> ⇒ Hệ Thống
 4465de16=Trước Khi Tạo Hoặc Chỉnh Sửa Video, Vui Lòng Làm Chỗ Trống
 446bede0=Đã Gửi Yêu Cầu Kết Bạn
 446ee9f1=Hãy Thử Cách Sau: (2)
@@ -1332,7 +1332,7 @@
 6e76541b= Dữ Liệu Bàn Phím Của Bạn Sẽ Bị Xóa
 6e77aadc=Mở Cái Giá Đó Ra Và Bạn Sẽ Tìm Thấy Cái Lén Lút Nhỏ! Bạn Có Thể Mua Thẻ Nhớ MicroSD Nếu Lo Lắng Về Việc Hết Dung Lượng Lưu Trữ Cho Phần Mềm, DLC Và Nội Dung Khác
 6e979f42=MB
-6ea90362=Bạn Không Thể Xóa Người Dùng Duy Nhất Trên Switch. <Q1>Để Xóa </Q1>người Dùng Này, Hãy Thêm Một Người Dùng Khác Trước
+6ea90362=Bạn Không Thể Xóa Người Dùng Duy Nhất Trên Switch. <Q1>Để Xóa</Q1>người Dùng Này, Hãy Thêm Một Người Dùng Khác Trước
 6eef6648=Không Có
 6fbd04b2=Xóa Dữ Liệu Liên Quan Đến Bàn Phím Như Dự Đoán Văn Bản Đã Học Cho Mỗi Người Dùng
 6fc4403c=Thẻ Trò Chơi Chứa

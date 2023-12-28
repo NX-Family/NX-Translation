@@ -677,7 +677,7 @@
 395e9769=2 oere
 39647e82=Databewarjen ûntfongen
 3964f628=Skan de QR-koad mei de kamera op dyn smartphone of smartsysteem
-39708533=Hold de <AMI/> fêst oant it proses ôf <Q1> klaar is.</Q1>
+39708533=Hold de <AMI/> fêst oant it proses ôf <Q1>klaar is.</Q1>
 3984ecad=Databewarje kin allinnich ferpleatst wurde tusken brûkers dy't ferkoppele binne oan itselde <N10/>-account
 3985a7ce=Tbilisi
 39a86655=Net ynfâld
@@ -1332,7 +1332,7 @@
 6e76541b= toetsenboardegegevens wurde wiskerase
 6e77aadc=Iepenje dy steander, en dan fynsto de lytske gluiper! As jo bang binne dat de bergrûmte foar software en DLC tekoart komt, kinne jo in microSD-kaart keapje
 6e979f42=MB
-6ea90362=Jo kinne de iennige brûker op de konsole net wiskerase. <Q1>Om dizze iene te wiskerase </Q1>, tafoegje earst in oare brûker ta
+6ea90362=Jo kinne de iennige brûker op de konsole net wiskerase. <Q1>Om dizze iene te wiskerase</Q1>, tafoegje earst in oare brûker ta
 6eef6648=Net ien
 6fbd04b2=Wis taalgerelatearre data, lykas leard tekstfoarsizzingen foar elke brûker
 6fc4403c=Spultsje-kaart befettet
@@ -1660,7 +1660,7 @@
 89306906=VR goggles, en selektearje dan Slute
 89560a68=De tastimming fan applikaasjes dy't bûten de <NXC/> draait, lykas de <NXC/> Online smartphone app, wurdt net beheind. As jo beheinings op de app ynstelle wolle, doch dat dan op jo smartphone
 895702cf=Skermgrutte Oanpasse
-897ccd6d=<NXE/> oankopen kinne begrenze wurde troch de <Q1><N10/> Account </Q1>-ynstellings. Stel dizze ynstellings yn mei jo slim apparaat of PC
+897ccd6d=<NXE/> oankopen kinne begrenze wurde troch de <Q1><N10/> Account</Q1>-ynstellings. Stel dizze ynstellings yn mei jo slim apparaat of PC
 897e87b5=Op dit momint kin gjin nijs ûntfonge wurde
 8991fc3d=De <NXCQ/> Alderkontrôles-app meitsje it mooglik foar jo om beheinings yn te stelle mei jo slim apparaat. De app is fergees te downloaden
 89b86ab0=Språk
