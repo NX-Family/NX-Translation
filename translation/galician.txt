@@ -658,7 +658,7 @@
 377ad92e=Cancelouse a descarga
 37b3d3e5=Quitar <BT/> dispositivo?
 37b77f9f=Canles (máis recentes)
-37c486a9=Se tes datos de usuario existentes noutro sistema, podes copialos ou transferilos a este. En caso contrario, crea un novo usuario
+37c486a9=Se tes datos de usuario noutro sistema, cópiaos ou transfire a este. Senón, crea un novo.
 37cfacbc=A continuación, use o cable HDMI para conectar a base á TV
 37d7e6d5=terá que esperar un tempo antes de tentar ingresalo de novo
 380fd6b0=Vibración do controlador
@@ -2416,7 +2416,7 @@ c7bef7c7=Podes volver ligar a túa conta desde Suxestións de amigos na túa pá
 c7cf2c98=Preparación de software
 c7d05aec=Outros usuarios invitados
 c7d1aba6=A memoria do sistema pode albergar ata 1.000 capturas de pantalla, mentres que a tarxeta microSD pode albergar ata 10.000.
-c7dfb6f1=En pausa
+c7dfb6f1=Paus
 c7f73bb5=Configuración
 c81f1ead=Ah, pero asegúrate de apagar a consola cando retires ou insiras unha tarxeta microSD
 c82a092d=Non se puido atopar ningunha canle seguida que coincida coa palabra clave introducida

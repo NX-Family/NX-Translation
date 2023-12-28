@@ -658,7 +658,7 @@
 377ad92e=Deskarga bertan behera utzi da
 37b3d3e5=Kendu <BT/> gailua?
 37b77f9f=Kanalak (berrienak)
-37c486a9=Beste sistema batean erabiltzaile-datuak badituzu, sistema honetara kopiatu edo transferitu ditzakezu. Bestela, sortu erabiltzaile berri bat
+37c486a9=Sistema batean datuak badituzu, hemen kopiatu. Bestela, erabiltzaile berri bat sortu.
 37cfacbc=Ondoren, erabili HDMI kablea dock-a telebistara konektatzeko
 37d7e6d5=pixka bat itxaron beharko du berriro sartzen saiatu aurretik
 380fd6b0=Kontrolagailuaren bibrazioa
@@ -2416,7 +2416,7 @@ c7bef7c7=Zure kontua berriro lotu dezakezu Lagunen Iradokizunak zure erabiltzail
 c7cf2c98=Softwarea prestatzea
 c7d05aec=Gonbidatutako beste erabiltzaile batzuk
 c7d1aba6=Sistemaren memoriak 1.000 pantaila-argazki eduki ditzake, eta microSD txartelak, berriz, 10.000.
-c7dfb6f1=Pausatuta
+c7dfb6f1=Pausa
 c7f73bb5=Ezarpenak
 c81f1ead=Oh, baina ziurtatu kontsola itzaltzen duzula microSD txartela kentzen edo sartzen duzunean
 c82a092d=Ezin izan da sartutako gako-hitzarekin bat datorren jarraitutako kanalik aurkitu
