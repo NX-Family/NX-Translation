@@ -9,6 +9,7 @@ Currently supported languages:
 * [Croatian (Hrvatski)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_croatian.zip)
 * [Czech (Čeština)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_czech.zip)
 * [Esperanto (Esperanto)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_esperanto.zip)
+* [Estonian (Eesti keel)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_estonian.zip)
 * [Fijian (Vosa Vakaviti)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_fijian.zip)
 * [Frisian (Frysk)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_frisian.zip)
 * [Galician (Galego)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_galician.zip)
