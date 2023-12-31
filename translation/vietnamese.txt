@@ -5,7 +5,7 @@
 002261a4=Thông Tin Này Sẽ Được Sử Dụng Cho Mục Đích Khắc Phục Sự Cố
 00344553=sẽ Được Chuyển
 004fa893=Để Ngắt Kết Nối Bộ Điều Khiển Không Mong Muốn, Nhấn Nhanh Nút SYNC Của Nó
-0055b405=Để Thực Hiện Cập Nhật Hệ Thống, Hãy Chọn <ICONSS/>(Cài Đặt Hệ Thống) ⇒ Hệ Thống Trên Màn Hình HOME
+0055b405=Để Thực Hiện Cập Nhật Hệ Thống, Hãy Chọn <ICONSS/> (Cài Đặt Hệ Thống) ⇒ Hệ Thống Trên Màn Hình HOME
 00620065=Người Dùng Đã Di Chuyển Và Dữ Liệu Lưu Sẽ Bị Xóa Khỏi Bộ Điều Khiển Nguồn
 0072e37f=Tiếp Tục Chỉnh Sửa?
 007478f1=Cần Phải Cập Nhật Hệ Thống

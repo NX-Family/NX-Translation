@@ -5,7 +5,7 @@
 002261a4=This information will be used for troubleshooting purposes
 00344553=will be transferred
 004fa893=To disconnect an unwanted controller, press its SYNC Button briefly
-0055b405=To perform a system update, select <ICONSS/>(System Settings) ⇒ System on the HOME Menu
+0055b405=To perform a system update, select <ICONSS/> (System Settings) ⇒ System on the HOME Menu
 00620065=The transferred user and save data will be deleted from the source console
 0072e37f=Continue editing?
 007478f1=A system update is required

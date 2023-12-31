@@ -5,7 +5,7 @@
 002261a4=Aquesta informació s'utilitzarà amb fins de resolució de problemes
 00344553=serà transferit
 004fa893=Per desconnectar un controlador no desitjat, prem el seu botó SYNC breument
-0055b405=Per realitzar una actualització del sistema, seleccioneu <ICONSS/>(Configuració del sistema) ⇒ Sistema al menú INICI
+0055b405=Per realitzar una actualització del sistema, seleccioneu <ICONSS/> (Configuració del sistema) ⇒ Sistema al menú INICI
 00620065=L'usuari i les dades de desament transferides es suprimiran de la consola d'origen
 0072e37f=Voleu continuar editant?
 007478f1=Cal una actualització del sistema
@@ -116,7 +116,7 @@
 0a44ac7f=Actualitzeu el sistema per utilitzar aquesta targeta SD
 0a452a1d=Utilitza sense reiniciar
 0a4def3e=Les dades de desament suprimides no es poden recuperar
-0a7c4829=Per a formatejar-la més endavant, aneu al menú INICI i seleccioneu <ICONSS/>(Configuració del sistema) ⇒ Sistema ⇒ Opcions de format
+0a7c4829=Per a formatejar-la més endavant, aneu al menú INICI i seleccioneu <ICONSS/> (Configuració del sistema) ⇒ Sistema ⇒ Opcions de format
 0a973287=Per obtenir més informació sobre aquest software, visiteu <NXEQ/> des del <Q1>menú INICI</Q1>
 0a9ffbca=La funcionalitat NFC no es pot utilitzar quan un controlador utilitza comunicació amb fil
 0aadc72d=Aquesta alarma s'esborrarà
@@ -136,7 +136,7 @@
 0c4a3c35=El formatatge suprimirà totes les dades de la targeta microSD
 0c4b0a19=S'han reflectit les configuracions
 0c95dc61=PM
-0c9828d5=No es pot actualitzar el sistema durant la configuració inicial. Si us plau, aneu al menú INICI i seleccioneu <ICONSS/>(Configuració del sistema) ⇒ Sistema per realitzar una actualització del sistema més tard
+0c9828d5=No es pot actualitzar el sistema durant la configuració inicial. Si us plau, aneu al menú INICI i seleccioneu <ICONSS/> (Configuració del sistema) ⇒ Sistema per realitzar una actualització del sistema més tard
 0ca5f662=Cal una subscripció al servei <NXC/> Online per jugar en línia a la consola <NXC/>, alguns programari quedaran exclosos
 0cb925c1=Els usuaris addicionals es poden afegir si aquesta consola és utilitzada per més d'una persona
 0cc9732f=Per alliberar prou espai, també haureu d'arxivar el software per al qual s'ha habilitat la prevenció de l'arxivament automàtic
@@ -171,10 +171,10 @@
 0f7fb939=Botó X
 0f87eeba=Els controladors que no tenen característica de vibració no es poden cercar utilitzant aquest mètode
 0f97ab77=del controlador i
-0f9ac468=De pressa, premeu <CAPT/>(aquest és el botó de captura)!
+0f9ac468=De pressa, premeu <CAPT/> (aquest és el botó de captura)!
 0fd0df12=Només es poden seleccionar certs usuaris
 0fe00287=Aquest compte de xarxes socials no es desvincularà d'altres funcionalitats, incloent l'enviament de captures de pantalla i vídeos
-1008d8e7=Podeu canviar la configuració d'aquest canal tornant al menú INICI i seleccionant <ICONSS/>(Configuració del sistema) ⇒ Sistema
+1008d8e7=Podeu canviar la configuració d'aquest canal tornant al menú INICI i seleccionant <ICONSS/> (Configuració del sistema) ⇒ Sistema
 101b38c2=Per a les targetes de joc que continguin diversos títols de programari, es guanyaran tots els punts disponibles alhora. No cal guanyar punts per a cada títol de programari per separat
 10294c9a=Té tota mena d'informació superdetallada sobre com utilitzar la consola, a més de les últimes novetats sobre les actualitzacions del sistema i les noves funcions! Simplement introduïu l'URL al vostre PC o dispositiu intel·ligent si teniu alguna pregunta. Feu-li una ullada!
 103e20d3=Tanca el programari quedat en suspens, i a continuació selecciona
@@ -294,7 +294,7 @@
 1a85f3cd= les identificacions i les contrasenyes desades, les galetes, el historial i altres dades en memòria cau del lloc web s'eliminaran
 1a8c7c49=Tens l'aplicació <NXCTQ/> Controls Parentals?
 1a9fa6b0=Desbloquejat
-1aa1dd21=Llista de <MI/>s
+1aa1dd21=Llista de <MI/> s
 1ac7330a=S'ha eliminat la dada desada amb èxit
 1ae96cf3=Si algun dels teus amics <WUQ/> <ICONF/> també utilitza <NXCQ/>, se't sugerirà aquí.
 1af32fee=Hi ha dades de desat de còpia de seguretat emmagatzemandes a través del servei de núvols de dades desades
@@ -788,7 +788,7 @@
 4265d565=No informis
 426bdeae=Introduïu el DNS secundari
 4276e6ab=Sense dades
-427995b4=<MI/>s enviats
+427995b4=<MI/> s enviats
 42a8f651=Èxit
 42b6eb05=Bateria de la consola baixa
 42c9959c=Abandoneu el grup
@@ -1206,7 +1206,7 @@
 63522e19=Què passa si desvinculo el meu compte?
 63698a91=dies, <BNL/>
 63a88711=El sobrenom ??? es pot canviar a la pàgina d'usuari del jugador
-63bef77f=Registreu-vos a l'aplicació <NXCQ/>Controls Parentals
+63bef77f=Registreu-vos a l'aplicació <NXCQ/> Controls Parentals
 63c52ce9=Des d'aquí, també pots optar per enllaçar l'app per a dispositius mòbils dels controls parentals de la <NXC/>
 63c5c964=Emissor de certificat
 63fe8b9c=No tens espai per a més personatges <MI/>.
@@ -1294,7 +1294,7 @@
 6b4f6c11=Configuració personalitzada
 6b52e0a3=Carrega la consola
 6b782d41=Dc
-6b84a1b6=<MI/>s rebuts
+6b84a1b6=<MI/> s rebuts
 6b86b177=10 min
 6ba245a3=Aquest programari s'eliminarà ara
 6bf11c89=Pots enllaçar un compte de <N10/> des de la teva pàgina d'usuari.
@@ -2827,7 +2827,7 @@ ed630d6a=Ajusta els comandaments <JC/> a la consola
 ed79df6a=Selecciona una nova assignació per
 edbf8821=Sol·licitud d'amistat rebuda
 edd8a62e=Qui fa aquesta compra?
-ede74eb2=No s'han trobat personatges <MI/>s
+ede74eb2=No s'han trobat personatges <MI/> s
 ede7e520=Comprovant si el software es pot jugar
 edf9a5f0=El destí de la còpia està ple
 ee5fcda5=Kabul

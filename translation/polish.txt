@@ -529,7 +529,7 @@
 2cb741f9=Wystąpił błąd pobierania
 2cbcbafb=Aktualizuj system
 2cc75656=Nie możesz grać w to oprogramowanie
-2ccf5b83=Tego nie można skalibrować podczas trzymania kontrolera <JC/>a w poziomie
+2ccf5b83=Tego nie można skalibrować podczas trzymania kontrolera <JC/> a w poziomie
 2cda36c9=Usuwanie
 2d2cb022=Prędkość
 2d414ca6=Uniemożliwia aktywowanie automatycznego uśpienia podczas odtwarzania treści multimedialnych
@@ -844,7 +844,7 @@
 47824bc8=Jeśli podasz niepoprawny kod PIN
 4785c5c5=Niewystarczająca ilość miejsca
 47a3d700=Ustawienia alarmu
-47b2abbd=Podczas korzystania z dokowania <NXC/>a, upewnij się, że zasilacz sieciowy jest podłączony, w przeciwnym razie obraz nie będzie wyświetlany na telewizorze
+47b2abbd=Podczas korzystania z dokowania <NXC/> a, upewnij się, że zasilacz sieciowy jest podłączony, w przeciwnym razie obraz nie będzie wyświetlany na telewizorze
 47bcce9d=Obecne ustawienia ograniczają
 47c77b61=PIN został zmieniony
 47cede4a=Transferowanie informacji o użytkowniku i danych zapisu dla
