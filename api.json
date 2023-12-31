@@ -39,6 +39,50 @@
             ]
         },
         {
+            "id": "latvian",
+            "name": "Latvian",
+            "name_native": "Latviski",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_latvian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
+                },
+                {
+                    "locale": {
+                        "id": "ru",
+                        "name": "Russian",
+                        "name_native": "Русский"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_ru-EU"
+                }
+            ]
+        },
+        {
             "id": "esperanto",
             "name": "Esperanto",
             "name_native": "Esperanto",
