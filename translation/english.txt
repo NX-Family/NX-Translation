@@ -1112,7 +1112,6 @@ fdb134ea33=Los Angeles, Vancouver
 e87039aa9e=Lot Number:
 cee3600baf=Low battery
 2d6cedcc3d=Lower Max Headphone Volume
-c4e550db77=MB
 f9b4a97071=Madrid, Paris, Amsterdam, Brussels
 29273076be=Magadan
 84beb3e5bf=Maintain Internet Connection in Sleep Mode
