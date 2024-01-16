@@ -1691,7 +1691,6 @@ a8aea27bca=Sa vakarautaki na lebeli ni vakararawataki.
 001b8951e2=Buto ni mata e mawi
 899e961443=Right Stick
 bdb8eb56a4=Vakarau Vakarau Vakarau
-994b50be59=Vakarau ni Vakarau ni CA
 3fd8f8ac6a=Vakarorogo
 2852bf6ab1=Vakayagataka ki na mawi
 2f788e8a6e=Rusi

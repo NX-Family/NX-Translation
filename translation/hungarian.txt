@@ -1691,7 +1691,6 @@ a8aea27bca=A korlátozási szint megváltozott.
 001b8951e2=Jobb gomb
 899e961443=Jobb stick
 bdb8eb56a4=Jobb stick lenyomása
-994b50be59=Gyökér CA
 3fd8f8ac6a=Forgatás
 2852bf6ab1=Forgatás balra
 2f788e8a6e=Forgatás jobbra

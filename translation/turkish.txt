@@ -1691,7 +1691,6 @@ a8aea27bca=Kısıtlama seviyesi değiştirildi.
 001b8951e2=Sağ Tuş
 899e961443=Sağ Analog Çubuk
 bdb8eb56a4=Sağ Analog Çubuk Basma
-994b50be59=Kök CA
 3fd8f8ac6a=Döndür
 2852bf6ab1=Sola Döndür
 2f788e8a6e=Sağa Döndür

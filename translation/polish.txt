@@ -1691,7 +1691,6 @@ a8aea27bca=Poziom ograniczeń został zmieniony.
 001b8951e2=Przycisk prawy
 899e961443=Prawy joystick
 bdb8eb56a4=Naciśnięcie prawego drążka
-994b50be59=Root CA
 3fd8f8ac6a=Obróć
 2852bf6ab1=Obróć w lewo
 2f788e8a6e=Obróć w prawo

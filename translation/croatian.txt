@@ -1691,7 +1691,6 @@ a8aea27bca=Razina ograničenja je promijenjena.
 001b8951e2=Desna tipka
 899e961443=Desni joystick
 bdb8eb56a4=Pritisak desnog analognog gumba
-994b50be59=Root CA
 3fd8f8ac6a=Rotirajte
 2852bf6ab1=Rotiraj lijevo
 2f788e8a6e=Rotiraj desno

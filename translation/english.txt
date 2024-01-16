@@ -1691,7 +1691,6 @@ a8aea27bca=Restriction level has been changed.
 001b8951e2=Right Button
 899e961443=Right Stick
 bdb8eb56a4=Right Stick Press
-994b50be59=Root CA
 3fd8f8ac6a=Rotate
 2852bf6ab1=Rotate Left
 2f788e8a6e=Rotate Right

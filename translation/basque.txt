@@ -1691,7 +1691,6 @@ a8aea27bca=Mugaketa maila aldatu da.
 001b8951e2=Eskuin botoia
 899e961443=Eskuin estika
 bdb8eb56a4=Eskuin estika sakatu
-994b50be59=Root CA
 3fd8f8ac6a=Biratu
 2852bf6ab1=Ezkerrean biratu
 2f788e8a6e=Eskuinean biratu

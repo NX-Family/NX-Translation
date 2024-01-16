@@ -1691,7 +1691,6 @@ a8aea27bca=Piirangu tase on muudetud.
 001b8951e2=Parem nupp
 899e961443=Parem pulk
 bdb8eb56a4=Parem pulga vajutus
-994b50be59=Root CA
 3fd8f8ac6a=Pööra
 2852bf6ab1=Pööra vasakule
 2f788e8a6e=Pööra paremale

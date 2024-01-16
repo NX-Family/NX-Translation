@@ -1691,7 +1691,6 @@ a8aea27bca=O nivel de restrición foi cambiado.
 001b8951e2=Botón Dereito
 899e961443=Stick dereito
 bdb8eb56a4=A conexión sen fíos cos controladores desactivarase. Utilice os botóns do sistema.
-994b50be59=CA raíz
 3fd8f8ac6a=Xirar
 2852bf6ab1=Configuração manual
 2f788e8a6e=Xirar á dereita

@@ -1691,7 +1691,6 @@ a8aea27bca=La nivelo de restrikto estas ŝanĝita.
 001b8951e2=Dekstra butono
 899e961443=Dekstra stango
 bdb8eb56a4=Premo de dekstra stango
-994b50be59=Radika CA
 3fd8f8ac6a=Rotacii
 2852bf6ab1=Rotacii maldekstren
 2f788e8a6e=Rotacii dekstren

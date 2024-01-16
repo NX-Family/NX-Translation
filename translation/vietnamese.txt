@@ -1691,7 +1691,6 @@ a8aea27bca=Mức hạn chế đã được thay đổi.
 001b8951e2=Nút phải
 899e961443=Cần phải phải
 bdb8eb56a4=Nhấn nút phải
-994b50be59=CA gốc
 3fd8f8ac6a=Xoay
 2852bf6ab1=Xoay sang trái
 2f788e8a6e=Xoay sang phải

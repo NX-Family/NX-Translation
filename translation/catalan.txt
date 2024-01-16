@@ -1691,7 +1691,6 @@ a8aea27bca=S'ha canviat el nivell de restricció.
 001b8951e2=Botó dret
 899e961443=Palanca dreta
 bdb8eb56a4=Premre la palanca dreta
-994b50be59=CA arrel
 3fd8f8ac6a=Girar
 2852bf6ab1=Girar a l'esquerra
 2f788e8a6e=Girar a la dreta

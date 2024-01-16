@@ -1691,7 +1691,6 @@ a8aea27bca=Úroveň omezení byla změněna.
 001b8951e2=Pravé tlačítko
 899e961443=Pravá páčka
 bdb8eb56a4=Stiskněte pravý joystick
-994b50be59=Kořenový certifikát
 3fd8f8ac6a=Otočte
 2852bf6ab1=Otočit doleva
 2f788e8a6e=Otočit doprava

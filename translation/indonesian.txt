@@ -1691,7 +1691,6 @@ a8aea27bca=Tingkat pembatasan telah diubah.
 001b8951e2=Tombol Kanan
 899e961443=Mendaftar<L_DOT3/>
 bdb8eb56a4=Tekan Tombol Stick Kanan
-994b50be59=Root CA
 3fd8f8ac6a=Putar
 2852bf6ab1=Putar ke Kiri
 2f788e8a6e=Putar ke Kanan

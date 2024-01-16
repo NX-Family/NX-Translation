@@ -1691,7 +1691,6 @@ a8aea27bca=Apribojimo lygis pakeistas.
 001b8951e2=Dešinysis mygtukas
 899e961443=Dešinysis valdymo svirtelė
 bdb8eb56a4=Dešinės valdymo svirties paspaudimas
-994b50be59=Pagrindinė CA
 3fd8f8ac6a=Pasukti
 2852bf6ab1=Pasukti į kairę
 2f788e8a6e=Pasukti į dešinę
