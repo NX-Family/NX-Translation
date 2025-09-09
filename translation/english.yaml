@@ -1,9 +1,10 @@
+# github.com/NX-Family/NX-Translation
 language:
   note: "Try not to make the translation longer than the source."
   source: "English"
   target: ""
   type: "NX Translation file"
-strings:
+translations:
 - source: " day"
   target: ""
 - source: " days"
