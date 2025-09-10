@@ -1,6 +1,7 @@
 # Nintendo Switch Firmware Translation Homebrew
 
 Welcome to the Nintendo Switch Firmware Translation Homebrew repository! This project aims to provide translations for the Nintendo Switch firmware, allowing users to enjoy their console in their preferred language.
+
 Atmosphere v1.9.4 or later Required! Older versions won't boot.
 
 Currently supported languages:
