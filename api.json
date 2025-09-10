@@ -1,8 +1,8 @@
 {
     "api_version": "1.0",
     "translation": {
-        "version": "1.21",
-        "firmware": "19.0.0",
+        "version": "2.00",
+        "firmware": "20.4.0",
         "source": "https://github.com/NX-Family/NX-Translation"
     },
     "languages": [
@@ -79,6 +79,38 @@
                         "name": "Europe"
                     },
                     "path": "replaces_ru-EU"
+                }
+            ]
+        },
+        {
+            "id": "bulgarian",
+            "name": "Bulgarian",
+            "name_native": "Bǎlgarski",
+            "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_bulgarian.zip",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "US",
+                        "name": "America"
+                    },
+                    "path": "replaces_en-US"
+                },
+                {
+                    "locale": {
+                        "id": "en",
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_en-EU"
                 }
             ]
         },
@@ -829,7 +861,7 @@
         {
             "id": "thai",
             "name": "Thai",
-            "name_native": "แบบไทย",
+            "name_native": "ไทย",
             "download_url": "https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_thai.zip",
             "replaces": [
                 {
