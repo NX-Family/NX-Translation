@@ -7,6 +7,7 @@ Atmosphere v1.9.4 or later Required! Older versions won't boot.
 Currently supported languages:
 * [Arabic (عربي)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_arabic.zip)
 * [Basque (Euskara)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_basque.zip)
+* [Bulgarian (Bǎlgarski)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_bulgarian.zip)
 * [Catalan (Català)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_catalan.zip)
 * [Croatian (Hrvatski)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_croatian.zip)
 * [Czech (Čeština)](https://github.com/NX-Family/NX-Translation/releases/latest/download/NX-Translation_czech.zip)
