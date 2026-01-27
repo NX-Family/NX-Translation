@@ -196,7 +196,7 @@ translations:
 - source: "<L_DOT1/><TAG1/>You will need to use a USB cable that supports data transfer (sold separately).<TAG2/><TAG3/><NL/><L_DOT1/><TAG4/>Connect your <L_NS/> directly to the computer via USB cable. (The USB ports on the dock do not support this feature.)<TAG5/><TAG6/><NL/><L_DOT1/><TAG7/>Visit the <L_N10/> Support website for more information.<NL/><TAG8/><TAG9/><TAG10/>"
   target: ""
 - source: "<L_DOT1/>Receive a monthly summary of play activity"
-  target: ""
+  target: "<L_DOT1/>మాసిక ఆట చరిత్రలు పొందండి"
 - source: "<L_DOT1/>Restrict Features"
   target: ""
 - source: "<L_DOT1/>Set play-time restrictions"
