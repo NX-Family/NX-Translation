@@ -268,7 +268,7 @@ translations:
 - source: "<L_NEPA/> cannot currently be used in your country/region."
   target: ""
 - source: "<L_NEPA/> is not currently available in your country/region. Thank you for your interest in <L_NEPA/>."
-  target: ""
+  target: "ప్రస్తుతం <L_NEPA/> మీ దేశం/ప్రాంతంలో అందుబాటులో లేదు. <L_NEPA/> మీద మీకున్న ఆసక్తికి ధన్యవాదాలు."
 - source: "<L_NFC/> functionality cannot be used when a controller uses wired communication.<TAG1/><NL/>To use an <L_AMI/>, disconnect the USB charging cable and use wireless communication."
   target: ""
 - source: "<L_NS/> - OLED Model"
