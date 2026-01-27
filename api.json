@@ -1197,6 +1197,26 @@
                     "path": "replaces_ru-EU"
                 }
             ]
+        },
+        {
+            "id": "telugu",
+            "name": "Telugu",
+            "name_native": "తెలుగు",
+            "download_url": "TBD",
+            "replaces": [
+                {
+                    "locale": {
+                        "id": "nl",
+                        "name": "Dutch",
+                        "name_native": "Nederlands"
+                    },
+                    "region": {
+                        "id": "EU",
+                        "name": "Europe"
+                    },
+                    "path": "replaces_nl-EU"
+                }
+            ]
         }
     ]
 }
