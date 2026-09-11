@@ -1,8 +1,8 @@
 {
     "api_version": "1.0",
     "translation": {
-        "version": "2.00",
-        "firmware": "20.4.0",
+        "version": "2.01",
+        "firmware": "22.5.0",
         "source": "https://github.com/NX-Family/NX-Translation"
     },
     "languages": [

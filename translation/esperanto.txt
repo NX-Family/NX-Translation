@@ -1,4 +1,4 @@
-000393a3c5=Aliaj uzantoj povos ludi ĝin en sistemoj ligitaj al la konto de <TAG1/><TAG2/><TAG3/> ĉe <TAG4/><L_N10/><TAG5/>.
+000393a3c5=Aliaj uzantoj povos ludi ĝin en sistemoj, kie <TAG1/><TAG2/> ligis<TAG3/> sian <TAG4/><L_N10/>-konton<TAG5/>.
 0009ba6e58=Parigi <L_BT/> sonaparaton
 0010a3e244=Vi nun ne povas ludi ĉi tiun programaron.<TAG1/><NL/><TAG2/><TAG3/>Se via konto <L_N10/> estas ligita al alia konsolo, konektu tiun konsolon al interreto kaj reprovu.<TAG4/><TAG5/>
 001b8951e2=Dekstra butono
@@ -7,7 +7,7 @@
 0079e761c9=Lastatempe komencita<NL/>de <TAG1/><LIST1/>!
 008254084c=Retejo: <L_VS/>
 00903b93e9=Malŝalti ĉi tiun agordon malebligos regadon per la butonoj de la konsolo. Por butona enigo necesos sendrata regilo. Eliri el dormreĝimo aŭ restartigi la konsolon aŭtomate reŝaltos ĉi tiun agordon
-00a4afc9e5=Mi ankoraŭ ne havas <L_N10/> <TAG1/><L_SWT2/><TAG2/>
+00a4afc9e5=Mi ne havas <L_N10/> <TAG1/><L_SWT2/><TAG2/> ankoraŭ
 00d88ff7b0=Ĉi tio forviŝos ĉiujn datumojn en la sistemmemoro, inkluzive de programaj datumoj, ekrankopioj kaj videoj. La sistemo poste estos pravalorizita kaj restarigita al<L_XA0/>fabrikaj agordoj.<TAG1/><NL/>Post la pravalorizo, bonvolu elpreni la karton <L_MSD/> el ĉi tiu<L_XA0/>sistemo.<TAG2/><NL/><L_SQR/> Avertoj<TAG3/><NL/><L_DOT1/> <TAG4/>Ĉiuj programaj datumoj konservitaj en la karto <L_MSD/>, krom ekrankopioj kaj videoj, fariĝos neuzeblaj. (Datumoj en la karto <L_MSD/> ne estos forigitaj.)<TAG5/><TAG6/><NL/><L_DOT1/> <TAG7/>La sistemversio ne ŝanĝiĝos nek revenos al pli frua versio.<TAG8/><TAG9/>
 00e36f62eb= h
 00e3fde319=Ne eblis komenci konekton al ekstera aparato.<TAG1/><NL/>Bonvolu restartigi la konsolon per Energiopcioj en Energimenuo (tenu la butonon POWER dum tri sekundoj).
@@ -45,7 +45,6 @@
 02ff312b00=Gajni poentojn por ĉi tiu programaro
 03224a982f=Ludoj de viaj amikoj
 034f860842=La regila programaro estas malnova aŭ difektita.<TAG1/><NL/>Vi povas ĝisdatigi la regilon en la menuo HOME per <0xE130/> (Sistemagordoj) ⇒ Regiloj kaj sensiloj.
-035854faa5=Necesas sistemo-ĝisdatigo.
 037bf810ca=Ho, por ŝanĝi la sendratajn agordojn, iru al la menuo HOME kaj elektu <0xE130/> (Sistemagordoj) ⇒ Flugreĝimo.<NL/><NL/>Bonan ludadon,<NL/>Amelia N.
 039dec73d7=Reprenas la virtualan ludkarton<L_DOT3/>
 03aa12391b=Ne eblas akiri IP-adreson.<TAG1/><NL/>Bonvolu reprovi poste.<TAG2/><NL/>Se la problemo daŭras, provu la jenon:<NL/><L_DOT1/><TAG3/>Certigu, ke vi estas konektita al la ĝusta retaparato.<TAG4/><NL/><L_DOT1/><TAG5/>Se eble, enigu la IP-adresagordojn mane.<TAG6/>
@@ -376,7 +375,6 @@
 1ba280c4ac= dosiero
 1bafc5aec0=Ne eblis eligi la virtualan ludkarton.<NL/>Fermu la programaron en la jena sistemo kaj <TAG1/>reprovu<TAG2/>.
 1bb0af5afb=Alproksimigu la konsolojn unu al la alia.
-1bc0f1b07d=Vi povas vidi viajn virtualajn ludkartojn sur ĉi tiu ekrano.
 1bd353f902=Aĝoklaso: 15+
 1beab99527=Restarigas<L_DOT3/>
 1bf2339cc4=Ne eblas konektiĝi.<TAG1/><NL/>Ne estas respondo de la servilo.<NL/>Bonvolu reprovi poste.
@@ -467,7 +465,6 @@
 223b73a0a9=Ne eblas plu sendi amikpetojn.<TAG1/><NL/>Bonvolu regi viajn amikojn kaj/aŭ senditajn amikpetojn.
 223c84a24b=Restarigas fabrikajn agordojn<L_DOT3/><NL/>Ne tuŝu la butonon POWER.
 22559b0d33=Neniu regilo kun IR-moviĝa kamerao estas nun<L_XA0/>konektita.<TAG1/><NL/>Tia kamerao estas sur la regilo Joy‑Con<L_XA0/>(R). Se vi havas <L_JCR/>, konektu ĝin per <0xE136/> (Regiloj) en la menuo HOME.
-225ae7dd8f=Kies virtualajn ludkartojn vi volas ŝargi?
 225bf999d7=Regila ĝisdatigo haveblas.<NL/>Ĝisdatigi nun?
 225ecd3c46=Vindhuko, Johanesburgo
 227df2a221=<0xE216/> Ŝargita en alia sistemo
@@ -633,7 +630,6 @@
 2e52cdc443=Paŭzigita programaro estos fermita.
 2e5902e127=La konto <L_N10/> ligita al ĉi tiu konsolo ne uzeblas.<TAG1/><NL/>Bonvolu malfermi vian uzantpaĝon en la menuo HOME kaj reensaluti al via konto <L_N10/> aŭ ligi konton <L_N10/>.
 2e7e88a4ff=<L_SQR/> <TAG1/>Al posedantoj de konto <L_N10/> uzantaj ĉi tiun konsolon:<TAG2/><TAG3/><NL/>Se vi pravalorizos la konsolon per ĉi tiu metodo, male al norma pravalorizo, vi ne povos eligi ŝargitajn virtualajn ludkartojn.<NL/>Krome, ĉi tiu konsolo restos ligita al via konto kaj povos uzi ajnajn pasojn haveblajn por rilata programaro.<TAG4/><NL/>Por daŭre uzi vian konton <L_N10/> kun ĉi tiu konsolo <L_NS/>, religu vian konton <L_N10/> al ĝi post la pravalorizo.<TAG5/><NL/>Pliaj informoj en la subtena retejo de <L_N10/>.<NL/><TAG6/>
-2e8169cc1b=Se vi ankoraŭ ne ŝargis virtualajn ludkartojn sur la sistemon, vi ne povas pruntedoni ilin. Ŝarĝu unu sur ĉi tiun sistemon, kaj provu denove.
 2eab00162a=Ne eblas kalibri dum la regilo <L_JC/> estas tenata horizontale.<TAG1/><NL/>Vi povas ŝanĝi tion per Ŝanĝi tenon/ordon.
 2eae57476a=Uzanta aŭtentigo
 2eb1816f46=Neniu dosiero elektita.
@@ -658,7 +654,6 @@
 3000afb270=Premu <0xE0A4/> aŭ <0xE0A5/> sur proksima regilo por vibrigi la elektitan regilon.
 3021b52ea2=PIN necesas por provizore malŝalti Gepatran kontrolon.
 304b22e907=Aŭtomata elŝuto de konservitaj datumoj estas ŝaltita.<TAG1/><NL/><L_DOT1/><TAG2/>La unua elŝuto devas esti farita mane.<TAG3/><NL/><L_DOT1/><TAG4/>Por ŝalti ĉi tiun funkcion en aliaj konsoloj, ŝanĝu la agordojn en ĉiu konsolo.<TAG5/><NL/><L_WSP/><TAG6/><TAG7/><TAG8/>Vi povas ŝanĝi ilin per <0xE130/> (Sistemagordoj) ⇒ Datumregado ⇒ Nubaj savkopioj en la menuo HOME.<TAG9/><TAG10/><TAG11/>
-304f5b8b60=Ne povas kontroli, ĉu tiu programaro subtenas savkopion per la servico Save Data Cloud.<TAG1/><NL/><TAG2/><TAG3/>Eble vi ne povos savkopii aŭ elŝuti savdatenojn.<TAG4/><TAG5/>
 305e65c96e=<0xE153/> Ne montrata en la listo
 305fbf4a1d=Programaro (<L_N10/> <TAG1/><L_SWT2/><TAG2/> Edition)
 307133e696=La konekto kun la regilo perdiĝis.<NL/>Bonvolu konekti regilon kaj reprovi.
@@ -670,7 +665,6 @@
 30fa43a713=Por uzi regilojn sendrate, vi devos malŝalti Flugreĝimon.<NL/><TAG1/>Vi povas fari tion en Rapidagordoj (tenu <0xE0B9/>).<TAG2/>
 310b78c657=Ne eblas konektiĝi al interreto.<TAG1/><NL/>Neniu respondo de la servilo.<NL/>Bonvolu reprovi poste.
 3131d7b3ad=Atendas, ke membroj aliĝu<L_DOT3/>
-314a0d4b35=La elŝuto de la konservitaj datumoj de tiu programaro ne finiĝis.<NL/>Por plia informo, revenu al la HEJM-menio, malfermu la opciojn-menuon por la programaro, kaj poste elektu Konservitaj datumoj de la Nuba memoro.<NL/><TAG1/><TAG2/>Por daŭrigi la elŝuton, vi devas esti konektita al la Interreto.<TAG3/><TAG4/>
 316ba3e086=Londono, Dublino, Lisbono
 3186e6c11d=Nunaj dato kaj horo: <TAG1/>
 319d350d97=Ne eblas aldoni uzanton.<TAG1/><NL/>Fermu la paŭzigitan programaron kaj reprovu.
@@ -798,7 +792,6 @@
 3b75ec80c6=Se ĉi tiu opcio estas ŝaltita, la <L_NS/> <L_PRO/> uzos kablan komunikadon kun la konsolo, kiam ligita per la USB-ŝargkablo. La tuŝpunkto <L_NFC/> sur la <L_PRO/> estos malŝaltita dum kabla komunikado.
 3b9a4da33e=Bloki
 3ba6b0e403=Okazis eraro.<TAG1/><NL/>Bonvolu denove egaligi la programversion.
-3bb21706da=Ludado estas suspendita.<NL/>Elŝutita programaro aŭ elŝutebla enhavo povas esti ludata en alia konzolo uzante la saman <L_N10/> Konto.<TAG1/><NL/>Vizitu la <L_N10/> Subteno retejo por pliaj informoj.<NL/><L_SNCE/>
 3bce3453d9=Vi povas komuniki kun lokaj uzantoj por unuigi vian programversion.
 3bd943b89a=Ne eblas elŝuti. Ĉi tiu sistemo ne estas subtenata.
 3bd98e65dd=Nouméa
@@ -808,7 +801,6 @@
 3c6507174d=Sistemdatumoj estas alŝutitaj al la servilo!<NL/><TAG1/><TAG2/>Elŝutu ilin per sistemo <L_N10/> <TAG3/><L_SWT2/><TAG4/>.<TAG5/><TAG6/>
 3c7f18176a=Savkopias<L_DOT3/>
 3c9985d8c8=Ligu la saman konton <L_N10/>, kiun vi uzis en la alia konsolo.
-3ca414c388=Totala Grandeco
 3ca6f5d403=Ordigi
 3cad586069=Preterpasi
 3cb9a53b43=Registrado malsukcesis.<NL/>Bonvolu reprovi.
@@ -842,7 +834,6 @@
 3eaa3e84c8=Membreco en <L_NSO/> necesas.<NL/><TAG1/><TAG2/>Vi povas viziti <L_NEP/> por pliaj informoj.<TAG3/><TAG4/>
 3eb297b487=Enigo estis nuligita.
 3ec017cc98=Forgesita PIN
-3f1280b0c6=Programaro antaŭinstalita sur ĉi tiu sistemo ankoraŭ ne estis<L_XA0/> registrita. Bonvolu registri la programaron en<TAG1/><L_NEP/><TAG2/> kaj poste daŭrigu.
 3f1bdd937f=<L_D1/> <TAG1/>En la alia sistemo, malfermu la menuon HOME kaj elektu <0xE13D/> (Virtualaj ludkartoj) ⇒ <TAG2/>.<TAG3/><TAG4/><NL/><L_D2/> <TAG5/>Alproksimigu la sistemojn unu al la alia.<TAG6/>
 3f428ba2f8=<0xE13D/> Dum rigardado de viaj virtualaj ludkartoj
 3f47263243=Aĝoklaso: 7+
@@ -930,7 +921,6 @@
 459b35298e=Neniuj datumoj
 45cc9c4fd1=Konektita per <L_WIFI/>
 460f323772=Ĉi tie ne estas konservitaj ekrankopioj aŭ videoj.<NL/>Faru multajn diversajn ekrankopiojn kaj videojn por kolekti viajn ludmemorojn pri <L_NS/>!<TAG1/><NL/>Per la Kapta butono vi povas fari ekrankopiojn kaj videojn. Mallonga premo kaptas la nunan ekranon, dum tenado de la butono registras videon de la antaŭaj 30 sekundoj.<NL/>Poste vi eble povos afiŝi viajn ekrankopiojn kaj videojn en sociaj retoj.
-46253cc402=Sukcese ŝarĝita!<NL/><TAG1/><TAG2/> Vi povas ludi tuj kiam la datumoj estas elŝutitaj.<TAG3/><TAG4/>
 462b070ee8=<L_DOT1/><TAG1/>Se regilo kuŝas sur vestaĵo aŭ mola objekto, ekzemple kuseno, eble malfacilos aŭdi la vibradon. Bonvolu esti kiel eble plej silenta dum la serĉado.<TAG2/><TAG3/><NL/><L_DOT1/><TAG4/>Regiloj sen vibra funkcio ne estas troveblaj per ĉi tiu metodo.<TAG5/><TAG6/><NL/><L_DOT1/><TAG7/>Se regilo ne vibras, movu la konsolon pli proksimen al ĝia supozata loko aŭ provu serĉi ĝin per alia konsolo. Regiloj eble ne vibras, se:<TAG8/><NL/><L_DSH/><TAG9/>Ili estas tro malproksimaj de la konsolo.<TAG10/><TAG11/><NL/><L_DSH/><TAG12/>Ili havas malplenan aŭ preskaŭ malplenan baterion.<TAG13/><TAG14/><NL/><L_DSH/><TAG15/>Ili ne estas parigitaj kun konsolo aŭ estas parigitaj kun alia konsolo.<TAG16/><TAG17/>
 4648a8ad0d=Elŝuto paŭzigita.
 4681bfffa8=La datumoj reakireblas per reelŝuto.
@@ -956,7 +946,6 @@
 4781c23da1=Vi ricevis inviton!
 478430da0b=Dokĝisdatigo malsukcesis.
 47a86ce719=Ĉu vi rimarkis la enkonstruitan apogilon malantaŭ la konsolo <L_NS/>? Ĝi ne nur utilas, sed ankaŭ kaŝas sekreton!<NL/><NL/>Malfermu la apogilon, kaj jen la fendo por kartoj <L_MSD/>.<NL/><NL/>Enmetu karton <L_MSD/> (vendatan aparte), kaj vi povos uzi ĝin kiel plian konservejon por programelŝutoj, <L_DLC/> kaj simila enhavo.<NL/><NL/>Do, se vi zorgis pri elĉerpiĝo de spaco, tio devus trankviligi vin.
-47ab34fa30=Estas konservitaj datumoj, kiuj ne estas elŝutitaj.
 47bbed5385=Petu <TAG1/>ĉiujn ludantojn<TAG2/> montri ĉi tiun ekranon.
 47c8937d2d=Komenci pravalorizon
 47e70814c1=Ĉu vi certas, ke vi volas fermi ĉi tiun programaron?<NL/><TAG1/><TAG2/>Elektu opcion per la stirstango kaj premu <TAG3/> por konfirmi.<TAG4/><TAG5/>
@@ -1055,7 +1044,6 @@
 4e5dd4b68b=Ĉiuj uzantoj
 4e6f196ee2=Vi gajnis poentojn!
 4e764df15d=Konektiĝu al la interreto por vidi, kion ludas viaj amikoj.
-4ea4ca5fdd=Iuj ciferecaj programoj kaj elŝuteblaj enhavoj inkluzivas virtualan ludkarton kiam aĉetite.<TAG1/><NL/> Post ŝargo, la ludikono estos aldonita al la HEJMA Menuo, kaj vi povos ludi tiun ludon.<NL/><TAG2/><TAG3/> Por vidi viajn virtualajn ludkartojn, malfermu la HEJMA menuon kaj poste elektu <0xE13D/> (Virtualaj Ludkartoj).<TAG4/><TAG5/>
 4ea6c8ec5f=Nuligi programĝisdatigon
 4edb2b1dd3=Kie vi volas, ke via video komenciĝu?
 4ee3f3cdd7=Okazis eraro dum legado per la IR-movkamerao.<TAG1/><NL/>Se la problemo daŭras, konsultu la<NL/>subtenan retejon de <L_N10/>.<NL/><L_SNCE/>
@@ -1435,7 +1423,6 @@
 696aba4a38= homo
 696b6f655c=Ekrankopioj kaj videoj
 6974646d8c=Faru la jenon ĉe la alia sistemo:
-697e8ed82b=La konsolo konektos al la Interreto por kontroli ĉu ĉi tiu programaro subtenas sekurkopion per la Konservi Datenojn Nuba servo.<TAG1/><NL/>Vi estos malkonektita de loka komunikado.
 698afa597b=La konekto perdiĝis, ĉar ludado paŭziĝis.
 6990afc1a0=Ne eblas aldoni uzanton, ĉar vi ensalutis per konto <L_N10/> neniam antaŭe ligita al konsolo <L_NS/>.<TAG1/><NL/>Kontrolu la detalojn de la konto <L_N10/> kaj reprovu.
 69984a2324=Ne eblas krei konservitajn datumojn, ĉar ne sufiĉas spaco en la sistemmemoro.<TAG1/><NL/>Bonvolu arkivi aŭ forigi nenecesajn datumojn elektante <0xE130/> (Sistemagordoj) ⇒ Datumregado en la menuo HOME.
@@ -1758,7 +1745,6 @@
 80e6a6cd97=Kie vi volas, ke via video finiĝu?
 80f8e384aa=Pliaj informoj, inkluzive de la eldondato de la programaro, troviĝas en <L_NEP/>.
 80f9cf0668=Kopii/forigi ekrankopiojn kaj videojn
-810d1e183a=La atestilo aŭ eksvalidiĝis aŭ ankoraŭ ne validas.<NL/>Bonvolu certigi, ke la dato kaj horo agordoj de ĉi tiu konzolo estas ĝustaj.
 81292c6491=Blokita
 8151cd46c1=Per ensaluto, vi povas provizore aliri datumojn de alia konto <L_N10/> ne ligita al ĉi tiu konsolo.<NL/><TAG1/><TAG2/>Viaj ensalutdatumoj ne estos konservitaj en ĉi tiu konsolo.<TAG3/><TAG4/>
 816a947236=Subtena kodo: <L_CODE/>
@@ -1825,7 +1811,6 @@
 858115d803=Amikoj lastatempe komencintaj tiun ludon (<TAG1/>)
 858cfe6727=Vi nun povas ligi konton <L_N10/>.<NL/><TAG1/><TAG2/>Per ligita konto, vi povas aliri retludadon, funkciojn por amikoj, <L_NEP/> kaj pli.<TAG3/><TAG4/>
 859515e3d1=Saĝtelefona apo
-85ac6fadc0=Iuj ciferecaj programoj kaj elŝuteblaj enhavoj inkluzivas virtualan ludkarton kiam aĉetite.<TAG1/><NL/> Post ŝargo, la ludikono estos aldonita al la HEJMA Menuo, kaj vi povos ludi tiun ludon.<NL/><TAG2/><TAG3/> Por vidi viajn virtualajn ludkartojn, malfermu la HEJMA Menuon kaj<NL/> elektu <0xE13D/> (Virtualaj Ludkartoj).<TAG4/><TAG5/>
 85b3fdf3b1=Ne eblis trovi la alian sistemon.<TAG1/><NL/>Bonvolu reprovi.
 85bab1710a=Vi nun povas elekti enigi vian PIN de Gepatra kontrolo per stirstango.<TAG1/><NL/><L_DOT1/><TAG2/>Stirstanga enigo ebligas pli rapidan enigadon de ciferoj.<TAG3/><NL/><L_DOT1/><TAG4/>Dum stirstanga enigo, aliaj ne povos vidi sur la ekrano la ciferojn, kiujn vi elektas.<TAG5/><TAG6/><NL/><TAG7/><TAG8/>Vi povas teni <TAG9/> por ŝanĝi al ciferklavara enigo kaj enigi vian PIN kiel antaŭe.<TAG10/><TAG11/>
 85babdce25=Ĉi tiu programaro devis fermiĝi pro eraro.<TAG1/><NL/>Ĉu vi permesas al <L_N10/> kunhavigi erarinformojn el ĉi tiu konsolo kun triapartaj programistoj, kies programaro paneis, por analizo kaj plibonigo?<TAG2/><NL/>Informoj pri internaciaj datumkundividaj celoj kaj protekto de personaj datumoj estas publikigitaj en la suba retejo (nur en la japana). Bonvolu legi ilin antaŭe.<NL/><L_NCJP/><TAG3/><NL/><TAG4/>Vi povas ŝanĝi ĉi tiun agordon iam ajn per <0xE130/> (Sistemagordoj) ⇒ Sistemo en la menuo HOME.<TAG5/>
@@ -2152,7 +2137,6 @@
 9dd5eff6c3=Ĉiuj datumoj de ĉi tiu <L_AMI/> forviŝiĝos.
 9df28e2c80=Turni
 9e327cdc7f=Neniu kanalo kongruas kun la enigita ŝlosilvorto.
-9e4190a7c6=Vi ne povas aldoni uzantojn nun.<TAG1/><NL/>Fermu la suspenditan programaron, poste elektu<NL/><0xE130/> (Sistemaj agordoj) ⇒ Uzantoj por aldoni uzanton.
 9e50c9122e=4-8 ciferoj
 9e52824cb7=Ĉiuj jenaj datumoj kopiiĝos al <L_N10/> <TAG1/><L_SWT2/><TAG2/>:
 9e6637e3df=Ludado paŭziĝas.<TAG1/><NL/>Por pliaj informoj, vizitu la subtenan retejon de <L_N10/>.<NL/><L_SNCE/><TAG2/><NL/>Por plu ludi, konektu al interreto kaj daŭrigu per la menuo HOME.
@@ -2369,7 +2353,6 @@ ae17e30f8a=Aĝoklaso: 3+
 ae199254f4=Vi povas agordi PIN anstataŭ ensaluti al via konto <L_N10/>.
 ae24c5be9b=Maldekstre
 ae318d40f5=Komencante sistemtransigon kaj alŝutante datumojn al la servilo, vi konsentas al la jeno:
-ae3dadfaca=Okazis elŝut-eraro.
 ae44cb539b=Parigi aparaton
 ae6030371d=Ekrankopioj: <TAG1/>
 ae89a8d3fc=Premu <0xE0A5/> por rekalibri, se la stirstango ne funkcias kiel atendite.
@@ -2789,7 +2772,7 @@ cff1bc0332=Enigu ĉefŝlosilon.
 cff6e1ffbf=Metu la konsolon sur ebenan, stabilan surfacon kun la ekrano supren.
 d014f8f022=Aŭtomata dormo (konektite al TV)
 d02a794da8=Neniuj kaŝitaj virtualaj ludkartoj.
-d03d9aaad3=<TAG1/>Uzantoj de <L_N10/> <TAG2/><L_SWT2/><TAG3/><TAG4/> povas uzi <L_TGS/>, kaj vi povas ludi kune.
+d03d9aaad3=<TAG1/><L_N10/> <TAG2/><L_SWT2/><TAG3/>-uzantoj<TAG4/> povas uzi <L_TGS/>, kaj vi povas ludi kune.
 d03e66ffbe=Konservitaj datumoj
 d0508a7c3f=La konsolo malŝaltiĝos pro eraro.<TAG1/><NL/>Bonvolu reprovi en loko, kie la sistemo povas konektiĝi al la reto.
 d05a28077c=2 sekundoj
@@ -3051,7 +3034,6 @@ e32050f975=Serĉi laŭ ŝlosilvorto
 e3241b8d7d=<TAG1/><LIST1/> <TAG2/><LIST2/> restantaj
 e338cb1abc=Ne eblas konektiĝi al la servilo.<NL/>La reto eble estas okupata, aŭ eble estas problemo kun la servilo.<NL/>Bonvolu reprovi poste.<TAG1/><NL/>Por informoj, vidu la subtenan retejon de <L_N10/>.<NL/><L_SNCE/>
 e33ca7be8f=<L_SQR/> Gravaj informoj<TAG1/><NL/>Datumoj senditaj al la servilo, kiel konservitaj datumoj, ekrankopioj kaj<NL/>videoj, estos redonitaj al ĉi tiu sistemo. Tamen, iuj datumoj<NL/>eble ne aperos precize kiel antaŭe. Ekzemple:<TAG2/><NL/><L_DOT1/> <TAG3/>Programikonoj en la menuo HOME ne estos restarigitaj.<NL/>Ankaŭ la grupagordoj en "Ĉiu programaro" estos forviŝitaj.<NL/><TAG4/><TAG5/>Aĉetitaj elŝuteblaj programoj kaj <L_DLC/> ne perdiĝos.<NL/>Por reelŝuti aĉetitan programon, ŝargu ĝian virtualan ludkarton.<TAG6/><TAG7/><TAG8/><TAG9/><NL/><L_DOT1/> <TAG10/>La ligo al la aplikaĵo <L_NS/> Parental Controls<NL/>estos forigita. Vi povos religi la aplikaĵon poste.<TAG11/>
-e34a3245a8=Trovis novajn elŝuteblajn enhavojn.<NL/>Ĉu instali ilin nun?
 e34c900863=Vi povas transigi la jenon metante vian karton <L_MSD/> en la sistemon <L_N10/> <TAG1/><L_SWT2/><TAG2/>:<NL/><NL/><L_DOT1/> <TAG3/>Videoj kreitaj per <TAG4/><TAG5/><NL/><NL/>Tenu la karton <L_MSD/> en sekura loko ĝis la sistemo <L_N10/> <TAG6/><L_SWT2/><TAG7/> estos uzebla.
 e353b6b293=Lanĉi programaron
 e38a4e6bdc=Vi ne ligis sociretan konton.<TAG1/><NL/>Bonvolu ligi konton per Amikproponoj en via uzantpaĝo.
@@ -3165,7 +3147,6 @@ eb38ff10fd=Atendas aliajn uzantojn<L_DOT3/>
 eb3a0cd4bb=Aventurante, ĉu vi vidas okulfrapan pejzaĝon? <NL/>Ĉu via animplena soloo ravas ĉiujn?<NL/><NL/>Rapide, premu <0xE0BA/> (jen la kapta butono)!<NL/>Vi faros ekrankopion, kiu konserviĝos en via albumo. <NL/>Daŭrigu kapti ekranojn, kaj baldaŭ vi havos trezorejon da feliĉaj ludmemoroj!<NL/><NL/>Ho, sed jen ne ĉio! Vi ankaŭ povas aldoni tekston al ekrankopio kaj afiŝi ĝin en viaj plej ŝatataj sociaj retejoj. Kunhavigu tiujn ludmomentojn kun viaj amikoj!<NL/><NL/>Por revivi tre, tre specialan momenton, vi povas registri la lastajn 30 sekundojn de via ludado kiel videon*. <NL/>Simple tenu <0xE0BA/> ĝis vi aŭdos etan sonon. Vi ankaŭ povas kunhavigi videojn rekte el via albumo, do montru viajn ludheroaĵojn al la mondo!<NL/><NL/><L_SQR/> Atentu, fervoraj ekrankopiistoj kaj videistoj:<NL/>Por konservi multajn bildojn aŭ videojn, konsideru aĉeti karton <L_MSD/>.<NL/><NL/>La interna memoro povas enhavi ĉirkaŭ 1,000 ekrankopiojn aŭ 100 videojn, sed sufiĉe granda karto <L_MSD/> povas enhavi ĝis 10,000 ekrankopiojn aŭ 1,000 videojn! Jen multe da memoroj!<NL/><NL/>Bonan ludadon,<NL/>Amelia N.
 eb3e96f4a9=Gepatra kontrolo estos agordita per ĉi tiu konto <L_N10/>.<NL/>Ĉu registriĝi ĉe la apo <TAG1/><L_NS/><TAG2/> Parental Controls?
 eb42cf244d=Se iu el viaj <TAG1/><L_N3D/><TAG2/> amikoj (<0xE131/>) ankaŭ uzas <TAG3/><L_NS/><TAG4/>, ili estos proponitaj kiel amikoj ĉi tie.<NL/><TAG5/><TAG6/>Viaj amikoj ankaŭ devas havi ebligitajn amikproponojn de <TAG7/><L_N3D/><TAG8/> sur sia uzantopaĝo.<TAG9/><TAG10/>
-eb4fdc3239=Elektu virtualajn ludkartojn por ŝargi sur ĉi tiu sistemo. Post ŝargado, la ludo<NL/> ikono estos aldonita al la<TAG1/> HEJMA Menuo<TAG2/> , kaj vi povos ludi ĝin.
 eb5d251b7e=Elŝutprogreso: <TAG1/>
 eb7396985b=Transigi konservitajn datumojn al proksima konsolo.<NL/><TAG1/><TAG2/>Konservitaj datumoj transigeblas nur inter uzantoj ligitaj al la sama konto <L_N10/>.<TAG3/><TAG4/>
 eb7bdb2af4=Ne forigi
@@ -3321,7 +3302,6 @@ f72c4d8bc4=Por analizi kaj reakiri la konservitajn datumojn, la<NL/>konservitaj 
 f73fd78021=Ĉi tiu amikpeto estis sendita per amikkodo.
 f749d70845=Membreco en <L_NSO/> necesas.<NL/>Vi povas senpage elprovi la servon.
 f756081e20=Akcepti
-f75b80d554=Tio estas la nuntempa rezerva kaj elŝuta stato de viaj konservitaj datumoj.<TAG1/><NL/>Por pli da informoj, iru al la HEJMA Menuo, emfazu vian programaron kaj elektu Opcioj, kaj poste elektu Konservitaj Datumoj en la Nuba Memorilo.
 f773776c15=Aĝoklaso: 17+
 f781e48036=Foliumi<L_DOT3/>
 f784485d66=Testi regilbutonojn

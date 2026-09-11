@@ -1,4 +1,4 @@
-000393a3c5=To varēs spēlēt arī citi lietotāji sistēmās, kas sasaistītas ar lietotāja <TAG1/><TAG2/><TAG3/> <TAG4/><L_N10/> kontu<TAG5/>.
+000393a3c5=To varēs spēlēt arī citi lietotāji sistēmās, ar kurām lietotājs <TAG1/><TAG2/> ir sasaistījis savu<TAG3/> <TAG4/><L_N10/> kontu<TAG5/>.
 0009ba6e58=Sapārot <L_BT/> audioierīci
 0010a3e244=Pašlaik nevarat spēlēt šo programmatūru.<TAG1/><NL/><TAG2/><TAG3/>Ja jūsu <L_N10/> konts ir sasaistīts ar citu konsoli, pievienojiet to internetam un mēģiniet vēlreiz.<TAG4/><TAG5/>
 001b8951e2=Labā poga
@@ -7,7 +7,7 @@
 0079e761c9=Nesen sāka spēlēt<NL/><TAG1/><LIST1/>!
 008254084c=Vietne: <L_VS/>
 00903b93e9=Izslēdzot šo iestatījumu, tiks atspējota vadība ar konsoles pogām. Ievadei ar pogām būs nepieciešams bezvadu kontrolieris. Iziešana no miega režīma vai konsoles restartēšana šo iestatījumu automātiski atkal ieslēgs
-00a4afc9e5=Man vēl nav <L_N10/> <TAG1/><L_SWT2/><TAG2/>
+00a4afc9e5=Man vēl nav <L_N10/> <TAG1/><L_SWT2/><TAG2/> konsoles
 00d88ff7b0=Tas izdzēsīs visus datus sistēmas atmiņā, tostarp programmatūras datus, ekrānuzņēmumus un video. Pēc tam sistēma tiks inicializēta un atjaunota<L_XA0/>rūpnīcas iestatījumos.<TAG1/><NL/>Kad inicializēšana būs pabeigta, lūdzu, izņemiet <L_MSD/> karti no šīs<L_XA0/>sistēmas.<TAG2/><NL/><L_SQR/> Brīdinājumi<TAG3/><NL/><L_DOT1/> <TAG4/>Visi programmatūras dati, kas saglabāti <L_MSD/> kartē, izņemot ekrānuzņēmumus un video, kļūs nelietojami. (Dati <L_MSD/> kartē netiks dzēsti.)<TAG5/><TAG6/><NL/><L_DOT1/> <TAG7/>Sistēmas versija netiks mainīta vai atgriezta uz iepriekšējo.<TAG8/><TAG9/>
 00e36f62eb= st.
 00e3fde319=Neizdevās sākt savienojuma izveidi ar ārējo ierīci.<TAG1/><NL/>Lūdzu, restartējiet konsoli, atlasot Barošanas opcijas barošanas izvēlnē (trīs sekundes turiet nospiestu POWER pogu).
@@ -16,7 +16,7 @@
 00fd224644=Atveriet dokstacijas aizmugurējo vāciņu un pievienojiet kabeļus, kā parādīts.
 00fd6220c8=Lietotne ir instalēta
 00feffff2b=Bloķēto lietotāju saraksts
-011341569b=Pirmoreiz spēlēts pirms <TAG1/><LIST1/>
+011341569b=Pirmoreiz spēlēts <TAG1/><LIST1/> iepriekš
 012bbad173=Arhivēt citas programmatūras datus
 012bd960e4=Neizdevās publicēt.
 0145befc2b=Spēlēts pēdējās 1 nedēļas laikā
@@ -1623,7 +1623,7 @@
 7745b0551a=Interneta savienojums
 775a36c578=Jūsu PIN ir mainīts.<NL/>Lūdzu, ievadiet PIN vēlreiz.
 77ae606669=Nav pietiekami daudz brīvas vietas, lai atjauninātu programmatūru.<TAG1/><NL/>Nepieciešama brīva vieta <TAG2/> <TAG3/> apjomā konsoles sistēmas atmiņā.<NL/>Lūdzu, arhivējiet programmatūru.
-77ba99ff2e=<TAG1/><L_NST/><TAG2/> Parental Controls lietotne ļauj iestatīt ierobežojumus, izmantojot viedierīci. To var lejupielādēt bez maksas.
+77ba99ff2e=Lietotne <TAG1/><L_NST/><TAG2/> Parental Controls ļauj iestatīt ierobežojumus, izmantojot viedierīci. To var lejupielādēt bez maksas.
 77e1c0c974=<TAG1/><TAG2/>Ar <L_N10/> kontu nesaistītie lietotāji tiks pārvietoti uz otru sistēmu un pēc pārsūtīšanas dzēsti no šīs sistēmas. Ar <L_N10/> kontiem saistītie lietotāji tiks kopēti uz jauno sistēmu un būs pieejami abās sistēmās.<TAG3/><TAG4/>
 77e801cd74=Ja iepriekš pievienojāt<NL/>maiņstrāvas adapteri konsolei,<NL/>atvienojiet to.
 77f781be1f=Bezsaistē
@@ -3069,7 +3069,7 @@ e5b3150798=Informācijas iegūšana<L_DOT3/>
 e5b3c8ce4a=Kolombo
 e5bd0d9d80=Labi
 e5be21ad03=Neizdevās
-e5c19fb745=<TAG1/><L_NS/><TAG2/> Parental Controls lietotne ļauj iestatīt ierobežojumus, izmantojot viedierīci. To var lejupielādēt bez maksas.
+e5c19fb745=Lietotne <TAG1/><L_NS/><TAG2/> Parental Controls ļauj iestatīt ierobežojumus, izmantojot viedierīci. To var lejupielādēt bez maksas.
 e5cef0614f=Savietojiet bultiņas ar ekrāna stūriem.<NL/><TAG1/><TAG2/>Ekrāna izmēru var pielāgot arī, izmantojot TV iestatījumus.<TAG3/><TAG4/>
 e5d636e89b=Vecāku kontroli var īslaicīgi atspējot HOME izvēlnē.
 e5f674e5b5=<L_DOT1/>Iestatīt spēlēšanas laika ierobežojumus

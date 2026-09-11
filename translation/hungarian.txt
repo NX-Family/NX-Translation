@@ -1,4 +1,4 @@
-000393a3c5=Mások is játszhatnak <TAG1/><TAG2/><TAG3/> <TAG4/><L_N10/>-fiókjához<TAG5/> kötött konzolokon.
+000393a3c5=Mások is játszhatnak a(z) <TAG1/><TAG2/> felhasználó<TAG3/> <TAG4/><L_N10/>-fiókjához<TAG5/> kötött konzolokon.
 0009ba6e58=Párosítás <L_BT/> hangeszközzel
 0010a3e244=Most nem játszhatsz ezzel a szoftverrel.<TAG1/><NL/><TAG2/><TAG3/>Ha a <L_N10/>-fiókod másik konzolhoz is kapcsolódik, csatlakoztasd azt az internethez, majd próbáld újra.<TAG4/><TAG5/>
 001b8951e2=Jobb gomb
@@ -45,7 +45,6 @@
 02ff312b00=Pontok szerzése e szoftverért
 03224a982f=A barátaid által játszott játékok
 034f860842=A vezérlő szoftvere elavult vagy sérült.<TAG1/><NL/>A vezérlőt a HOME menü <0xE130/> (Rendszerbeállítások) ⇒ Vezérlők és érzékelők pontjában frissítheted.
-035854faa5=Egy rendszerfrissítés szükséges.
 037bf810ca=Ja, és a vezeték nélküli beállításokhoz a HOME menüben válaszd a <0xE130/> (Rendszerbeállítások) ⇒ Repülőgép üzemmód lehetőséget.<NL/><NL/>Jó játékot!<NL/>Amelia N.
 039dec73d7=Virtuális játékkártya visszavétele<L_DOT3/>
 03aa12391b=Az IP-cím lekérése sikertelen.<TAG1/><NL/>Próbáld újra később.<TAG2/><NL/>Ha a probléma fennáll, próbáld meg a következőket:<NL/><L_DOT1/><TAG3/>Ellenőrizd, hogy a megfelelő hálózati eszközhöz csatlakozol-e.<TAG4/><NL/><L_DOT1/><TAG5/>Ha lehet, add meg kézzel az IP-cím beállításait.<TAG6/>
@@ -148,7 +147,7 @@
 0b24fb3404=Ez a konzol nem tud külső eszközökhöz csatlakozni.
 0b30d14cb5=Helyi felhasználók keresése
 0b8b1bd973=Kérd meg a kompatibilis szoftverrel rendelkező személyt, hogy a <L_N10/> <TAG1/><L_SWT2/><TAG2/> rendszerén tegye a következőket:<TAG3/><NL/><TAG4/><L_D1/> A HOME menüből indítsa el a<L_XA0/>játékot.<NL/><L_D2/> Indítson <L_TGS/> munkamenetet a<L_XA0/>játékon belül.<TAG5/>
-0b9131be95=<TAG1/> összes mentett azonosítója és jelszava, sütije, előzménye és egyéb gyorsítótárazott webhelyadata törlődik.<NL/><NL/>A törölt adatok nem állíthatók vissza.<NL/>Folytatod?
+0b9131be95=A(z) <TAG1/> felhasználó összes mentett azonosítója és jelszava, sütije, előzménye és egyéb gyorsítótárazott webhelyadata törlődik.<NL/><NL/>A törölt adatok nem állíthatók vissza.<NL/>Folytatod?
 0b97e043ff=Értesítések
 0bb6caea66=Írj be egy becenevet.
 0bcf56a91f=Nem használhatsz olyan <L_N10/>-fiókot, amelyet még nem használtak <L_N10/> <TAG1/><L_SWT2/><TAG2/> vagy <L_NS/> rendszeren.
@@ -376,7 +375,6 @@
 1ba280c4ac= fájl
 1bafc5aec0=A virtuális játékkártya kivétele sikertelen.<NL/>Zárd be a szoftvert az alábbi rendszeren, <TAG1/>majd próbáld újra<TAG2/>.
 1bb0af5afb=Vidd a konzolokat közelebb egymáshoz.
-1bc0f1b07d=A virtuális játékkártyáidat ezen a képernyőn láthatod.
 1bd353f902=15 éves kortól ajánlott
 1beab99527=Visszaállítás<L_DOT3/>
 1bf2339cc4=Nem lehet csatlakozni.<TAG1/><NL/>A szerver nem válaszol.<NL/>Próbáld újra később.
@@ -467,7 +465,6 @@
 223b73a0a9=Nem küldhető több barátkérés.<TAG1/><NL/>Rendezd a barátlistádat és/vagy az elküldött barátkéréseidet.
 223c84a24b=Gyári beállítások visszaállítása<L_DOT3/><NL/>Ne érj a POWER gombhoz.
 22559b0d33=Nincs IR mozgásérzékelő kamerás vezérlő<L_XA0/>csatlakoztatva.<TAG1/><NL/>IR mozgásérzékelő kamera a Joy‑Con<L_XA0/>(R) vezérlőn található. Ha van <L_JCR/> vezérlőd, a HOME menü <0xE136/> (Vezérlők) pontjából csatlakoztathatod.
-225ae7dd8f=Kinek a virtuális játékkártyáit szeretnéd betölteni?
 225bf999d7=Vezérlőfrissítés érhető el.<NL/>Frissíted most?
 225ecd3c46=Windhoek, Johannesburg
 227df2a221=<0xE216/> Betöltve egy másik rendszeren
@@ -491,7 +488,7 @@
 2453b00602=A szoftvert <TAG1/> igényli.<NL/><TAG2/><TAG3/>Ez később nem módosítható.<TAG4/><TAG5/>
 2460bee92d=A kapcsolat megszakadt, mert a konzol alvó módba lépett.
 24667bc714=<L_JC/> vezérlők töltése
-246d1bb08a=Rendszerátvitel a <L_N10/> <TAG1/><L_SWT2/><TAG2/> rendszerre
+246d1bb08a=Rendszerátvitel ide: <L_N10/> <TAG1/><L_SWT2/><TAG2/>
 2484411da5=Kivétel sikertelen: <TAG1/><LIST1/>.<TAG2/><NL/>Zárd be a szoftvert, és próbáld újra.
 24903188ab=Másik rendszeren betöltve
 2498842e38=Hogyan ellenőrizhetem a PIN-kódomat?
@@ -633,7 +630,6 @@
 2e52cdc443=A felfüggesztett szoftver bezáródik.
 2e5902e127=A <L_N10/>-fiók, amely ehhez a konzolhoz kapcsolódik, nem használható.<TAG1/><NL/>A HOME menüben nyisd meg a felhasználói oldalad, és jelentkezz be újra a <L_N10/>-fiókodba, vagy kapcsolj hozzá egy <L_N10/>-fiókot.
 2e7e88a4ff=<L_SQR/> <TAG1/>A konzolt használó <L_N10/>-fióktulajdonosoknak:<TAG2/><TAG3/><NL/>Ha ezzel a módszerrel állítod vissza a konzolt, a szokásos visszaállítással ellentétben nem tudod kivenni a betöltött virtuális játékkártyákat.<NL/>A konzol továbbra is a fiókodhoz kapcsolva marad, és használhatja a kapcsolódó szoftverekhez elérhető belépőket.<TAG4/><NL/>Ha továbbra is használni szeretnéd a <L_N10/>-fiókodat ezen a <L_NS/> konzolon, a visszaállítás után kapcsolódj újra a <L_N10/>-fiókoddal ehhez a konzolhoz.<TAG5/><NL/>További információért keresd fel a <L_N10/> támogatási weboldalát.<NL/><TAG6/>
-2e8169cc1b=Ha még nem töltöttél be virtuális játékkártyákat a rendszerre, akkor nem kölcsönözheted ki őket. Tölts be egyet erre a rendszerre, és próbáld újra.
 2eab00162a=Ez nem kalibrálható, amíg a <L_JC/> vezérlőt vízszintesen tartod.<TAG1/><NL/>Ezt a "Fogás/sorrend módosítása" pontban változtathatod meg.
 2eae57476a=Felhasználói hitelesítés
 2eb1816f46=Nincs kiválasztva fájl.
@@ -658,7 +654,6 @@
 3000afb270=A kiválasztott vezérlő rezegtetéséhez egy közeli vezérlőn nyomd meg a <0xE0A4/> vagy <0xE0A5/> gombot.
 3021b52ea2=Egy PIN-kód szükséges a Szülői felügyelet ideiglenes letiltásához.
 304b22e907=A mentési adatok automatikus letöltése engedélyezve.<TAG1/><NL/><L_DOT1/><TAG2/>Az első letöltést kézzel kell elvégezni.<TAG3/><NL/><L_DOT1/><TAG4/>Ha más konzolokon is engedélyeznéd ezt a funkciót, minden konzolon külön kell beállítanod.<TAG5/><NL/><L_WSP/><TAG6/><TAG7/><TAG8/>A HOME menüben itt módosíthatod: <0xE130/> (Rendszerbeállítások) ⇒ Adatkezelés ⇒ Felhőmentés.<TAG9/><TAG10/><TAG11/>
-304f5b8b60=Nem lehet ellenőrizni, hogy ez a szoftver támogatja-e a mentési adatok felhőszolgáltatással történő biztonsági másolatolását.<TAG1/><NL/><TAG2/><TAG3/>Lehet, hogy nem tudsz mentési adatokat biztonsági másolatolni vagy letölteni.<TAG4/><TAG5/>
 305e65c96e=<0xE153/> Elrejtve a listából
 305fbf4a1d=Szoftver (<L_N10/> <TAG1/><L_SWT2/><TAG2/> Edition)
 307133e696=Megszakadt a kapcsolat a vezérlővel.<NL/>Csatlakoztass egy vezérlőt, és próbáld újra.
@@ -670,7 +665,6 @@
 30fa43a713=A vezérlők vezeték nélküli használatához kapcsold ki a Repülőgép üzemmódot.<NL/><TAG1/>Ezt a Gyorsbeállításokban teheted meg (tartsd nyomva a <0xE0B9/> gombot).<TAG2/>
 310b78c657=Nem lehet csatlakozni az internethez.<TAG1/><NL/>A szerver nem válaszol.<NL/>Próbáld újra később.
 3131d7b3ad=Várakozás a csatlakozó tagokra<L_DOT3/>
-314a0d4b35=Ez a szoftver mentett adatok letöltése még nem fejeződött be.<NL/>További információért térjen vissza a HOME menübe, nyissa meg a szoftver opcióit, majd válassza a Mentett adatfelhő lehetőséget.<NL/><TAG1/><TAG2/>A letöltés folytatásához internetkapcsolat szükséges.<TAG3/><TAG4/>
 316ba3e086=London, Dublin, Lisszabon
 3186e6c11d=Aktuális dátum és idő: <TAG1/>
 319d350d97=A felhasználó nem adható hozzá.<TAG1/><NL/>Zárd be a felfüggesztett szoftvert, és próbáld újra.
@@ -798,7 +792,6 @@
 3b75ec80c6=Bekapcsolva a <L_NS/> <L_PRO/> vezetékes kapcsolatot használ, ha USB-töltőkábellel a konzolhoz csatlakozik. Az <L_NFC/> érintési pont a <L_PRO/> vezérlőn ilyenkor nem használható.
 3b9a4da33e=Blokkolás
 3ba6b0e403=Hiba történt.<TAG1/><NL/>Egyeztesd újra a szoftververziót.
-3bb21706da=A játék felfüggesztése folyamatban van.<NL/>Előfordulhat, hogy a letöltött szoftvert vagy letölthető tartalmat egy másik konzolon játszanak le ugyanazt használva <L_N10/> fiók.<TAG1/><NL/>Meglátogatni a <L_N10/> Támogatási webhely további információkért.<NL/><L_SNCE/>
 3bce3453d9=Helyi felhasználókkal kommunikálva egyeztetheted a szoftververziókat.
 3bd943b89a=Nem sikerült letölteni. Ez a rendszer nem támogatott.
 3bd98e65dd=Nouméa
@@ -808,7 +801,6 @@
 3c6507174d=A rendszeradatok feltöltve a szerverre!<NL/><TAG1/><TAG2/>Töltsd le az adatokat egy <L_N10/> <TAG3/><L_SWT2/><TAG4/> rendszeren.<TAG5/><TAG6/>
 3c7f18176a=Biztonsági mentés<L_DOT3/>
 3c9985d8c8=Ugyanazt a <L_N10/>-fiókot kapcsold össze, amelyet a másik konzolon használtál.
-3ca414c388=Teljes méret
 3ca6f5d403=Rendezés
 3cad586069=Kihagyás
 3cb9a53b43=A regisztráció sikertelen.<NL/>Próbáld újra.
@@ -824,7 +816,7 @@
 3d333669ca=L gomb
 3d48877760=Felhasználó
 3d4e0ba607=Nyelv módosítása
-3d80b4f229=Egy <L_N10/>-fiók minden <TAG1/>virtuális játékkártyáját<TAG2/> legfeljebb két rendszer használhatja.<NL/><TAG3/><TAG4/>A második rendszert az első használatkor össze kell kapcsolni az <TAG5/>első rendszerrel<TAG6/>.<TAG7/><TAG8/>
+3d80b4f229=Egy <L_N10/>-fiók minden <TAG1/>virtuális játékkártyáját<TAG2/> legfeljebb két rendszer használhatja.<NL/><TAG3/><TAG4/>A második rendszert az első használatkor össze kell kapcsolni az <TAG5/>első rendszerrel.<TAG6/><TAG7/><TAG8/>
 3dd0cad175=A régió módosításához a konzolnak újra kell indulnia. Olvasd el a következő képernyőn a "Fontos információk" részt.<TAG1/><NL/>Az "Automatikus alvás (tévéhez csatlakoztatva)" beállítás 15 percre változik.<NL/><TAG2/><TAG3/>Ezt később a HOME menü <0xE130/> (Rendszerbeállítások) ⇒ Alvó mód pontjában módosíthatod.<TAG4/><TAG5/>
 3dd11e0948=A gombkiosztás visszaáll alaphelyzetbe.
 3dd4463711=A mentési adatok letöltése megszakadt, mert a mentési adatok ezen a konzolon frissültek.
@@ -842,7 +834,6 @@
 3eaa3e84c8=<L_NSO/>-tagság szükséges.<NL/><TAG1/><TAG2/>További információt a <L_NEP/> felületén találsz.<TAG3/><TAG4/>
 3eb297b487=A bevitel megszakadt.
 3ec017cc98=Elfelejtett PIN-kód
-3f1280b0c6=A rendszerre előre telepített szoftverek még nem<L_XA0/> regisztrált. Kérjük, regisztrálja a szoftvert itt:<TAG1/><L_NEP/><TAG2/> és aztán folytasd.
 3f1bdd937f=<L_D1/> <TAG1/>A másik rendszeren nyisd meg a HOME menüt, majd válaszd a <0xE13D/> (Virtuális játékkártyák) ⇒ <TAG2/> lehetőséget.<TAG3/><TAG4/><NL/><L_D2/> <TAG5/>Helyezd a rendszereket egymás közelébe.<TAG6/>
 3f428ba2f8=<0xE13D/> Virtuális játékkártyák megtekintésekor
 3f47263243=7 éves kortól ajánlott
@@ -930,7 +921,6 @@
 459b35298e=Nincs adat
 45cc9c4fd1=Kapcsolat <L_WIFI/> használatával
 460f323772=Ezen a helyen nincs mentett képernyőkép vagy videó.<NL/>Készíts sokféle képernyőképet és videót a <L_NS/> konzolon szerzett játékélményeid megőrzéséhez!<TAG1/><NL/>Ehhez használd a Rögzítés gombot. Röviden megnyomva képet készít az aktuális képernyőről, nyomva tartva pedig videót rögzít az előző 30 másodpercről.<NL/>Ezután a képernyőképeket és videókat esetleg a közösségi médiában is közzéteheted.
-46253cc402=Sikeresen feltöltve!<NL/><TAG1/><TAG2/> Amint letöltötted az adatokat, azonnal játszhatsz.<TAG3/><TAG4/>
 462b070ee8=<L_DOT1/><TAG1/>Ha a vezérlő ruhán vagy puha tárgyon, például párnán van, a rezgés nehezen hallható. Keresés közben legyen minél nagyobb csend.<TAG2/><TAG3/><NL/><L_DOT1/><TAG4/>Rezgésfunkció nélküli vezérlők ezzel a módszerrel nem kereshetők.<TAG5/><TAG6/><NL/><L_DOT1/><TAG7/>Ha a vezérlő nem rezeg, vidd a konzolt közelebb ahhoz a helyhez, ahol a vezérlő lehet, vagy próbáld másik konzollal keresni. A vezérlők esetleg nem rezegnek, ha:<TAG8/><NL/><L_DSH/><TAG9/>Túl messze vannak a konzoltól.<TAG10/><TAG11/><NL/><L_DSH/><TAG12/>Lemerült vagy alacsony töltöttségű az akkumulátoruk.<TAG13/><TAG14/><NL/><L_DSH/><TAG15/>Nincsenek konzolhoz párosítva, vagy másik konzolhoz vannak párosítva.<TAG16/><TAG17/>
 4648a8ad0d=Letöltés szüneteltetve.
 4681bfffa8=Az adat visszaállítható újraletöltéssel.
@@ -956,7 +946,6 @@
 4781c23da1=Meghívást kaptál!
 478430da0b=A dokkoló frissítése nem sikerült.
 47a86ce719=Észrevetted a <L_NS/> konzol hátuljába épített kitámasztót? Nemcsak praktikus, hanem egy titkot is rejt!<NL/><NL/>Nyisd ki, és lám! Ott a <L_MSD/> kártyák foglalata.<NL/><NL/>Helyezz bele egy <L_MSD/> kártyát (külön kapható), és máris több helyed lesz szoftverek, <L_DLC/> tartalmak és hasonlók letöltéséhez.<NL/><NL/>Ha attól tartottál, hogy elfogy a tárhelyed, ez biztosan megnyugtat.
-47ab34fa30=Vannak letöltetlen mentett adatok.
 47bbed5385=Kérlek, hogy <TAG1/>minden játékos<TAG2/> jelenítse meg ezt a képernyőt.
 47c8937d2d=Visszaállítás indítása
 47e70814c1=Biztosan bezárod ezt a szoftvert?<NL/><TAG1/><TAG2/>Válassz egy lehetőséget a vezérlőkarral, majd a <TAG3/> gombbal erősítsd meg.<TAG4/><TAG5/>
@@ -1055,7 +1044,6 @@
 4e5dd4b68b=Minden felhasználó
 4e6f196ee2=Pontokat szereztél!
 4e764df15d=Csatlakozz az internethez, hogy láthasd, mit játszanak a barátaid.
-4ea4ca5fdd=Néhány digitális szoftver és letölthető tartalom vásárláskor virtuális játékkártyát tartalmaz.<TAG1/><NL/> A betöltés után a játék ikonja megjelenik a KEZDŐLAP menüben, és máris játszhatsz a játékkal.<NL/><TAG2/><TAG3/> A virtuális játékkártyák megtekintéséhez nyissa meg a HOME menüt, majd válassza a <0xE13D/> (Virtuális játékkártyák) lehetőséget.<TAG4/><TAG5/>
 4ea6c8ec5f=Szoftverfrissítés megszakítása
 4edb2b1dd3=Hol szeretnéd, hogy a videó kezdődjön?
 4ee3f3cdd7=Hiba történt az IR mozgásérzékelő kamera beolvasása közben.<TAG1/><NL/>Ha a probléma fennmarad, keresd fel a<NL/><L_N10/> támogatási weboldalát.<NL/><L_SNCE/>
@@ -1223,7 +1211,7 @@
 58a98d1b72=Felhasználói beállítások
 58b1f539a8=Kalibrálás
 58bec3c9f4=Csatlakozás <L_TGS/> munkamenethez
-590424afee=Tartsd az <L_AMI/> eszközt a helyén, amíg a folyamat <TAG1/>be nem fejeződik<TAG2/>.
+590424afee=Tartsd az <L_AMI/> eszközt a helyén, amíg a folyamat <TAG1/>be nem fejeződik.<TAG2/>
 5907ab548c=15 éves kortól ajánlott
 591717969a=Adatvédelmi szabályzat
 59226fcbd9=A konzol akkumulátorának töltöttsége alacsony.<NL/><TAG1/><TAG2/>Ha a konzol kikapcsol, akkor megszakad a kapcsolat.<TAG3/><TAG4/>
@@ -1435,7 +1423,6 @@
 696aba4a38= fő
 696b6f655c=Képernyőképek és videók
 6974646d8c=A másik rendszeren végezd el ezeket:
-697e8ed82b=A konzol kapcsolódik az internethez, hogy ellenőrizze, hogy ez a szoftver támogatja-e a mentett adatfelhő szolgáltatást.<TAG1/><NL/>Lokális kommunikációról lesz lekapcsolva.
 698afa597b=A kapcsolat megszakadt, mert a játékot felfüggesztették.
 6990afc1a0=A felhasználó nem adható hozzá, mert a bejelentkezéshez használt <L_N10/>-fiók még sosem kapcsolódott <L_NS/> konzolhoz.<TAG1/><NL/>Ellenőrizd a <L_N10/>-fiók adatait, és próbáld újra.
 69984a2324=Helyhiány miatt nem hozhatók létre mentési adatok a rendszermemóriában.<TAG1/><NL/>Archiválj vagy törölj felesleges adatokat a <0xE130/> (Rendszerbeállítások) ⇒ Adatkezelés pontban, amely a HOME menüből érhető el.
@@ -1489,7 +1476,7 @@
 6ceb90f0a9=A játékhoz rendelkezned kell a szoftverrel.
 6d0f81b87e=Felülírod az összes felhasználó konzolon lévő mentési adatait a <L_N10/> részére elküldött mentési adatokkal?<NL/><TAG1/><TAG2/>A konzol mentési adatai törlődnek.<NL/>Nem lehet csak egyes felhasználók adatait felülírni.<TAG3/><TAG4/>
 6d33b4427c=Letöltési lehetőségek
-6d5ec8d9fc=Játékidő: legalább <TAG1/><LIST1/>
+6d5ec8d9fc=Játékidő: <TAG1/><LIST1/> vagy több
 6d6697e0e7=<TAG1/>Letöltve: <L_DLC/><NL/>(és még <TAG2/>).<TAG3/>
 6d6b2872f5=Túl sok próbálkozás. Újrapróbálkozásig hátra: <TAG1/><LIST1/>.
 6d743f54ab=Mentés képernyőképként
@@ -1714,7 +1701,7 @@
 7e1cba2d21=Nem kezdeményezhető kapcsolat.<TAG1/><NL/>Próbáld újra később.
 7e22d0f241=Hibatörténet
 7e34650310=Várj, majd próbáld újra később.
-7e35e3f7ff=<0xE215/> Betöltve: <TAG1/><LIST1/>
+7e35e3f7ff=<0xE215/> <TAG1/><LIST1/> betöltve
 7e58e4755a=Virtuális játékkártyákat adhatsz kölcsön a családi csoport tagjainak, miután egymás közelébe viszitek és összekapcsoljátok a két rendszert.<TAG1/><NL/><L_DOT1/><TAG2/>A kölcsönadás idején a szoftver szabadon játszható a kölcsönvevő rendszerén, a kölcsönadó pedig átmenetileg elveszíti a hozzáférést.<TAG3/><TAG4/><NL/><L_DOT1/><TAG5/>Virtuális játékkártyák legfeljebb 14 napra vehetők kölcsön. A határidő elérésekor a kártya automatikusan visszakerül a kölcsönadóhoz.<NL/><TAG6/><TAG7/>A kölcsönadó a határidő előtt is visszaveheti virtuális játékkártyáit a kölcsönvevőktől.<TAG8/><TAG9/><TAG10/><TAG11/><NL/><L_DOT1/><TAG12/>Kölcsönvevőnként egy virtuális játékkártyát adhatsz kölcsön, egyszerre legfeljebb három kölcsönvevőnek. Egy adott rendszeren azonban egyszerre legfeljebb egy kártya vehető kölcsön.<NL/><TAG13/><TAG14/>Visszavétel után a virtuális játékkártya újra kölcsönadható.<TAG15/><TAG16/><TAG17/>
 7e6275791f=Kölcsönvevő felhasználó kiválasztása
 7e868254e8=Ez a virtuális játékkártya másik rendszerre van betöltve.<TAG1/><NL/>Kölcsönadáshoz vedd ki a másik rendszerből.
@@ -1731,7 +1718,7 @@
 7f4847b3aa=Szoftver archiválása
 7f610f0374=A konzol egyetlen felhasználója nem törölhető. <TAG1/>A törléséhez <TAG2/>előbb adj hozzá másik felhasználót.
 7f620054c0=A <L_NS/> App hangcsevegését jelenleg korlátozza a <L_N10/>.
-7f676c63ce=Tartsd az <L_AMI/> eszközt a helyén, amíg az adatok <TAG1/>helyre nem állnak<TAG2/>.
+7f676c63ce=Tartsd az <L_AMI/> eszközt a helyén, amíg az adatok <TAG1/>helyre nem állnak.<TAG2/>
 7f7fd78ef6=Add meg a hálózat nevét.
 7f86d8c0d0=Felhőmentés beállításai
 7f8d47dc91=A konzol kapcsolódik az internethez, hogy ellenőrizze, szükséges-e rendszerfrissítés.
@@ -1758,7 +1745,6 @@
 80e6a6cd97=Hol szeretnéd, hogy a videó véget érjen?
 80f8e384aa=A szoftver megjelenési dátumát és további információkat a <L_NEP/> felületén találod.
 80f9cf0668=Képernyőképek és videók másolása/törlése
-810d1e183a=A tanúsítvány lejárt, vagy még nem érvényes.<NL/>Kérjük, ellenőrizze, hogy a konzol dátum- és időbeállításai helyesek-e.
 81292c6491=Blokkolva
 8151cd46c1=Bejelentkezéssel átmenetileg hozzáférhetsz egy másik, e konzolhoz nem kapcsolódó <L_N10/>-fiók adataihoz.<NL/><TAG1/><TAG2/>A konzol nem menti el a bejelentkezési adataidat.<TAG3/><TAG4/>
 816a947236=Támogatási kód: <L_CODE/>
@@ -1825,7 +1811,6 @@
 858115d803=Barátok, akik nemrég kezdték el ezt a játékot (<TAG1/>)
 858cfe6727=Most már hozzákapcsolhatsz egy <L_N10/>-fiókot.<NL/><TAG1/><TAG2/>Ezzel elérheted az online játékot, a barátfunkciókat, a <L_NEP/> szolgáltatást és még sok mást.<TAG3/><TAG4/>
 859515e3d1=Okostelefonos alkalmazás
-85ac6fadc0=Néhány digitális szoftver és letölthető tartalom vásárláskor virtuális játékkártyát tartalmaz.<TAG1/><NL/> A betöltés után a játék ikonja megjelenik a KEZDŐLAP menüben, és máris játszhatsz a játékkal.<NL/><TAG2/><TAG3/> A virtuális játékkártyák megtekintéséhez nyissa meg a HOME menüt, és<NL/> válaszd a <0xE13D/> (Virtuális játékkártyák) lehetőséget.<TAG4/><TAG5/>
 85b3fdf3b1=Nem található a másik rendszer.<TAG1/><NL/>Próbáld újra.
 85bab1710a=Most már vezérlőkarral is megadhatod a szülői felügyelet PIN-kódját.<TAG1/><NL/><L_DOT1/><TAG2/>Így gyorsabban viheted be a számokat.<TAG3/><NL/><L_DOT1/><TAG4/>Vezérlőkarral történő bevitelkor mások nem látják a képernyőn a kiválasztott számokat.<TAG5/><TAG6/><NL/><TAG7/><TAG8/>A <TAG9/> gombot nyomva tartva számbillentyűzetre válthatsz, és a korábbi módon adhatod meg a PIN-kódot.<TAG10/><TAG11/>
 85babdce25=A szoftvert hiba miatt be kellett zárni.<TAG1/><NL/>Engedélyezed, hogy a <L_N10/> elemzés és fejlesztés céljából megossza e konzol hibaadatait azokkal a külső fejlesztőkkel, akiknek a szoftvere összeomlott?<TAG2/><NL/>A nemzetközi adatmegosztás célhelyeiről és a személyes adatok védelméről az alábbi weboldalon olvashatsz (csak japánul). Olvasd el előre a tájékoztatást.<NL/><L_NCJP/><TAG3/><NL/><TAG4/>Ezt a beállítást bármikor módosíthatod a <0xE130/> (Rendszerbeállítások) ⇒ Rendszer pontban a HOME menüben.<TAG5/>
@@ -1908,7 +1893,7 @@
 8ba6efe077=Virtuális játékkártyát betölthetsz közvetlenül a célrendszeren, vagy a fenti webcímet megnyitva<L_XA0/>számítógép vagy okoseszköz böngészőjében.<NL/><TAG1/><TAG2/>A weboldalon az összekapcsolt rendszereket is láthatod.<TAG3/><TAG4/>
 8bdfa846a4=Egy másik játékkártya van behelyezve.
 8bf54fbdb7=Regisztráció törlése
-8c0eb35b01=Tartsd az <L_AMI/> eszközt a helyén, amíg a regisztráció <TAG1/>be nem fejeződik<TAG2/>.
+8c0eb35b01=Tartsd az <L_AMI/> eszközt a helyén, amíg a regisztráció <TAG1/>be nem fejeződik.<TAG2/>
 8c110fdf78=Csomag
 8c21aaea56=A <L_N10/>-fiókod összekapcsolása sikerült!<NL/>Most már használhatod ezeket a funkciókat:
 8c2d599f88=Hiba történt, ezért a rendszer most újraindul.
@@ -2152,7 +2137,6 @@
 9dd5eff6c3=Ennek az <L_AMI/> eszköznek minden adata törlődik.
 9df28e2c80=Fordítsd
 9e327cdc7f=Nem található olyan csatorna, amely megfelel a megadott kulcsszónak.
-9e4190a7c6=Jelenleg nem adhat hozzá felhasználókat.<TAG1/><NL/>Zárja be a felfüggesztett szoftvert, majd válassza<NL/><0xE130/> (Rendszerbeállítások) ⇒ Felhasználók hozzáadása a felhasználó hozzáadásához.
 9e50c9122e=4-8 számjegy
 9e52824cb7=Az alábbi adatok mindegyike átmásolódik egy <L_N10/> <TAG1/><L_SWT2/><TAG2/> rendszerre:
 9e6637e3df=A játék felfüggesztésre kerül.<TAG1/><NL/>További információért keresd fel a <L_N10/> támogatási weboldalát.<NL/><L_SNCE/><TAG2/><NL/>A folytatáshoz csatlakozz az internethez, majd folytasd a játékot a HOME menüből.
@@ -2189,7 +2173,7 @@
 a00f117826=Rendszermemória 
 a04027d924=A konzol mozgásvezérlésének kalibrálásához válaszd a "Konzol kalibrálása" lehetőséget.
 a04677cc7a= óra
-a062bc1d91=A tulajdonos és a becenév adatai most <TAG1/>regisztrálva lesznek az <L_AMI/> eszközön<TAG2/>.
+a062bc1d91=A tulajdonos és a becenév adatai most <TAG1/>regisztrálva lesznek az <L_AMI/> eszközön.<TAG2/>
 a06a85a5cf=A <L_N10/>-fiók Végfelhasználói licencszerződése és Adatvédelmi szabályzata frissült.<TAG1/><NL/>Olvasd el a frissített tájékoztatást.
 a07e7954c2=Kiválasztott értékelési szervezet: <L_ESRB/>
 a088163369=Nem található játékadat ehhez az <L_AMI/> eszközhöz.
@@ -2369,7 +2353,6 @@ ae17e30f8a=3 éves kortól ajánlott
 ae199254f4=A <L_N10/>-fiókodba való bejelentkezés helyett PIN-kódot is beállíthatsz.
 ae24c5be9b=Bal
 ae318d40f5=A rendszerátvitel elindításával és az adatok szerverre feltöltésével elfogadod az alábbiakat:
-ae3dadfaca=Letöltési hiba történt.
 ae44cb539b=Eszköz párosítása
 ae6030371d=Képernyőképek: <TAG1/>
 ae89a8d3fc=Ha a vezérlőkar nem megfelelően működik, a <0xE0A5/> gombbal kalibráld újra.
@@ -2473,7 +2456,7 @@ b6232ce28d=A speciális <L_MI/> karakterek nem használhatók ikonként.
 b64fa9bb70=Próbáld újra később.<TAG1/><NL/>Ha a probléma fennmarad, keresd fel a <L_N10/> támogatási<L_XA0/>weboldalát.<NL/><L_SNCE/>
 b6599300f0=A mentési adatok letöltéséhez a használt szoftver most bezáródik és újraindul.
 b65ef7a3fd=<L_DOT1/> <TAG1/>A letölthető szoftverek, amelyeket <TAG2/> vásárolt, újra letölthetők és játszhatók a célrendszeren.<TAG3/><TAG4/><NL/><L_DOT1/> <TAG5/>A képernyőképek és videók nem kerültek át, és az eredeti rendszeren maradtak.<TAG6/><TAG7/><NL/>További információért keresd fel a <L_N10/> támogatási weboldalát:<NL/><L_SNCT/>
-b65fbff58a=<TAG1/> hozzáadása az engedélylistához?<NL/><TAG2/><TAG3/>Az engedélylistára tett szoftverben megszűnnek a játék és a másokkal való szabad kommunikáció korlátai.<NL/>A lista később módosítható.<TAG4/><TAG5/>
+b65fbff58a=Felveszed a(z) <TAG1/> szoftvert az engedélylistára?<NL/><TAG2/><TAG3/>Az engedélylistára tett szoftverben megszűnnek a játék és a másokkal való szabad kommunikáció korlátai.<NL/>A lista később módosítható.<TAG4/><TAG5/>
 b678551b6e=Kiveszed a virtuális játékkártyát erről a rendszerről?<NL/><TAG1/><TAG2/>A mentési adatok megmaradnak. Töltsd be újra a virtuális játékkártyát a<L_XA0/>játék folytatásához.<TAG3/><TAG4/>
 b68fe37cd9=A beállításaid naprakészek.<NL/><TAG1/><TAG2/>A <L_NS/> Parental Controls alkalmazás beállításai érvényesülnek.<TAG3/><TAG4/>
 b698b25ecc=A rendszerek összekapcsolva.<NL/><TAG1/><TAG2/>Most már kölcsönveheted a virtuális játékkártyát.<TAG3/><TAG4/>
@@ -3051,7 +3034,6 @@ e32050f975=Keresés kulcsszó alapján
 e3241b8d7d=<TAG1/><LIST1/> <TAG2/><LIST2/> van hátra
 e338cb1abc=Nem lehet csatlakozni a szerverhez.<NL/>Lehet, hogy a hálózat foglalt, vagy hiba van a szerveren.<NL/>Próbáld újra később.<TAG1/><NL/>A <L_N10/> támogatási weboldalán tájékozódhatsz.<NL/><L_SNCE/>
 e33ca7be8f=<L_SQR/> Fontos információk<TAG1/><NL/>A szerverre küldött adatok, például a mentési adatok, képernyőképek és<NL/>videók visszakerülnek erre a rendszerre. Egyes adatok azonban<NL/>nem feltétlenül jelennek meg ugyanúgy, mint korábban. Például:<TAG2/><NL/><L_DOT1/> <TAG3/>A HOME menü szoftverikonjai nem állnak vissza.<NL/>Az Összes szoftver csoportbeállításai is törlődnek.<NL/><TAG4/><TAG5/>A megvásárolt letölthető szoftverek és <L_DLC/> nem vesznek el.<NL/>A megvásárolt szoftver újbóli letöltéséhez töltsd be a virtuális játékkártyáját.<TAG6/><TAG7/><TAG8/><TAG9/><NL/><L_DOT1/> <TAG10/>A <L_NS/> Parental Controls alkalmazással való kapcsolat<NL/>megszűnik. Az alkalmazást később újra összekapcsolhatod.<TAG11/>
-e34a3245a8=Új letölthető tartalom található.<NL/>Telepíted most?
 e34c900863=A <L_MSD/> kártyát a <L_N10/> <TAG1/><L_SWT2/><TAG2/> rendszerbe áthelyezve ezeket viheted át:<NL/><NL/><L_DOT1/> <TAG3/>A következővel készített videók: <TAG4/><TAG5/><NL/><NL/>Őrizd biztonságos helyen a <L_MSD/> kártyát, amíg használatba veheted a <L_N10/> <TAG6/><L_SWT2/><TAG7/> rendszert.
 e353b6b293=Szoftver indítása
 e38a4e6bdc=Nem kapcsoltál hozzá közösségimédia-fiókot.<TAG1/><NL/>A felhasználói oldalad Barátjavaslatok pontjában kapcsolhatsz hozzá egyet.
@@ -3165,7 +3147,6 @@ eb38ff10fd=Várakozás más felhasználókra<L_DOT3/>
 eb3a0cd4bb=Kaland közben lenyűgöző tájat látsz?<NL/>Lélekből jövő szólóddal meghódítod a közönséget?<NL/><NL/>Gyorsan nyomd meg a <0xE0BA/> gombot (ez a rögzítés gomb)!<NL/>Képernyőkép készül, amely az Albumba kerül.<NL/>Készíts sok képet, és hamarosan tele leszel vidám játékélményekkel!<NL/><NL/>De ez még nem minden! Szöveget is adhatsz a képernyőképhez, és közzéteheted kedvenc közösségi oldalaidon. Oszd meg a játék pillanatait a barátaiddal!<NL/><NL/>Ha pedig újraélnél egy igazán különleges pillanatot, videóként rögzítheted a játék utolsó 30 másodpercét*.<NL/>Csak tartsd lenyomva a <0xE0BA/> gombot, amíg halk hangot nem hallasz. A videókat közvetlenül az Albumból is megoszthatod. Mutasd meg a világnak, mire vagy képes!<NL/><NL/><L_SQR/> Figyelem, lelkes kép- és videókészítők!<NL/>Ha sok képet vagy videót mentenél, érdemes lehet <L_MSD/> kártyát venned.<NL/><NL/>A belső tárhelyre körülbelül 1000 képernyőkép vagy 100 videó fér, de egy elég nagy <L_MSD/> kártyára legfeljebb 10000 képernyőkép vagy 1000 videó! Rengeteg emlék!<NL/><NL/>Jó játékot!<NL/>Amelia N.
 eb3e96f4a9=A Szülői felügyelet beállításához ezt a <L_N10/>-fiókot használjuk.<NL/>Szeretnéd regisztrálni a <TAG1/><L_NS/><TAG2/> Parental Controls alkalmazásban?
 eb42cf244d=Ha a <TAG1/><L_N3D/><TAG2/> barátaid (<0xE131/>) <TAG3/><L_NS/><TAG4/> konzolt is használnak, itt barátjavaslatként jelennek meg.<NL/><TAG5/><TAG6/>A barátaidnak is engedélyezniük kell a <TAG7/><L_N3D/><TAG8/> barátjavaslatokat a felhasználói oldalukon.<TAG9/><TAG10/>
-eb4fdc3239=Válasszon virtuális játékkártyákat a rendszerre való betöltéshez. Betöltés után a játék<NL/> ikon hozzáadódik a<TAG1/> KEZDŐLAP Menü<TAG2/> , és le is tudod majd játszani.
 eb5d251b7e=Letöltés előrehaladása: <TAG1/>
 eb7396985b=Mentési adatok átvitele közeli konzolra.<NL/><TAG1/><TAG2/>Mentési adatok csak ugyanahhoz a <L_N10/>-fiókhoz kapcsolódó felhasználók között vihetők át.<TAG3/><TAG4/>
 eb7bdb2af4=Ne töröld
@@ -3321,7 +3302,6 @@ f72c4d8bc4=A mentési adatok elemzéséhez és helyreállításához a<NL/>szoft
 f73fd78021=Ez a barátkérés barátkód használatával lett elküldve.
 f749d70845=<L_NSO/>-tagság szükséges.<NL/>A szolgáltatást ingyenes próbaidőszakkal próbálhatod ki.
 f756081e20=Elfogadás
-f75b80d554=Ez a jelenlegi biztonsági mentés és letöltési állapot a mentett adataidnak.<TAG1/><NL/>További információért menj a FŐMENÜ-be, jelöld ki a szoftveredet, válaszd a Beállításokat, majd válaszd ki a Mentett adatfelhőt.
 f773776c15=17 éves kortól ajánlott
 f781e48036=Böngészés<L_DOT3/>
 f784485d66=Vezérlőgombok tesztelése

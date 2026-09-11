@@ -1,4 +1,4 @@
-000393a3c5=Người dùng khác có thể chơi trên các hệ thống được liên kết với <TAG1/><TAG2/><TAG3/> qua <TAG4/>tài khoản <L_N10/><TAG5/> của người đó.
+000393a3c5=Người dùng khác có thể chơi trên các hệ thống mà <TAG1/><TAG2/> đã liên kết<TAG3/> với <TAG4/>tài khoản <L_N10/><TAG5/> của mình.
 0009ba6e58=Ghép nối thiết bị âm thanh <L_BT/>
 0010a3e244=Hiện không thể chơi phần mềm này.<TAG1/><NL/><TAG2/><TAG3/>Nếu tài khoản <L_N10/> của bạn đã liên kết với máy chơi game khác, hãy kết nối máy đó với Internet rồi thử lại.<TAG4/><TAG5/>
 001b8951e2=Nút phải
@@ -7,7 +7,7 @@
 0079e761c9=Gần đây đã có<NL/><TAG1/><LIST1/> bắt đầu chơi!
 008254084c=Trang web: <L_VS/>
 00903b93e9=Tắt cài đặt này sẽ vô hiệu hóa các nút trên máy chơi game. Bạn sẽ cần tay cầm không dây để dùng nút. Cài đặt này sẽ tự bật lại khi thoát chế độ ngủ hoặc khởi động lại máy
-00a4afc9e5=Tôi chưa có <L_N10/> <TAG1/><L_SWT2/><TAG2/>
+00a4afc9e5=Tôi chưa có <L_N10/> <TAG1/><L_SWT2/><TAG2/> nào
 00d88ff7b0=Thao tác này sẽ xóa mọi dữ liệu trong bộ nhớ hệ thống, gồm dữ liệu phần mềm, ảnh chụp màn hình và video. Hệ thống sẽ được đặt lại về<L_XA0/>cài đặt gốc.<TAG1/><NL/>Sau khi đặt lại xong, hãy tháo thẻ <L_MSD/> khỏi hệ thống<L_XA0/>này.<TAG2/><NL/><L_SQR/> Cảnh báo<TAG3/><NL/><L_DOT1/> <TAG4/>Mọi dữ liệu phần mềm lưu trên thẻ <L_MSD/>, trừ ảnh chụp màn hình và video, sẽ không dùng được. (Dữ liệu trên thẻ <L_MSD/> sẽ không bị xóa.)<TAG5/><TAG6/><NL/><L_DOT1/> <TAG7/>Phiên bản hệ thống sẽ không thay đổi hay quay về bản cũ.<TAG8/><TAG9/>
 00e36f62eb= giờ
 00e3fde319=Không thể bắt đầu kết nối với thiết bị ngoài.<TAG1/><NL/>Khởi động lại máy chơi game từ Tùy chọn nguồn trong Menu nguồn (giữ nút POWER trong ba giây).
@@ -16,7 +16,7 @@
 00fd224644=Mở nắp sau đế cắm và cắm cáp như hình.
 00fd6220c8=Ứng dụng đã được cài đặt
 00feffff2b=Danh sách người dùng bị chặn
-011341569b=Chơi lần đầu cách đây <TAG1/><LIST1/>
+011341569b=Chơi lần đầu <TAG1/><LIST1/> trước
 012bbad173=Lưu trữ dữ liệu phần mềm khác
 012bd960e4=Không thể đăng bài.
 0145befc2b=Đã chơi trong 1 tuần qua
@@ -45,7 +45,6 @@
 02ff312b00=Nhận điểm cho phần mềm này
 03224a982f=Trò chơi bạn bè chơi
 034f860842=Phần mềm tay cầm đã cũ hoặc bị hỏng.<TAG1/><NL/>Bạn có thể cập nhật tay cầm từ menu HOME bằng cách chọn <0xE130/> (Cài đặt hệ thống) ⇒ Tay cầm và cảm biến.
-035854faa5=Yêu cầu cập nhật hệ thống.
 037bf810ca=À, để chỉnh cài đặt không dây, vào menu HOME và chọn <0xE130/> (Cài đặt hệ thống) ⇒ Chế độ máy bay.<NL/><NL/>Chúc bạn chơi game vui vẻ,<NL/>Amelia N.
 039dec73d7=Đang lấy lại thẻ trò chơi ảo<L_DOT3/>
 03aa12391b=Không thể lấy địa chỉ IP.<TAG1/><NL/>Vui lòng thử lại sau.<TAG2/><NL/>Nếu sự cố vẫn tiếp diễn, hãy thử cách sau:<NL/><L_DOT1/><TAG3/>Đảm bảo bạn đã kết nối với đúng thiết bị mạng.<TAG4/><NL/><L_DOT1/><TAG5/>Nhập cài đặt địa chỉ IP theo cách thủ công, nếu có thể.<TAG6/>
@@ -376,7 +375,6 @@
 1ba280c4ac= tệp
 1bafc5aec0=Không thể tháo thẻ trò chơi ảo.<NL/>Đóng phần mềm trên hệ thống sau, <TAG1/>rồi thử lại<TAG2/>.
 1bb0af5afb=Hãy đưa các máy chơi game lại gần nhau hơn.
-1bc0f1b07d=Bạn có thể thấy thẻ trò chơi ảo của mình trên màn hình này.
 1bd353f902=Dành cho độ tuổi 15+
 1beab99527=Đang đặt lại<L_DOT3/>
 1bf2339cc4=Không thể kết nối.<TAG1/><NL/>Không có phản hồi từ máy chủ.<NL/>Vui lòng thử lại sau.
@@ -467,7 +465,6 @@
 223b73a0a9=Không thể gửi thêm yêu cầu kết bạn.<TAG1/><NL/>Hãy quản lý danh sách bạn bè và/hoặc yêu cầu kết bạn đã gửi.
 223c84a24b=Đang khôi phục cài đặt gốc<L_DOT3/><NL/>Không chạm nút POWER.
 22559b0d33=Hiện không có tay cầm có camera chuyển động hồng ngoại nào<L_XA0/>được kết nối.<TAG1/><NL/>Camera chuyển động hồng ngoại có trên tay cầm Joy‑Con<L_XA0/>(R). Nếu có <L_JCR/>, bạn có thể kết nối từ <0xE136/> (Tay cầm) trên menu HOME.
-225ae7dd8f=Bạn muốn tải thẻ trò chơi ảo của ai?
 225bf999d7=Có bản cập nhật cho tay cầm.<NL/>Cập nhật ngay?
 225ecd3c46=Windhoek, Johannesburg
 227df2a221=<0xE216/> Đã nạp trên hệ thống khác
@@ -488,7 +485,7 @@
 242766ebc5=Cài đặt quốc gia/khu vực của tài khoản <L_N10A0/> này đã thay đổi.<TAG1/><NL/>Hãy khởi động lại <L_NEPA/>.
 242b6294d0=Dữ liệu lưu sau sẽ được chuyển.<NL/><TAG1/><TAG2/>Dữ liệu lưu đã chuyển sẽ bị xóa khỏi hệ thống này.<TAG3/><TAG4/>
 2438db6225=Ngày chơi cùng nhau
-2453b00602=<TAG1/> sẽ nhận phần mềm.<NL/><TAG2/><TAG3/>Không thể đổi lại sau này.<TAG4/><TAG5/>
+2453b00602=Người dùng <TAG1/> sẽ nhận phần mềm.<NL/><TAG2/><TAG3/>Không thể đổi lại sau này.<TAG4/><TAG5/>
 2460bee92d=Mất kết nối vì máy chơi game đã vào chế độ ngủ.
 24667bc714=Sạc tay cầm <L_JC/>
 246d1bb08a=Chuyển hệ thống sang <L_N10/> <TAG1/><L_SWT2/><TAG2/>
@@ -633,7 +630,6 @@
 2e52cdc443=Phần mềm tạm dừng sẽ bị đóng.
 2e5902e127=Tài khoản <L_N10/> liên kết với máy này không dùng được.<TAG1/><NL/>Mở trang người dùng từ Menu HOME và đăng nhập lại tài khoản <L_N10/> hoặc liên kết với một tài khoản <L_N10/>.
 2e7e88a4ff=<L_SQR/> <TAG1/>Gửi chủ tài khoản <L_N10/> dùng máy chơi game này:<TAG2/><TAG3/><NL/>Khác với cách đặt lại thông thường, nếu đặt lại máy bằng cách này, bạn sẽ không thể tháo các thẻ trò chơi ảo đã nạp.<NL/>Máy cũng sẽ vẫn liên kết với tài khoản của bạn và có thể dùng các vé truy cập hiện có cho phần mềm tương ứng.<TAG4/><NL/>Nếu muốn tiếp tục dùng tài khoản <L_N10/> trên máy chơi game <L_NS/> này, hãy liên kết lại tài khoản <L_N10/> với máy sau khi đặt lại.<TAG5/><NL/>Xem thêm trên trang hỗ trợ <L_N10/>.<NL/><TAG6/>
-2e8169cc1b=Nếu bạn chưa nạp thẻ trò chơi ảo vào hệ thống, bạn không thể cho mượn. Hãy nạp một thẻ vào hệ thống này và thử lại.
 2eab00162a=Không thể hiệu chuẩn khi tay cầm <L_JC/> được cầm ngang.<TAG1/><NL/>Bạn có thể đổi cách cầm bằng cách chọn Đổi cách cầm/thứ tự.
 2eae57476a=Xác thực người dùng
 2eb1816f46=Chưa chọn tệp.
@@ -658,7 +654,6 @@
 3000afb270=Nhấn <0xE0A4/> hoặc <0xE0A5/> trên tay cầm ở gần để làm tay cầm đã chọn rung.
 3021b52ea2=Cần mã PIN để tạm tắt Kiểm soát của phụ huynh.
 304b22e907=Đã bật tự động tải dữ liệu lưu.<TAG1/><NL/><L_DOT1/><TAG2/>Lần tải đầu tiên phải thực hiện thủ công.<TAG3/><NL/><L_DOT1/><TAG4/>Để bật tính năng này trên máy chơi game khác, bạn cần chỉnh cài đặt trên từng máy.<TAG5/><NL/><L_WSP/><TAG6/><TAG7/><TAG8/>Bạn có thể chỉnh cài đặt trong <0xE130/> (Cài đặt hệ thống) ⇒ Quản lý dữ liệu ⇒ Dữ liệu lưu trên đám mây qua menu HOME.<TAG9/><TAG10/><TAG11/>
-304f5b8b60=Không thể kiểm tra xem phần mềm này có hỗ trợ sao lưu bằng dịch vụ Đám mây Dữ liệu Lưu trữ hay không.<TAG1/><NL/><TAG2/><TAG3/>Có thể bạn sẽ không thể sao lưu hoặc tải xuống dữ liệu lưu trữ.<TAG4/><TAG5/>
 305e65c96e=<0xE153/> Ẩn khỏi danh sách
 305fbf4a1d=Phần mềm (bản <L_N10/> <TAG1/><L_SWT2/><TAG2/>)
 307133e696=Mất kết nối với tay cầm.<NL/>Hãy kết nối tay cầm rồi thử lại.
@@ -670,7 +665,6 @@
 30fa43a713=Để dùng tay cầm không dây, hãy tắt Chế độ máy bay.<NL/><TAG1/>Bạn có thể tắt trong Cài đặt nhanh (giữ <0xE0B9/>).<TAG2/>
 310b78c657=Không thể kết nối với Internet.<TAG1/><NL/>Không có phản hồi từ máy chủ.<NL/>Vui lòng thử lại sau.
 3131d7b3ad=Đang chờ thành viên tham gia<L_DOT3/>
-314a0d4b35=Việc tải xuống dữ liệu lưu của phần mềm này chưa hoàn thành.<NL/>Để biết thêm thông tin, hãy quay lại Màn hình HOME, mở menu Tùy chọn cho phần mềm và sau đó chọn Lưu dữ liệu đám mây.<NL/><TAG1/><TAG2/>Để tiếp tục tải xuống, bạn phải kết nối với Internet.<TAG3/><TAG4/>
 316ba3e086=Luân Đôn, Dublin, Lisbon
 3186e6c11d=Ngày và giờ hiện tại: <TAG1/>
 319d350d97=Không thể thêm người dùng.<TAG1/><NL/>Đóng phần mềm tạm dừng rồi thử lại.
@@ -798,7 +792,6 @@
 3b75ec80c6=Nếu bật tùy chọn này, <L_NS/> <L_PRO/> sẽ giao tiếp có dây với máy chơi game khi được kết nối bằng cáp sạc USB. Điểm chạm <L_NFC/> trên <L_PRO/> sẽ bị tắt khi tay cầm dùng kết nối có dây.
 3b9a4da33e=Chặn
 3ba6b0e403=Đã xảy ra lỗi.<TAG1/><NL/>Hãy đồng bộ lại phiên bản phần mềm.
-3bb21706da=Trò chơi đang bị đình chỉ.<NL/>Phần mềm đã tải xuống hoặc nội dung có thể tải xuống có thể đang được phát trên một bảng điều khiển khác sử dụng cùng một bảng điều khiển <L_N10/> Tài khoản.<TAG1/><NL/>Tham quan <L_N10/> Trang web hỗ trợ để biết thêm thông tin.<NL/><L_SNCE/>
 3bce3453d9=Bạn có thể giao tiếp với người dùng ở gần để đồng bộ phiên bản phần mềm.
 3bd943b89a=Không thể tải xuống. Hệ thống này không được hỗ trợ.
 3bd98e65dd=Nouméa
@@ -808,7 +801,6 @@
 3c6507174d=Đã tải dữ liệu hệ thống lên máy chủ!<NL/><TAG1/><TAG2/>Dùng hệ thống <L_N10/> <TAG3/><L_SWT2/><TAG4/> để tải dữ liệu xuống.<TAG5/><TAG6/>
 3c7f18176a=Đang sao lưu<L_DOT3/>
 3c9985d8c8=Liên kết cùng tài khoản <L_N10/> đã dùng trên máy chơi game kia.
-3ca414c388=Tổng kích thước
 3ca6f5d403=Sắp xếp
 3cad586069=Bỏ qua
 3cb9a53b43=Đăng ký không thành công.<NL/>Vui lòng thử lại.
@@ -842,7 +834,6 @@
 3eaa3e84c8=Cần gói thành viên <L_NSO/>.<NL/><TAG1/><TAG2/>Xem thêm trong <L_NEP/>.<TAG3/><TAG4/>
 3eb297b487=Đã hủy nhập.
 3ec017cc98=Quên mã PIN
-3f1280b0c6=Phần mềm được cài đặt sẵn trên hệ thống này vẫn chưa được<L_XA0/> đã đăng ký. Vui lòng đăng ký phần mềm trong<TAG1/><L_NEP/><TAG2/> và sau đó tiếp tục.
 3f1bdd937f=<L_D1/> <TAG1/>Trên hệ thống kia, mở menu HOME rồi chọn <0xE13D/> (Thẻ trò chơi ảo) ⇒ <TAG2/>.<TAG3/><TAG4/><NL/><L_D2/> <TAG5/>Đặt hai hệ thống gần nhau.<TAG6/>
 3f428ba2f8=<0xE13D/> Khi xem thẻ trò chơi ảo của bạn
 3f47263243=Dành cho độ tuổi 7+
@@ -930,7 +921,6 @@
 459b35298e=Không có dữ liệu
 45cc9c4fd1=Đã kết nối qua <L_WIFI/>
 460f323772=Chưa có ảnh chụp màn hình hay video ở nơi lưu này.<NL/>Hãy chụp nhiều màn hình và ghi nhiều video để tạo bộ sưu tập kỷ niệm chơi <L_NS/>!<TAG1/><NL/>Bạn có thể dùng nút chụp để chụp màn hình và ghi video. Nhấn nhanh để chụp màn hình hiện tại, hoặc giữ nút để ghi video 30 giây vừa qua.<NL/>Sau đó, bạn có thể đăng ảnh chụp màn hình và video lên mạng xã hội.
-46253cc402=Đã tải thành công!<NL/><TAG1/><TAG2/> Bạn có thể chơi ngay sau khi dữ liệu được tải xuống.<TAG3/><TAG4/>
 462b070ee8=<L_DOT1/><TAG1/>Nếu tay cầm nằm trên quần áo hoặc vật mềm như gối, tiếng rung có thể khó nghe. Hãy giữ yên lặng khi tìm kiếm.<TAG2/><TAG3/><NL/><L_DOT1/><TAG4/>Không thể tìm tay cầm không có tính năng rung bằng cách này.<TAG5/><TAG6/><NL/><L_DOT1/><TAG7/>Nếu tay cầm không rung, hãy đưa máy chơi game đến gần nơi bạn nghĩ có tay cầm hoặc thử tìm bằng máy chơi game khác. Tay cầm có thể không rung nếu:<TAG8/><NL/><L_DSH/><TAG9/>Ở quá xa máy chơi game.<TAG10/><TAG11/><NL/><L_DSH/><TAG12/>Hết pin hoặc pin yếu.<TAG13/><TAG14/><NL/><L_DSH/><TAG15/>Chưa ghép nối với máy chơi game hoặc đã ghép nối với máy khác.<TAG16/><TAG17/>
 4648a8ad0d=Tải xuống tạm dừng.
 4681bfffa8=Dữ liệu có thể được khôi phục bằng cách tải xuống lại nó.
@@ -956,7 +946,6 @@
 4781c23da1=Bạn đã nhận được lời mời!
 478430da0b=Cập nhật đế cắm thất bại.
 47a86ce719=Bạn có thấy chân đế tích hợp ở mặt sau máy chơi game <L_NS/> không? Nó không chỉ tiện mà còn giấu một bí mật!<NL/><NL/>Mở chân đế ra, bạn sẽ thấy khe cắm thẻ <L_MSD/>.<NL/><NL/>Lắp thẻ <L_MSD/> (bán riêng) vào đó để có thêm dung lượng lưu phần mềm tải xuống, <L_DLC/> và nội dung tương tự.<NL/><NL/>Nếu đang lo hết dung lượng, giờ bạn có thể yên tâm rồi.
-47ab34fa30=Có dữ liệu lưu chưa được tải xuống.
 47bbed5385=Hãy yêu cầu <TAG1/>tất cả người chơi<TAG2/> mở màn hình này.
 47c8937d2d=Bắt đầu khôi phục gốc
 47e70814c1=Bạn có chắc chắn muốn đóng phần mềm này không?<NL/><TAG1/><TAG2/>Sử dụng cần điều khiển để chọn một tùy chọn, sau đó nhấn <TAG3/> để xác nhận.<TAG4/><TAG5/>
@@ -1055,7 +1044,6 @@
 4e5dd4b68b=Tất cả người dùng
 4e6f196ee2=Bạn đã kiếm được điểm!
 4e764df15d=Kết nối với Internet để xem bạn bè đang chơi gì.
-4ea4ca5fdd=Một số phần mềm kỹ thuật số và nội dung có thể tải xuống sẽ bao gồm thẻ trò chơi ảo khi mua.<TAG1/><NL/> Sau khi tải xong, biểu tượng trò chơi sẽ được thêm vào Menu TRANG CHỦ và bạn có thể chơi trò chơi đó.<NL/><TAG2/><TAG3/> Để xem thẻ trò chơi ảo của bạn, hãy mở Menu TRANG CHỦ rồi chọn <0xE13D/> (Thẻ trò chơi ảo).<TAG4/><TAG5/>
 4ea6c8ec5f=Hủy cập nhật phần mềm
 4edb2b1dd3=Bạn muốn video của bạn bắt đầu ở đâu?
 4ee3f3cdd7=Đã xảy ra lỗi khi camera chuyển động hồng ngoại đang đọc.<TAG1/><NL/>Nếu sự cố vẫn tiếp diễn, hãy xem<NL/>Trang hỗ trợ <L_N10/>.<NL/><L_SNCE/>
@@ -1435,7 +1423,6 @@
 696aba4a38= người
 696b6f655c=Ảnh chụp màn hình và video
 6974646d8c=Thực hiện các thao tác sau trên hệ thống khác:
-697e8ed82b=Máy chơi sẽ kết nối với Internet để kiểm tra xem phần mềm này có hỗ trợ sao lưu bằng dịch vụ Đám mây Dữ liệu Lưu trữ hay không.<TAG1/><NL/>Bạn sẽ bị ngắt kết nối từ giao tiếp cục bộ.
 698afa597b=Kết nối bị mất vì trò chơi bị tạm dừng.
 6990afc1a0=Không thể thêm người dùng vì bạn đã đăng nhập bằng tài khoản <L_N10/> chưa từng liên kết với máy chơi game <L_NS/>.<TAG1/><NL/>Kiểm tra thông tin tài khoản <L_N10/> rồi thử lại.
 69984a2324=Không thể tạo dữ liệu lưu vì không có đủ dung lượng trong bộ nhớ hệ thống.<TAG1/><NL/>Vui lòng lưu trữ hoặc xóa dữ liệu không cần thiết bằng cách chọn <0xE130/> (Cài đặt hệ thống) ⇒ Quản lý dữ liệu qua Menu HOME.
@@ -1489,7 +1476,7 @@
 6ceb90f0a9=Bạn phải có phần mềm để chơi.
 6d0f81b87e=Ghi đè dữ liệu lưu của mọi người dùng trên máy chơi game này bằng dữ liệu lưu đã gửi cho <L_N10/>?<NL/><TAG1/><TAG2/>Dữ liệu lưu trên máy này sẽ bị xóa.<NL/>Không thể chỉ ghi đè dữ liệu của một số người dùng.<TAG3/><TAG4/>
 6d33b4427c=Tùy chọn tải xuống
-6d5ec8d9fc=Đã chơi ít nhất <TAG1/><LIST1/>
+6d5ec8d9fc=Đã chơi <TAG1/><LIST1/> trở lên
 6d6697e0e7=<TAG1/>Đã tải xuống <L_DLC/><NL/>(và thêm <TAG2/> mục).<TAG3/>
 6d6b2872f5=Đã thử quá nhiều lần. Đợi <TAG1/><LIST1/> rồi thử lại.
 6d743f54ab=Lưu thành ảnh chụp màn hình
@@ -1714,7 +1701,7 @@
 7e1cba2d21=Không thể bắt đầu kết nối.<TAG1/><NL/>Vui lòng thử lại sau.
 7e22d0f241=Lịch sử lỗi
 7e34650310=Vui lòng đợi và thử lại sau.
-7e35e3f7ff=<0xE215/> Đã nạp <TAG1/><LIST1/>
+7e35e3f7ff=<0xE215/> <TAG1/><LIST1/> đã nạp
 7e58e4755a=Có thể cho thành viên nhóm gia đình mượn thẻ trò chơi ảo sau khi đặt hai hệ thống gần nhau và liên kết chúng.<TAG1/><NL/><L_DOT1/><TAG2/>Khi cho mượn, phần mềm có thể được chơi thoải mái trên hệ thống của người mượn, còn người cho mượn tạm thời không thể dùng phần mềm đó.<TAG3/><TAG4/><NL/><L_DOT1/><TAG5/>Có thể mượn thẻ trò chơi ảo tối đa 14 ngày. Khi hết hạn, thẻ sẽ tự động được trả lại.<NL/><TAG6/><TAG7/>Người cho mượn cũng có thể lấy lại thẻ trò chơi ảo trước khi hết hạn.<TAG8/><TAG9/><TAG10/><TAG11/><NL/><L_DOT1/><TAG12/>Có thể cho mỗi người mượn một thẻ trò chơi ảo, tối đa ba người mượn cùng lúc. Tuy nhiên, mỗi hệ thống chỉ được mượn một thẻ cùng lúc.<NL/><TAG13/><TAG14/>Sau khi lấy lại, thẻ trò chơi ảo có thể được cho mượn tiếp.<TAG15/><TAG16/><TAG17/>
 7e6275791f=Chọn người dùng để cho mượn
 7e868254e8=Thẻ trò chơi ảo này đang được nạp trên hệ thống khác.<TAG1/><NL/>Để cho mượn, hãy tháo thẻ khỏi hệ thống đó.
@@ -1758,7 +1745,6 @@
 80e6a6cd97=Bạn muốn video của bạn kết thúc ở đâu?
 80f8e384aa=Bạn có thể xem thêm thông tin, gồm ngày phát hành phần mềm, trong <L_NEP/>.
 80f9cf0668=Sao chép/Xóa ảnh chụp màn hình và video
-810d1e183a=Chứng chỉ đã hết hạn hoặc chưa hợp lệ.<NL/>Hãy đảm bảo cài đặt ngày và giờ của bảng điều khiển này là chính xác.
 81292c6491=Đã chặn
 8151cd46c1=Bạn có thể đăng nhập để tạm truy cập dữ liệu từ tài khoản <L_N10/> khác chưa liên kết với máy chơi game này.<NL/><TAG1/><TAG2/>Thông tin đăng nhập sẽ không được lưu trên máy này.<TAG3/><TAG4/>
 816a947236=Mã hỗ trợ: <L_CODE/>
@@ -1825,7 +1811,6 @@
 858115d803=Bạn bè đã bắt đầu chơi trò chơi này gần đây (<TAG1/>)
 858cfe6727=Bạn có thể liên kết một tài khoản <L_N10/> ngay bây giờ.<NL/><TAG1/><TAG2/>Với tài khoản đã liên kết, bạn có thể truy cập chơi trực tuyến, tính năng bạn bè, <L_NEP/>, và nhiều hơn nữa.<TAG3/><TAG4/>
 859515e3d1=Ứng dụng điện thoại
-85ac6fadc0=Một số phần mềm kỹ thuật số và nội dung có thể tải xuống sẽ bao gồm thẻ trò chơi ảo khi mua.<TAG1/><NL/> Sau khi tải xong, biểu tượng trò chơi sẽ được thêm vào Menu TRANG CHỦ và bạn có thể chơi trò chơi đó.<NL/><TAG2/><TAG3/> Để xem thẻ trò chơi ảo của bạn, hãy mở Menu TRANG CHỦ và<NL/> chọn <0xE13D/> (Thẻ trò chơi ảo).<TAG4/><TAG5/>
 85b3fdf3b1=Không tìm thấy hệ thống kia.<TAG1/><NL/>Vui lòng thử lại.
 85bab1710a=Giờ bạn có thể chọn nhập mã PIN Kiểm soát của phụ huynh bằng cần điều khiển.<TAG1/><NL/><L_DOT1/><TAG2/>Dùng cần điều khiển giúp nhập số nhanh hơn.<TAG3/><NL/><L_DOT1/><TAG4/>Khi dùng cần điều khiển, người khác không thấy các số bạn chọn trên màn hình.<TAG5/><TAG6/><NL/><TAG7/><TAG8/>Bạn có thể giữ <TAG9/> để chuyển sang bàn phím số và nhập mã PIN như trước.<TAG10/><TAG11/>
 85babdce25=Phần mềm này phải đóng vì lỗi.<TAG1/><NL/>Bạn có cho phép <L_N10/> chia sẻ thông tin lỗi từ máy chơi game này với các nhà phát triển bên thứ ba có phần mềm đã gặp sự cố để phân tích và cải thiện không?<TAG2/><NL/>Thông tin về nơi nhận dữ liệu được chia sẻ ra nước ngoài và việc bảo vệ dữ liệu cá nhân có trên trang web bên dưới (chỉ có tiếng Nhật). Hãy xem thông tin trước.<NL/><L_NCJP/><TAG3/><NL/><TAG4/>Bạn có thể đổi cài đặt bất cứ lúc nào từ <0xE130/> (Cài đặt hệ thống) ⇒ Hệ thống trên menu HOME.<TAG5/>
@@ -2137,7 +2122,7 @@
 9cbf48d775=Bạn có thể nhận điểm vàng <L_MNT/> khi mua một số phần mềm bản vật lý.
 9ccd9f4a45=Phần mềm sẽ bị xóa để giải phóng dung lượng. Bạn có thể tải lại phần mềm bằng cách chọn biểu tượng trên menu HOME. Dữ liệu người dùng còn lại có thể được xóa từ Quản lý dữ liệu lưu / Ảnh chụp màn hình và video trong Quản lý dữ liệu.
 9cd6f78aee=Nội dung tải xuống
-9cec166228=Âm thanh <L_BT/><TAG1/><L_CR/><TAG2/>
+9cec166228=<L_BT/><TAG1/><L_CR/><TAG2/> - Âm thanh
 9cfe182021=Đã xảy ra lỗi.<TAG1/><NL/>Bạn cần truy cập Internet từ máy chơi game này ít nhất một lần.<NL/>Vào <0xE130/> (Cài đặt hệ thống) ⇒ Internet từ menu HOME để thiết lập kết nối Internet.
 9d26bc377e=khi bạn đã sẵn sàng.
 9d31b66f74=<0xE131/> Xem những trò chơi đang được bạn bè yêu thích!
@@ -2152,7 +2137,6 @@
 9dd5eff6c3=Tất cả dữ liệu cho <L_AMI/> này sẽ bị xóa.
 9df28e2c80=Xoay
 9e327cdc7f=Không tìm thấy kênh nào phù hợp với từ khóa đã nhập.
-9e4190a7c6=Bạn không thể thêm người dùng vào lúc này.<TAG1/><NL/>Đóng phần mềm đang tạm dừng, sau đó chọn<NL/><0xE130/> (Cài đặt hệ thống) ⇒ Người dùng để thêm người dùng.
 9e50c9122e=4-8 chữ số
 9e52824cb7=Tất cả dữ liệu sau sẽ được chép sang <L_N10/> <TAG1/><L_SWT2/><TAG2/>:
 9e6637e3df=Đang tạm dừng chơi.<TAG1/><NL/>Truy cập Trang hỗ trợ <L_N10/> để biết thêm thông tin.<NL/><L_SNCE/><TAG2/><NL/>Để chơi tiếp, hãy kết nối Internet và tiếp tục từ menu HOME.
@@ -2369,7 +2353,6 @@ ae17e30f8a=Dành cho độ tuổi 3+
 ae199254f4=Bạn có thể đặt mã PIN thay vì đăng nhập tài khoản <L_N10/>.
 ae24c5be9b=Trái
 ae318d40f5=Bằng cách bắt đầu chuyển hệ thống và tải dữ liệu lên máy chủ, bạn đồng ý với những điều sau:
-ae3dadfaca=Đã xảy ra lỗi tải xuống.
 ae44cb539b=Ghép nối thiết bị
 ae6030371d=Ảnh chụp màn hình: <TAG1/>
 ae89a8d3fc=Nhấn <0xE0A5/> để hiệu chuẩn lại nếu cần điều khiển không hoạt động như mong đợi.
@@ -2789,7 +2772,7 @@ cff1bc0332=Nhập mã chính.
 cff6e1ffbf=Đặt máy chơi game trên bề mặt phẳng, vững chắc với màn hình hướng lên.
 d014f8f022=Tự động ngủ (Kết nối với TV)
 d02a794da8=Không có thẻ trò chơi ảo ẩn.
-d03d9aaad3=<TAG1/>Người dùng <L_N10/> <TAG2/><L_SWT2/><TAG3/><TAG4/> có thể dùng <L_TGS/> và chơi cùng bạn.
+d03d9aaad3=<TAG1/>Người dùng <L_N10/> <TAG2/><L_SWT2/><TAG3/> có thể<TAG4/> dùng <L_TGS/> và chơi cùng bạn.
 d03e66ffbe=Dữ liệu lưu
 d0508a7c3f=Máy chơi game sẽ tắt vì đã xảy ra lỗi.<TAG1/><NL/>Hãy thử lại ở nơi hệ thống có thể kết nối mạng.
 d05a28077c=2 giây
@@ -3051,7 +3034,6 @@ e32050f975=Tìm theo từ khóa
 e3241b8d7d=Còn <TAG1/><LIST1/> <TAG2/><LIST2/>
 e338cb1abc=Không thể kết nối với máy chủ.<NL/>Mạng có thể bận hoặc máy chủ gặp sự cố.<NL/>Hãy thử lại sau.<TAG1/><NL/>Xem thông tin trên trang hỗ trợ <L_N10/>.<NL/><L_SNCE/>
 e33ca7be8f=<L_SQR/> Thông tin quan trọng<TAG1/><NL/>Dữ liệu đã gửi lên máy chủ, như dữ liệu lưu, ảnh chụp màn hình và<NL/>video, sẽ được trả về hệ thống này. Tuy nhiên, một số dữ liệu<NL/>có thể không giống hệt trước đây. Ví dụ:<TAG2/><NL/><L_DOT1/> <TAG3/>Biểu tượng phần mềm trên menu HOME sẽ không được khôi phục.<NL/>Cài đặt nhóm trong Tất cả phần mềm cũng sẽ bị xóa.<NL/><TAG4/><TAG5/>Phần mềm tải xuống và <L_DLC/> đã mua sẽ không bị mất.<NL/>Để tải lại phần mềm đã mua, hãy nạp thẻ trò chơi ảo của phần mềm đó.<TAG6/><TAG7/><TAG8/><TAG9/><NL/><L_DOT1/> <TAG10/>Mọi liên kết với ứng dụng <L_NS/> Parental Controls<NL/>sẽ bị xóa. Bạn có thể liên kết lại sau.<TAG11/>
-e34a3245a8=Tìm thấy nội dung tải xuống mới.<NL/>Cài đặt ngay bây giờ?
 e34c900863=Bạn có thể chuyển dữ liệu sau bằng cách lắp thẻ <L_MSD/> sang hệ thống <L_N10/> <TAG1/><L_SWT2/><TAG2/>:<NL/><NL/><L_DOT1/> <TAG3/>Video tạo bằng <TAG4/><TAG5/><NL/><NL/>Giữ thẻ <L_MSD/> ở nơi an toàn cho đến khi có thể dùng hệ thống <L_N10/> <TAG6/><L_SWT2/><TAG7/>.
 e353b6b293=Khởi động phần mềm
 e38a4e6bdc=Bạn chưa liên kết tài khoản mạng xã hội.<TAG1/><NL/>Hãy liên kết tài khoản từ Gợi ý bạn bè trên trang người dùng.
@@ -3114,7 +3096,7 @@ e73467886b=Không thể chỉnh sửa nhân vật <L_MI/> đặc biệt.
 e771a6e8fb=Không thể kết nối với TV.<NL/>Hãy đảm bảo bạn đang dùng bộ đổi nguồn AC đi kèm máy chơi game này.
 e77219fcdd=Máy chơi game chưa kết nối Internet.<NL/>Hãy kết nối Internet để tiếp tục tải xuống.
 e7aeba6759=Có thể xem hồ sơ từ trang người dùng của bạn.
-e7b4e1d82b=Có <TAG1/><LIST1/> đã chơi
+e7b4e1d82b=Đã được chơi bởi <TAG1/><LIST1/>
 e7c3603c87=<TAG1/><LIST1/> trước
 e7c7e21abb=Dữ liệu tải lên được lưu trên máy chủ, nên sau khi tải lên xong, bạn không cần giữ hệ thống này nữa.
 e7d9fed4eb=Xóa dữ liệu lưu
@@ -3165,7 +3147,6 @@ eb38ff10fd=Đang chờ người dùng khác<L_DOT3/>
 eb3a0cd4bb=Đang phiêu lưu và bắt gặp cảnh đẹp mê hồn? <NL/>Hay khiến khán giả bùng nổ với màn độc tấu đầy cảm xúc?<NL/><NL/>Nhanh tay nhấn <0xE0BA/> (nút chụp đấy)!<NL/>Ảnh chụp màn hình sẽ được lưu vào album. <NL/>Cứ tiếp tục chụp, chẳng mấy chốc bạn sẽ có cả kho kỷ niệm chơi game vui vẻ!<NL/><NL/>À, chưa hết đâu! Bạn còn có thể thêm chữ vào ảnh chụp màn hình và đăng lên mạng xã hội yêu thích. Chia sẻ những khoảnh khắc chơi game ấy với bạn bè nhé!<NL/><NL/>Để sống lại khoảnh khắc thật đặc biệt, bạn có thể ghi 30 giây chơi vừa qua thành video*. <NL/>Chỉ cần giữ <0xE0BA/> đến khi nghe tiếng báo nhỏ. Bạn còn có thể chia sẻ video ngay từ album, nên hãy cho cả thế giới thấy chiến tích của mình!<NL/><NL/><L_SQR/> Những ai mê chụp màn hình và ghi video, chú ý nhé:<NL/>Nếu muốn lưu nhiều ảnh hoặc video, bạn có thể mua thêm thẻ <L_MSD/>.<NL/><NL/>Bộ nhớ trong chứa được khoảng 1.000 ảnh chụp màn hình hoặc 100 video. Còn thẻ <L_MSD/> đủ lớn chứa được tới 10.000 ảnh chụp màn hình hoặc 1.000 video! Thật nhiều kỷ niệm!<NL/><NL/>Chúc bạn chơi game vui vẻ,<NL/>Amelia N.
 eb3e96f4a9=Kiểm soát của phụ huynh sẽ được đặt bằng tài khoản <L_N10/> này.<NL/>Bạn muốn đăng ký với ứng dụng <TAG1/><L_NS/><TAG2/> Parental Controls?
 eb42cf244d=Nếu bất kỳ bạn bè <TAG1/><L_N3D/><TAG2/> của bạn (<0xE131/>) cũng sử dụng <TAG3/><L_NS/><TAG4/>, họ sẽ được đề xuất làm bạn ở đây.<NL/><TAG5/><TAG6/>Bạn bè của bạn cũng phải bật gợi ý bạn bè <TAG7/><L_N3D/><TAG8/> trên trang người dùng của họ.<TAG9/><TAG10/>
-eb4fdc3239=Chọn thẻ trò chơi ảo để tải vào hệ thống này. Sau khi tải xong, trò chơi<NL/> biểu tượng sẽ được thêm vào<TAG1/> Trang chủ Thực đơn<TAG2/> và bạn sẽ có thể chơi nó.
 eb5d251b7e=Tiến trình tải xuống: <TAG1/>
 eb7396985b=Chuyển dữ liệu lưu sang máy chơi game ở gần.<NL/><TAG1/><TAG2/>Chỉ có thể chuyển dữ liệu lưu giữa người dùng liên kết cùng tài khoản <L_N10/>.<TAG3/><TAG4/>
 eb7bdb2af4=Không xóa
@@ -3321,7 +3302,6 @@ f72c4d8bc4=Để phân tích và khôi phục dữ liệu lưu,<NL/>dữ liệu 
 f73fd78021=Yêu cầu kết bạn này được gửi bằng mã bạn bè.
 f749d70845=Cần gói thành viên <L_NSO/>.<NL/>Bạn có thể dùng thử dịch vụ miễn phí.
 f756081e20=Chấp nhận
-f75b80d554=Đây là trạng thái sao lưu và tải xuống hiện tại của dữ liệu lưu của bạn.<TAG1/><NL/>Để biết thêm thông tin, hãy vào HOME Menu, làm nổi bật phần mềm của bạn và chọn Tùy chọn, sau đó chọn Dữ liệu Lưu Trên Đám Mây.
 f773776c15=Dành cho độ tuổi 17+
 f781e48036=Duyệt<L_DOT3/>
 f784485d66=Kiểm tra nút tay cầm

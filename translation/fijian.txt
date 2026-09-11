@@ -7,7 +7,7 @@
 0079e761c9=Se qai tekivutaki<NL/>mai vei <TAG1/><LIST1/>!
 008254084c=Mataveilawa: <L_VS/>
 00903b93e9=Ni bokoci na ituvatuva oqo, ena sega ni lewai rawa ena butoni ni misini. Ena gadrevi e dua na iyaya ni lewa sega ni waya me vakayagataki na butoni. Ni yadra se tekivu tale na misini, ena waqaci tale vakataki koya na ituvatuva oqo
-00a4afc9e5=Se Sega Vei Au na <L_N10/> <TAG1/><L_SWT2/><TAG2/>
+00a4afc9e5=Se Sega Vei Au na <L_N10/> <TAG1/><L_SWT2/><TAG2/> ena Gauna Oqo
 00d88ff7b0=Oqo ena bokoca na itukutuku kece ena ivakananumi ni misini, wili kina na data ni parokaramu, itaba ni sikirini, kei na vidio. Ena qai vakarautaki vou na misini ka vakalesui ki na<L_XA0/>ituvatuva ni buli.<TAG1/><NL/>Ni sa oti na vakarautaki vou, kauta tani na kadi <L_MSD/> mai na<L_XA0/>misini oqo.<TAG2/><NL/><L_SQR/> iVakasala<TAG3/><NL/><L_DOT1/> <TAG4/>Ena sega ni vakayagataki rawa na data kece ni parokaramu ena kadi <L_MSD/>, vakavo na itaba ni sikirini kei na vidio. (Ena sega ni boko na data ena kadi <L_MSD/>.)<TAG5/><TAG6/><NL/><L_DOT1/> <TAG7/>Ena sega ni veisau se lesu ki na ilavelave makawa na ivakarau.<TAG8/><TAG9/>
 00e36f62eb= awa
 00e3fde319=Sega ni rawa ni tekivu na isema ina iyaya e tuba.<TAG1/><NL/>Tekivuna tale na misini ena Digidigi Livaliva ena Menu ni Livaliva (tabaka toka na butoni POWER me 3 na sekodi).
@@ -45,7 +45,6 @@
 02ff312b00=Rawata Poidi ni Parokaramu Oqo
 03224a982f=Qito ni Nomu iTokani
 034f860842=Sa makawa se ca na parokaramu ni iyaya ni lewa.<TAG1/><NL/>O rawa ni vakavouya na iyaya ni lewa ena Menu HOME ni o digia <0xE130/> (iTuvatuva ni Misini) ⇒ iYaya ni Lewa kei na Sensa.
-035854faa5=Sa vakarauta na veivakarautaka ni sistemu.<>
 037bf810ca=Ke o via moica na ituvatuva ni sema sega ni waya, lako ina menu HOME ka digitaka <0xE130/> (iTuvatuva ni Misini) ⇒ iVakarau Vuka.<NL/><NL/>Qito marautaki,<NL/>Amelia N.
 039dec73d7=Tauri lesu tiko na e-kadi ni qito<L_DOT3/>
 03aa12391b=E sega ni tauri rawa na adiresi IP.<TAG1/><NL/>Yalovinaka, tovolea tale e muri.<TAG2/><NL/>Kevaka e tomani na leqa, tovolea na veika oqo:<NL/><L_DOT1/><TAG3/>Raica mo sema ki na iyaya ni isema dodonu.<TAG4/><NL/><L_DOT1/><TAG5/>Vakacuruma vakataki iko na ituvatuva ni adiresi IP, kevaka e rawa.<TAG6/>
@@ -376,7 +375,6 @@
 1ba280c4ac= faili
 1bafc5aec0=Sega ni kau tani na e-kadi ni qito.<NL/>Sogota na parokaramu ena misini e ra, <TAG1/>qai tovolea tale<TAG2/>.
 1bb0af5afb=Vakavolekataka mada na misini.
-1bc0f1b07d=O vakamacala kina na nomu kaado ni veivakaviritu e lailai oqo. 
 1bd353f902=Vei ira na yabaki 15+
 1beab99527=Sa Vakalesui Tiko<L_DOT3/>
 1bf2339cc4=E sega ni sema rawa.<TAG1/><NL/>E sega ni sauma mai na seva.<NL/>Yalovinaka, tovolea tale e muri.
@@ -467,7 +465,6 @@
 223b73a0a9=E sega ni vakau rawa eso tale na kerekere ni veitokani.<TAG1/><NL/>Yalovinaka, qarava na nomu itokani kei na/se kerekere ni veitokani sa vakau.
 223c84a24b=Sa vakalesui tiko na ituvatuva ni buli<L_DOT3/><NL/>Kua ni tara na Butoni POWER.
 22559b0d33=Sega ni<L_XA0/>sema na iyaya ni lewa e tiko kina na IR Motion Camera.<TAG1/><NL/>Na IR Motion Camera e tiko ena iyaya ni lewa Joy‑Con<L_XA0/>(R). Ke tiko nomu <L_JCR/>, semata ena <0xE136/> (iYaya ni Lewa) ena menu HOME.
-225ae7dd8f=Whose virtual game cards do you want to load?
 225bf999d7=Sa tu na ivakavoui ni iyaya ni lewa.<NL/>Vakavoutaka oqo?
 225ecd3c46=Windhoek, Johannesburg
 227df2a221=<0xE216/> Utaki ena misini tale
@@ -633,7 +630,6 @@
 2e52cdc443=Ena sogo na parokaramu e cegu tu.
 2e5902e127=E sega ni vakayagataki rawa na Akaude <L_N10/> e sema ki na misini oqo.<TAG1/><NL/>Dolava na nomu tabana ni dauvakayagataka ena Menu HOME ka curu tale ki na nomu Akaude <L_N10/> se semata e dua na Akaude <L_N10/>.
 2e7e88a4ff=<L_SQR/> <TAG1/>Vei ira na itaukei ni akaude <L_N10/> ena misini oqo:<TAG2/><TAG3/><NL/>Ke o vakalesuya na misini ena sala oqo, e duidui mai na sala e dau caka, o na sega ni rawa ni kauta tani na e-kadi ni qito vakacurumi.<NL/>Ena sema tiko ga na misini ena nomu akaude, ka rawa ni vakayagataka na ivolatara kece ni parokaramu semati.<TAG4/><NL/>Ke o via vakayagataka tiko na akaude <L_N10/> ena misini <L_NS/> oqo, semata tale na akaude <L_N10/> ina misini ni sa vakalesui.<TAG5/><NL/>Raica na mataveilawa ni veivuke <L_N10/> mo kila eso tale.<NL/><TAG6/>
-2e8169cc1b=Kevaka e sega ni vakarautaka na kāti virtual game cards e na system, e sega ni rawa mo ni vakarautaka. Vakarautaka e dua e na system oqo, ka vakatovolea tale. 
 2eab00162a=E sega ni moici rawa oqo ni tauri vakababa na iyaya ni lewa <L_JC/>.<TAG1/><NL/>O rawa ni veisautaka oqo ni o digia Suia na Tauri/Veitaravi.
 2eae57476a=Vakadeitaki ni Dauvakayagataka
 2eb1816f46=Sega na faili e digitaki.
@@ -658,7 +654,6 @@
 3000afb270=Tabaka <0xE0A4/> se <0xE0A5/> ena iyaya ni lewa voleka me sautaninini na iyaya ni lewa e digitaki.
 3021b52ea2=E gadrevi na PIN me boko mada na Lewa Vakaitubutubu.
 304b22e907=Sa vakarautaki me lavetaki mai vakataki koya na itukutuku maroroi.<TAG1/><NL/><L_DOT1/><TAG2/>Mo lavetaka mada mai vakataki iko ena imatai ni gauna.<TAG3/><NL/><L_DOT1/><TAG4/>Me yaga ena misini tale eso, veisautaka na ituvatuva ni misini yadua.<TAG5/><NL/><L_WSP/><TAG6/><TAG7/><TAG8/>E rawa ni o veisautaka ena <0xE130/> (iTuvatuva ni Misini) ⇒ Qaravi ni iTukutuku ⇒ Maroroi Cloud ena menu HOME.<TAG9/><TAG10/><TAG11/>
-304f5b8b60=E sega ni rawa ni vakamamaca se sa vakayacani na cakacaka oqo e na veivuke ni ulu-ni-vanua ni vakayacani ni data sa vakabulai.<TAG1/><NL/><TAG2/><TAG3/>E rawa ni sega ni vakabulai se vakadownloadi na data sa vakabulai.<TAG4/><TAG5/>
 305e65c96e=<0xE153/> Vuni mai na tuvatuva
 305fbf4a1d=Parokaramu (iLavelave <L_N10/> <TAG1/><L_SWT2/><TAG2/>)
 307133e696=Sa yali na isema ki na iyaya ni lewa.<NL/>Yalovinaka, semata e dua na iyaya ni lewa ka tovolea tale.
@@ -670,7 +665,6 @@
 30fa43a713=Mo vakayagataka na iyaya ni lewa ka sega ni waya, o na gadreva mo bokoca na iVakarau Vuka.<NL/><TAG1/>O rawa ni cakava ena iTuvatuva Totolo (tabaka toka <0xE0B9/>).<TAG2/>
 310b78c657=E sega ni sema rawa ki na Internet.<TAG1/><NL/>E sega ni sauma mai na seva.<NL/>Yalovinaka, tovolea tale e muri.
 3131d7b3ad=Sa waraki ira na lewena me ra curu<L_DOT3/>
-314a0d4b35=Na solotu ni programu oqo sa sega ni oti na vakadodonutaki ni bula.<NL/>Me raica na veika e vakarau tu, mo lesu tale ki na Matanitu HOME, mo dolava na menu ni veivakarau e na solotu, ka me qai digitaka na Vakadodonutaki ni Bula ni Solotu.<NL/><TAG1/><TAG2/>Me vaka ga mo vakarautaka na vakadodonutaki ni bula, mo na vakabulai tiko ki na Internet.<TAG3/><TAG4/>
 316ba3e086=London, Dublin, Lisbon
 3186e6c11d=Siga kei na gauna oqo: <TAG1/>
 319d350d97=E sega ni kuri rawa na dauvakayagataka.<TAG1/><NL/>Sogota na parokaramu e cegu tu ka tovolea tale.
@@ -798,7 +792,6 @@
 3b75ec80c6=Ke waqaci oqo, ena sema ena wa na <L_NS/> <L_PRO/> kei na misini ni semati ena wa USB ni vakatawa batiri. Ena boko na vanua tarai <L_NFC/> ena <L_PRO/> ni sema ena wa na iyaya ni lewa.
 3b9a4da33e=Tarova
 3ba6b0e403=Sa yaco e dua na leqa.<TAG1/><NL/>Vakaduavatataka tale na ilavelave ni nomu parokaramu.
-3bb21706da=Na veivakararawataki na veikaukauwa.<NL/>E rawa ni vakayacora na soliteri sa vakayacora e dua na konsoli tani sa vakayacora e dua na <L_N10/> Akauni.<TAG1/><NL/>Lako ki na veitaba ni <L_N10/> Vukei ni veitarogi me vakayagataka.<NL/><L_SNCE/>
 3bce3453d9=O rawa ni veitaratara kei na dauvakayagataka voleka me tautauvata na nomudou ilavelave ni parokaramu.
 3bd943b89a=E sega ni lavetaki mai rawa. E sega ni tokoni na misini oqo.
 3bd98e65dd=Nouméa
@@ -808,7 +801,6 @@
 3c6507174d=Sa vakau cake ki na seva na itukutuku ni misini!<NL/><TAG1/><TAG2/>Lavetaka mai na itukutuku ena misini <L_N10/> <TAG3/><L_SWT2/><TAG4/>.<TAG5/><TAG6/>
 3c7f18176a=Sa lavetaki me taqomaki<L_DOT3/>
 3c9985d8c8=Semata na <L_N10/> Akaude vata o vakayagataka ena misini kadua.
-3ca414c388=Sa Tini Na Sikelesi
 3ca6f5d403=Veitaravi
 3cad586069=Ladeva
 3cb9a53b43=Sa sega ni rawa na rejisita.<NL/>Yalovinaka, tovolea tale.
@@ -842,7 +834,6 @@
 3eaa3e84c8=E gadrevi mo lewe ni <L_NSO/>.<NL/><TAG1/><TAG2/>Raica <L_NEP/> mo kila eso tale.<TAG3/><TAG4/>
 3eb297b487=Sa bokoci na volai.
 3ec017cc98=Guileca PIN
-3f1280b0c6=Yalovinaka, na software sa vakarautaki e na sisitemu oqo sa sega ni vakadonui tiko. Vakadonui na software e na <TAG1/><L_NEP/><TAG2/> ka oti, me vaka tale mada.
 3f1bdd937f=<L_D1/> <TAG1/>Ena misini kadua, dolava na menu HOME ka digitaka <0xE13D/> (E-kadi ni Qito) ⇒ <TAG2/>.<TAG3/><TAG4/><NL/><L_D2/> <TAG5/>Kauta na misini me rau veivolekati.<TAG6/>
 3f428ba2f8=<0xE13D/> Ni o raica nomu e-kadi ni qito
 3f47263243=Vei ira na yabaki 7+
@@ -930,7 +921,6 @@
 459b35298e=Sega na iTukutuku
 45cc9c4fd1=Sa sema ena <L_WIFI/>
 460f323772=E sega ni maroroi eke na itaba ni sikirini se vidio.<NL/>Tovolea mo taura e levu na itaba ni sikirini kei na vidio duidui mo maroroya kina na nomu nanuma ni qito ena <L_NS/>!<TAG1/><NL/>O rawa ni vakayagataka na Butoni iTaba mo taura na itaba ni sikirini kei na vidio. Ni tabaki vakalekaleka na butoni, ena tauri na itaba ni sikirini e laurai tiko; ni tabaki toka, ena tauri na vidio ni 30 na sekodi sa oti.<NL/>O na rawa tale ga ni vakauta na nomu itaba ni sikirini kei na vidio ki na sala ni veimaliwai.
-46253cc402=Vakayagataka vakadua!<NL/><TAG1/><TAG2/>Kemuni sa rawata ni vakayagataka ni sa vakadownloaded na data.<TAG3/><TAG4/>
 462b070ee8=<L_DOT1/><TAG1/>Ke tu na iyaya ni lewa e dela ni isulu se ka malumu, me vaka na ilokoloko, ena rairai dredre ni rogoci na kena sautaninini. Saga mo galu ni vakasaqarai tiko.<TAG2/><TAG3/><NL/><L_DOT1/><TAG4/>E sega ni rawa ni vakasaqarai ena sala oqo na iyaya ni lewa e sega ni rawa ni sautaninini.<TAG5/><TAG6/><NL/><L_DOT1/><TAG7/>Ke sega ni sautaninini na iyaya ni lewa, kauta na misini me voleka ina vanua o nanuma ni tiko kina, se vakasaqara ena misini tale. E rawa ni sega ni sautaninini ke:<TAG8/><NL/><L_DSH/><TAG9/>Rui yawa mai na misini.<TAG10/><TAG11/><NL/><L_DSH/><TAG12/>Sa oti se lailai na kaukaua ni batiri.<TAG13/><TAG14/><NL/><L_DSH/><TAG15/>Sega ni semati vakavata kei na misini, se semati kei na misini tale.<TAG16/><TAG17/>
 4648a8ad0d=Sa cegu na lavetaki mai.
 4681bfffa8=E rawa ni vakalesui na data ni lavetaki mai tale.
@@ -956,7 +946,6 @@
 4781c23da1=O sa ciqoma e dua na veisureti!
 478430da0b=Sega ni rawa na vakavoui ni doka.
 47a86ce719=O sa raica na itoko ena daku ni misini <L_NS/>? E yaga, ka vunitaka tale ga e dua na ka!<NL/><NL/>Dolava na itoko, ka sa basika na qara ni kadi <L_MSD/>.<NL/><NL/>Vakacuruma kina e dua na kadi <L_MSD/> (volitaki vakatikitiki), mo vakayagataka me vanua ikuri ni maroroi parokaramu lavetaki mai, <L_DLC/> kei na so tale.<NL/><NL/>Ke o leqataka na lailai ni vanua lala, sa rawa ni o vakacegu.
-47ab34fa30=Sa tu na data ni vakabula sa sega ni vakadonuya.
 47bbed5385=Me ra vakaraitaka na sikirini oqo na <TAG1/>dauqito kece<TAG2/>.
 47c8937d2d=Tekivuna na Vakalesui ki na iTuvatuva ni Buli
 47e70814c1=O via sogota dina na parokaramu oqo?<NL/><TAG1/><TAG2/>Digitaka ena ititoko ni lewa na nomu digidigi, qai tabaka <TAG3/> mo vakadeitaka.<TAG4/><TAG5/>
@@ -1055,7 +1044,6 @@
 4e5dd4b68b=Dauvakayagataka Kece
 4e6f196ee2=O sa rawata na poidi!
 4e764df15d=Sema ki na internet mo raica na qito era qitora na nomu itokani.
-4ea4ca5fdd=Eso na digital software kei na downloadable content e okati kina na virtual game card ni o volia.<TAG1/><NL/>Ni oti na vakacuruma, na icon ni qito ena yavutaki ena HOME Menu, ka o na rawa ni qito kina na qito.<NL/><TAG2/><TAG3/>Me raica na virtual game cards, dolava na HOME Menu ka digitaka na <0xE13D/> (Virtual Game Cards).<TAG4/><TAG5/>
 4ea6c8ec5f=Bokoca na Vakavoui ni Parokaramu
 4edb2b1dd3=O via tekivuna e vei na nomu vidio?
 4ee3f3cdd7=Sa yaco na leqa ni wiliwili tiko na IR Motion Camera.<TAG1/><NL/>Ke sega ni oti, raica na<NL/>mataveilawa ni veivuke <L_N10/>.<NL/><L_SNCE/>
@@ -1435,7 +1423,6 @@
 696aba4a38= tamata
 696b6f655c=iTaba ni sikirini kei na vidio
 6974646d8c=Cakava oqo ena misini kadua:
-697e8ed82b=Na konsoli ena sotava ni vakawati ki na Internet me vakaraitaka se oqo na soliteri sa rawa ni vakabulai e na veivakabulai ni data sa vakabulai.<TAG1/><NL/>Ko na tawase mai na veiyasana ni veikomunikiti e na vanua.
 698afa597b=Sa yali na isema ni sa vakacegui na qito.
 6990afc1a0=E sega ni kuri rawa na dauvakayagataka ni o curu ena Akaude <L_N10/> e se bera ni semati ki na misini <L_NS/> eliu.<TAG1/><NL/>Vakadeitaka na itukutuku ni Akaude <L_N10/> ka tovolea tale.
 69984a2324=E sega ni buli rawa na itukutuku maroroi ni lailai na vanua lala ena ivakananumi ni misini.<TAG1/><NL/>Yalovinaka, maroroya se bokoca na data e sega ni gadrevi ni o digia <0xE130/> (iTuvatuva ni Misini) ⇒ Qaravi ni iTukutuku ena Menu HOME.
@@ -1758,7 +1745,6 @@
 80e6a6cd97=O via tinia e vei na nomu vidio?
 80f8e384aa=iVakamacala tale, oka kina na siga ena tavoci kina na parokaramu, e tiko ena <L_NEP/>.
 80f9cf0668=Lavetaka/Bokoca na iTaba ni Sikirini kei na Vidio
-810d1e183a=Na sotia e dua na gauna sa oti se sega ni yaga.<NL/>Vakavinavinakataki ni vakarautaka na lewe ni siga kei na gauna e dodonu e na konsoli oqo.
 81292c6491=Tarovi
 8151cd46c1=O rawa ni curu mo vakayagataka vakalekaleka na itukutuku mai na dua tale na Akaude <L_N10/> e sega ni sema ki na misini oqo.<NL/><TAG1/><TAG2/>Ena sega ni maroroi ena misini oqo na nomu itukutuku ni curu.<TAG3/><TAG4/>
 816a947236=Kode ni Veivuke: <L_CODE/>
@@ -1825,7 +1811,6 @@
 858115d803=Tokani se qai tekivu ena qito oqo (<TAG1/>)
 858cfe6727=O rawa ni semata e dua na Akaude <L_N10/>.<NL/><TAG1/><TAG2/>Ena akaude semati, o rawa ni qito ena internet, vakayagataka na cakacaka ni itokani, <L_NEP/>, kei na so tale.<TAG3/><TAG4/>
 859515e3d1=App ni Talevoni Vuku
-85ac6fadc0=Eso na digital software kei na downloadable content e okati kina na virtual game card ni o volia.<TAG1/><NL/>Ni oti na vakacuruma, na icon ni qito ena yavutaki ena HOME Menu, ka o na rawa ni qito kina na qito.<NL/><TAG2/><TAG3/>Me raica na virtual game cards, dolava na HOME Menu ka<NL/>digitaka na <0xE13D/> (Virtual Game Cards).<TAG4/><TAG5/>
 85b3fdf3b1=Sega ni kune na misini kadua.<TAG1/><NL/>Tovolea tale.
 85bab1710a=O rawa ni digia mo vakacuruma na nomu PIN ni Lewa Vakaitubutubu ena ititoko ni lewa.<TAG1/><NL/><L_DOT1/><TAG2/>E rawarawa cake na vakacurumi ni naba ena ititoko ni lewa.<TAG3/><NL/><L_DOT1/><TAG4/>Ni o vakayagataka na ititoko ni lewa, era na sega ni raica rawa na tani na naba o digia ena sikirini.<TAG5/><TAG6/><NL/><TAG7/><TAG8/>O rawa ni tabaka toka <TAG9/> mo veisau ki na butoni ni naba ka vakacuruma na nomu PIN me vaka eliu.<TAG10/><TAG11/>
 85babdce25=Me sogo na parokaramu oqo ni sa yaco e dua na leqa.<TAG1/><NL/>O vakadonuya na <L_N10/> me wasea na itukutuku ni leqa mai na misini oqo vei ira na dau caka parokaramu mai tautuba e sa leqa na nodra parokaramu, me vakadikevi ka vakavinakataki?<TAG2/><NL/>E tabaki ena mataveilawa e ra na itukutuku ni vanua tani e vakau kina na data kei na taqomaki ni itukutuku baleti iko (ena vosa vaka-Japani ga). Yalovinaka, wilika mada na itukutuku.<NL/><L_NCJP/><TAG3/><NL/><TAG4/>O rawa ni veisautaka na ituvatuva oqo ena dua ga na gauna ena <0xE130/> (iTuvatuva ni Misini) ⇒ iVakarau ena Menu HOME.<TAG5/>
@@ -2152,7 +2137,6 @@
 9dd5eff6c3=Ena boko na itukutuku kece ni <L_AMI/> oqo.
 9df28e2c80=Moica
 9e327cdc7f=Sega ni kune na sala e veiganiti kei na vosa o vola.
-9e4190a7c6=O sa sega ni rawa ni vakaadada na kai-gune e na gauna oqo.<TAG1/><NL/>Vakayacora na kena mudu na soliteri sa vakasusupensia, emuri digitaka<NL/><0xE130/> (System Settings) ⇒ Kai-gune me vakaadada e dua na kai-gune.
 9e50c9122e=4-8 naba
 9e52824cb7=Na itukutuku kece oqo ena lavetaki ina <L_N10/> <TAG1/><L_SWT2/><TAG2/>:
 9e6637e3df=Sa tarovi na qito.<TAG1/><NL/>Raica na mataveilawa ni Veivuke <L_N10/> mo kila tale kina.<NL/><L_SNCE/><TAG2/><NL/>Mo tomana na qito, sema ina internet ka tomana mai na menu HOME.
@@ -2369,7 +2353,6 @@ ae17e30f8a=Vei ira na Yabaki 3+
 ae199254f4=O rawa ni lesia e dua na PIN ka sega ni curu ki na nomu Akaude <L_N10/>.
 ae24c5be9b=Mawi
 ae318d40f5=Ni o tekivuna na tokitaki ni misini ka vakau na data ina seva, o vakadonuya oqo:
-ae3dadfaca=E dua na kena caka cala ni vakayacori.
 ae44cb539b=Semata Vakavata na iYaya
 ae6030371d=iTaba ni Sikirini: <TAG1/>
 ae89a8d3fc=Tabaka <0xE0A5/> mo moica tale na ititoko ni lewa ke sega ni cakacaka vinaka.
@@ -2789,7 +2772,7 @@ cff1bc0332=Vola na ki levu.
 cff6e1ffbf=Biuta na misini ena dela ni ka e tautauvata ka dei, me vakanamata cake na sikirini.
 d014f8f022=Moce Vakataki Koya (Sema ki na TV)
 d02a794da8=Sega na e-kadi ni qito e vunitaki.
-d03d9aaad3=<TAG1/>Na dauvakayagataka <L_N10/> <TAG2/><L_SWT2/><TAG3/><TAG4/> e rawa ni vakayagataka <L_TGS/> me dou qito vata.
+d03d9aaad3=<TAG1/>Na dauvakayagataka <L_N10/> <TAG2/><L_SWT2/><TAG3/> e rawa ni<TAG4/> vakayagataka <L_TGS/> me dou qito vata.
 d03e66ffbe=iTukutuku Maroroi
 d0508a7c3f=Ena boko na misini ni sa yaco e dua na leqa.<TAG1/><NL/>Yalovinaka, tovolea tale ena vanua e rawa ni sema kina na misini ki na isema.
 d05a28077c=2 sekodi
@@ -3051,7 +3034,6 @@ e32050f975=Vakasaqara ena Vosa Bibi
 e3241b8d7d=<TAG1/><LIST1/> <TAG2/><LIST2/> sa vo
 e338cb1abc=E sega ni sema rawa ki na seva.<NL/>E rawa ni oso na isema, se leqa na seva.<NL/>Yalovinaka, tovolea tale e muri.<TAG1/><NL/>Raica na mataveilawa ni Veivuke <L_N10/> me baleta na itukutuku.<NL/><L_SNCE/>
 e33ca7be8f=<L_SQR/> iTukutuku Bibi<TAG1/><NL/>Na itukutuku vakau ina seva, me vaka na itukutuku maroroi, itaba ni sikirini kei na<NL/>vidio, ena vakalesui ina misini oqo. Ia, eso na itukutuku<NL/>e rawa ni duidui mai na kena irairai e liu. Kena ivakaraitaki:<TAG2/><NL/><L_DOT1/> <TAG3/>Ena sega ni vakalesui na ikoni ni parokaramu ena menu HOME.<NL/>Ena boko tale ga na ituvatuva ni lawalawa ena Parokaramu Kece.<NL/><TAG4/><TAG5/>Ena sega ni yali na parokaramu lavetaki mai kei na <L_DLC/> e voli.<NL/>Mo lavetaka tale mai, vakacuruma na kena e-kadi ni qito.<TAG6/><TAG7/><TAG8/><TAG9/><NL/><L_DOT1/> <TAG10/>Ena kau tani na isema ina app <L_NS/> Parental Controls<NL/>E rawa ni o semata tale na app e muri.<TAG11/>
-e34a3245a8=Na ka me vakayacora rawa ni sa kune na ka vou me vakayacora.<NL/>Vakayacora mada oqo?
 e34c900863=O rawa ni tokitaka na veika oqo ni o tokitaka na nomu kadi <L_MSD/> ki na misini <L_N10/> <TAG1/><L_SWT2/><TAG2/>:<NL/><NL/><L_DOT1/> <TAG3/>Vidio e buli ena <TAG4/><TAG5/><NL/><NL/>Maroroya na kadi <L_MSD/> ena vanua taqomaki me yacova ni rawa ni vakayagataki na misini <L_N10/> <TAG6/><L_SWT2/><TAG7/>.
 e353b6b293=Tekivuna na Parokaramu
 e38a4e6bdc=O se bera ni semata e dua na akaude ni sala ni veimaliwai.<TAG1/><NL/>Yalovinaka, semata e dua na akaude ena Tokani Vakatututaki ena nomu tabana ni dauvakayagataka.
@@ -3165,7 +3147,6 @@ eb38ff10fd=Sa waraki ira na dauvakayagataka tale eso<L_DOT3/>
 eb3a0cd4bb=Ena nomu ilakolako, o raica e dua na vanua totoka? <NL/>O vakamarautaki ira na vakarorogo ena nomu sere duadua e vu mai yalomu?<NL/><NL/>Totolo, tabaka <0xE0BA/> (na Butoni iTaba)!<NL/>Ena tauri e dua na itaba ni sikirini ka maroroi ena nomu ivolaitaba. <NL/>Tomana na tauri itaba ni sikirini, ena sega ni dede sa levu na kemu ivakananumi marautaki ni qito!<NL/><NL/>Ia, e se vo tale! E rawa ni o kuria na vosa ena itaba ni sikirini ka vakauta ina sala ni veimaliwai ena internet o taleitaka. Wasea na gauna ni qito oqori kei ira nomu itokani!<NL/><NL/>Ke o via raica tale e dua na gauna talei sara, e rawa ni o katona na iotioti ni 30 na sekodi ni nomu qito me vidio*. <NL/>Tabaka toka ga <0xE0BA/> me yacova ni o rogoca e dua na rorogo lailai. E rawa tale ga ni o wasea na vidio mai na ivolaitaba, vakaraitaka e vuravura na ka o rawata ena qito!<NL/><NL/><L_SQR/> Vei Kemuni na Dau Taba Sikirini kei na Dau Katona Vidio:<NL/>Ke o via maroroya e levu na itaba se vidio, de o vinakata mo volia e dua na kadi <L_MSD/>.<NL/><NL/>Na ivakananumi e loma e rawa ni maroroya e rauta ni 1,000 na itaba ni sikirini se 100 na vidio, ia na kadi <L_MSD/> e levu vinaka e rawa ni maroroya me yacova na 10,000 na itaba ni sikirini se 1,000 na vidio! Sa levu dina na ivakananumi!<NL/><NL/>Qito marautaki,<NL/>Amelia N.
 eb3e96f4a9=Ena vakarautaki na Lewa Vakaitubutubu ena akaude <L_N10/> oqo.<NL/>O via rejisita ena app <TAG1/><L_NS/><TAG2/> Parental Controls?
 eb42cf244d=Ke ra vakayagataka na <TAG1/><L_N3D/><TAG2/> (<0xE131/>) kei na <TAG3/><L_NS/><TAG4/> na nomu itokani, era na vakatututaki eke.<NL/><TAG5/><TAG6/>E dodonu tale ga mera waqaca na tokani vakatututaki ni <TAG7/><L_N3D/><TAG8/> ena nodra tabana.<TAG9/><TAG10/>
-eb4fdc3239=Digitaka na virtual game cards me vakacuruma ena system oqo. Ni oti na vakacuruma, na icon ni qito ena<NL/>yavutaki ena <TAG1/>HOME Menu<TAG2/>, ka o na rawa ni qito kina.
 eb5d251b7e=Toso ni lavetaki mai: <TAG1/>
 eb7396985b=Tokitaka na itukutuku maroroi ki na misini voleka.<NL/><TAG1/><TAG2/>E rawa ni tokitaki ga na itukutuku maroroi vei ira na dauvakayagataka e sema ki na Akaude <L_N10/> vata ga.<TAG3/><TAG4/>
 eb7bdb2af4=Kua ni Bokoca
@@ -3321,7 +3302,6 @@ f72c4d8bc4=Me dikevi ka vakalesui na itukutuku maroroi,<NL/>ena vakau na itukutu
 f73fd78021=E vakau na kerekere ni veitokani oqo ena kode ni itokani.
 f749d70845=E gadrevi mo lewe ni <L_NSO/>.<NL/>E rawa ni vakatovolei wale na veiqaravi.
 f756081e20=Ciqoma
-f75b80d554=Oqo na itukutuku vou kei na kena vakayacora ka vakadodonutaka na nomu vakarautaki data.<TAG1/><NL/>Me vakayagataka vakakina, lako ki na Meniu Viti, vakaraitaka na nomu soliteri ka digitaka na Vakayagataka, ka qai digitaka na Vakarautaki Data Lomalagi.
 f773776c15=Vei ira na Yabaki 17+
 f781e48036=Raica<L_DOT3/>
 f784485d66=Vakatovolea na Butoni ni iYaya ni Lewa

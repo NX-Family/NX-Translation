@@ -1,4 +1,4 @@
-000393a3c5=Outros usuarios poderán xogar nos sistemas vinculados a <TAG1/><TAG2/><TAG3/> mediante a súa <TAG4/>conta <L_N10/><TAG5/>.
+000393a3c5=Outros usuarios poderán xogar nos sistemas que <TAG1/><TAG2/> vinculou<TAG3/> á súa <TAG4/>conta <L_N10/><TAG5/>.
 0009ba6e58=Sincronizar dispositivo de audio <L_BT/>
 0010a3e244=Agora non podes xogar a este software.<TAG1/><NL/><TAG2/><TAG3/>Se a túa conta <L_N10/> está vinculada a outra consola, conéctaa a Internet e téntao de novo.<TAG4/><TAG5/>
 001b8951e2=Botón dereito
@@ -7,7 +7,7 @@
 0079e761c9=Comezado recentemente<NL/>por <TAG1/><LIST1/>!
 008254084c=Sitio web: <L_VS/>
 00903b93e9=Se desactivas esta opción, non poderás usar os botóns da consola. Necesitarás un mando sen fíos para usar botóns. A opción reactivarase automaticamente ao saír do modo de espera ou reiniciar a consola
-00a4afc9e5=Aínda non teño unha <L_N10/> <TAG1/><L_SWT2/><TAG2/>
+00a4afc9e5=Non teño unha <L_N10/> <TAG1/><L_SWT2/><TAG2/> aínda
 00d88ff7b0=Isto borrará todos os datos da memoria do sistema, incluídos os datos de software, as capturas de pantalla e os vídeos. Despois, inicializarase o sistema e restauraranse os<L_XA0/>valores de fábrica.<TAG1/><NL/>Cando remate a inicialización, retira a tarxeta <L_MSD/> deste<L_XA0/>sistema.<TAG2/><NL/><L_SQR/> Avisos<TAG3/><NL/><L_DOT1/> <TAG4/>Todos os datos de software da tarxeta <L_MSD/>, agás as capturas de pantalla e os vídeos, quedarán inutilizables. (Non se eliminarán os datos da tarxeta <L_MSD/>.)<TAG5/><TAG6/><NL/><L_DOT1/> <TAG7/>A versión do sistema non cambiará nin volverá a unha anterior.<TAG8/><TAG9/>
 00e36f62eb= h
 00e3fde319=Non se puido iniciar a conexión co dispositivo externo.<TAG1/><NL/>Reinicia a consola desde Opcións de apagado no Menú de apagado (mantén premido o botón POWER durante tres segundos).
@@ -16,7 +16,7 @@
 00fd224644=Abre a parte traseira da base e conecta os cables como se indica.
 00fd6220c8=Instalouse a aplicación
 00feffff2b=Lista de usuarios bloqueados
-011341569b=Primeira partida hai <TAG1/><LIST1/>
+011341569b=Primeira partida <TAG1/><LIST1/> atrás
 012bbad173=Arquivar datos doutro software
 012bd960e4=Produciuse un erro ao publicar.
 0145befc2b=Xogado na última semana
@@ -45,7 +45,6 @@
 02ff312b00=Gañar puntos por este software
 03224a982f=Xogos aos que xogan os teus amigos
 034f860842=O software do mando está desactualizado ou danado.<TAG1/><NL/>Podes actualizar o mando no menú HOME ⇒ <0xE130/> (Configuración da consola) ⇒ Mandos e sensores.
-035854faa5=É necesario unha actualización do sistema.
 037bf810ca=Ah, e se queres axustar a configuración sen fíos, vai ao menú HOME e selecciona <0xE130/> (Configuración da consola) ⇒ Modo avión.<NL/><NL/>Bo xogo,<NL/>Amelia N.
 039dec73d7=Recuperando a tarxeta de xogo virtual<L_DOT3/>
 03aa12391b=Non se puido obter o enderezo IP.<TAG1/><NL/>Téntao de novo máis tarde.<TAG2/><NL/>Se o problema persiste, proba o seguinte:<NL/><L_DOT1/><TAG3/>Comproba que te conectases ao dispositivo de rede correcto.<TAG4/><NL/><L_DOT1/><TAG5/>Se é posible, introduce a configuración do enderezo IP manualmente.<TAG6/>
@@ -376,7 +375,6 @@
 1ba280c4ac= ficheiro
 1bafc5aec0=Non se puido expulsar a tarxeta de xogo virtual.<NL/>Pecha o software no seguinte sistema e <TAG1/>téntao de novo<TAG2/>.
 1bb0af5afb=Achega as consolas entre si.
-1bc0f1b07d=Podes ver as túas cartas de xogo virtuais nesta pantalla.
 1bd353f902=A partir de 15 anos
 1beab99527=Restablecendo<L_DOT3/>
 1bf2339cc4=Non se puido conectar.<TAG1/><NL/>Non hai resposta do servidor.<NL/>Téntao de novo máis tarde.
@@ -467,7 +465,6 @@
 223b73a0a9=Non se poden enviar máis solicitudes de amizade.<TAG1/><NL/>Xestiona os teus amigos e/ou as solicitudes de amizade enviadas.
 223c84a24b=Restaurando os valores de fábrica<L_DOT3/><NL/>Non toques o botón POWER.
 22559b0d33=Non hai<L_XA0/>ningún mando con cámara de movemento IR conectado.<TAG1/><NL/>Esa cámara está no mando Joy‑Con<L_XA0/>(R). Se tes un <L_JCR/>, conéctao desde <0xE136/> (Mandos) no menú HOME.
-225ae7dd8f=De quen queres cargar as cartas de xogo virtuais?
 225bf999d7=Hai unha actualización dispoñible para o mando.<NL/>Actualizar agora?
 225ecd3c46=Windhoek, Johannesburgo
 227df2a221=<0xE216/> Cargado noutro sistema
@@ -488,7 +485,7 @@
 242766ebc5=Cambiou a configuración de país/rexión desta conta <L_N10A0/>.<TAG1/><NL/>Reinicia <L_NEPA/>.
 242b6294d0=Transferiranse os seguintes datos de gardado.<NL/><TAG1/><TAG2/>Os datos de gardado transferidos eliminaranse deste sistema.<TAG3/><TAG4/>
 2438db6225=Data da partida xuntos
-2453b00602=<TAG1/> obterá o software.<NL/><TAG2/><TAG3/>Non poderás cambialo despois.<TAG4/><TAG5/>
+2453b00602=O usuario <TAG1/> obterá o software.<NL/><TAG2/><TAG3/>Non poderás cambialo despois.<TAG4/><TAG5/>
 2460bee92d=Perdeuse a conexión porque a consola entrou no modo de espera.
 24667bc714=Carga dos mandos <L_JC/>
 246d1bb08a=Transferencia do sistema a <L_N10/> <TAG1/><L_SWT2/><TAG2/>
@@ -633,7 +630,6 @@
 2e52cdc443=Pecharase o software suspendido.
 2e5902e127=Non se pode usar a conta <L_N10/> vinculada a esta consola.<TAG1/><NL/>Abre a túa páxina de usuario desde o menú HOME e inicia sesión de novo na túa conta <L_N10/> ou vincula unha conta <L_N10/>.
 2e7e88a4ff=<L_SQR/> <TAG1/>Para titulares de contas <L_N10/> que usan esta consola<TAG2/><TAG3/><NL/>Se inicializas a consola con este método, a diferenza da inicialización normal, non poderás expulsar as tarxetas de xogo virtuais cargadas.<NL/>Ademais, a consola seguirá vinculada á túa conta e poderá usar os pases dispoñibles para o software asociado.<TAG4/><NL/>Se queres seguir usando a túa conta <L_N10/> con esta consola <L_NS/>, volve vincular a conta <L_N10/> á consola despois de inicializala.<TAG5/><NL/>Visita o sitio web de asistencia de <L_N10/> para saber máis.<NL/><TAG6/>
-2e8169cc1b=Se aínda non cargaches tarxetas de xogo virtuais no sistema, non podes emprestalas. Carga unha neste sistema e inténtao de novo.
 2eab00162a=Non se pode calibrar mentres se sostén o mando <L_JC/> en horizontal.<TAG1/><NL/>Podes cambialo en Cambiar agarre/orde.
 2eae57476a=Autenticación de usuario
 2eb1816f46=Non se seleccionou ningún ficheiro.
@@ -658,7 +654,6 @@
 3000afb270=Preme <0xE0A4/> ou <0xE0A5/> nun mando próximo para facer vibrar o mando seleccionado.
 3021b52ea2=Necesitas un PIN para desactivar temporalmente Control parental.
 304b22e907=Activouse a descarga automática dos datos de gardado.<TAG1/><NL/><L_DOT1/><TAG2/>A primeira descarga debe facerse manualmente.<TAG3/><NL/><L_DOT1/><TAG4/>Para activar esta función noutras consolas, debes cambiar os axustes en cada unha.<TAG5/><NL/><L_WSP/><TAG6/><TAG7/><TAG8/>Podes facelo en <0xE130/> (Configuración da consola) ⇒ Xestión de datos ⇒ Gardado na nube no menú HOME.<TAG9/><TAG10/><TAG11/>
-304f5b8b60=Non se pode comprobar se este software admite a copia de seguridade mediante o servizo de nube de datos gardados.<TAG1/><NL/><TAG2/><TAG3/>Pode que non poidas facer copias de seguridade ou descargar datos gardados.<TAG4/><TAG5/>
 305e65c96e=<0xE153/> Oculto na lista
 305fbf4a1d=Software (edición <L_N10/> <TAG1/><L_SWT2/><TAG2/>)
 307133e696=Perdeuse a conexión co mando.<NL/>Conecta un mando e téntao de novo.
@@ -670,7 +665,6 @@
 30fa43a713=Para usar mandos sen fíos, debes desactivar o modo avión.<NL/><TAG1/>Podes facelo en Configuración rápida (mantén premido <0xE0B9/>).<TAG2/>
 310b78c657=Non se puido conectar a Internet.<TAG1/><NL/>Non hai resposta do servidor.<NL/>Téntao de novo máis tarde.
 3131d7b3ad=Agardando a que se unan membros<L_DOT3/>
-314a0d4b35=A descarga dos datos gardados deste software non rematou.<NL/>Para obter máis información, volve ao menú HOME, abre o menú de opcións do software e selecciona Gardar datos na nube.<NL/><TAG1/><TAG2/>Para continuar a descarga, debes estar conectado á Internet.<TAG3/><TAG4/>
 316ba3e086=Londres, Dublín, Lisboa
 3186e6c11d=Data e hora actuais: <TAG1/>
 319d350d97=Non se puido engadir o usuario.<TAG1/><NL/>Pecha o software suspendido e téntao de novo.
@@ -798,7 +792,6 @@
 3b75ec80c6=Se activas esta opción, o <L_NS/> <L_PRO/> comunicarase coa consola por cable ao conectalo co cable de carga USB. O punto de contacto <L_NFC/> do <L_PRO/> desactivarase mentres o mando use a comunicación por cable.
 3b9a4da33e=Bloquear
 3ba6b0e403=Produciuse un erro.<TAG1/><NL/>Volve igualar a versión do software.
-3bb21706da=Suspéndese o xogo.<NL/>É posible que o software descargado ou o contido descargable se reproduza noutra consola usando a mesma <L_N10/> Conta.<TAG1/><NL/>Visita o <L_N10/> Sitio web de asistencia para obter máis información.<NL/><L_SNCE/>
 3bce3453d9=Podes comunicarte con usuarios locais para igualar a versión do software.
 3bd943b89a=Non se pode descargar. Este sistema non é compatible.
 3bd98e65dd=Noumea
@@ -808,7 +801,6 @@
 3c6507174d=Subíronse os datos do sistema ao servidor!<NL/><TAG1/><TAG2/>Descárgaos cun sistema <L_N10/> <TAG3/><L_SWT2/><TAG4/>.<TAG5/><TAG6/>
 3c7f18176a=Creando copia<L_DOT3/>
 3c9985d8c8=Vincula a mesma conta de <L_N10/> que usaches na outra consola.
-3ca414c388=Tamaño total
 3ca6f5d403=Ordenar
 3cad586069=Saltar
 3cb9a53b43=Fallou o rexistro.<NL/>Téntao de novo.
@@ -842,7 +834,6 @@
 3eaa3e84c8=Necesitas unha subscrición a <L_NSO/>.<NL/><TAG1/><TAG2/>Visita <L_NEP/> para saber máis.<TAG3/><TAG4/>
 3eb297b487=Cancelouse a entrada.
 3ec017cc98=Esquecín o PIN
-3f1280b0c6=O software preinstalado neste sistema aínda non foi<L_XA0/> rexistrado. Rexistra o software en<TAG1/><L_NEP/><TAG2/> e despois continuar.
 3f1bdd937f=<L_D1/> <TAG1/>No outro sistema, abre o menú HOME e selecciona <0xE13D/> (Tarxetas de xogo virtuais) ⇒ <TAG2/>.<TAG3/><TAG4/><NL/><L_D2/> <TAG5/>Achega os sistemas entre si.<TAG6/>
 3f428ba2f8=<0xE13D/> Ao visualizar as túas tarxetas de xogo virtuais
 3f47263243=A partir de 7 anos
@@ -930,7 +921,6 @@
 459b35298e=Sen datos
 45cc9c4fd1=Conectado a través de <L_WIFI/>
 460f323772=Non hai capturas de pantalla nin vídeos gardados neste lugar.<NL/>Fai capturas e vídeos variados para crear unha colección dos teus recordos xogando á <L_NS/>!<TAG1/><NL/>Podes usar o botón de captura para facer capturas e vídeos. Se o premes brevemente, capturarás a pantalla actual. Se o mantés premido, gravarás un vídeo dos 30 segundos anteriores.<NL/>Despois, quizais poidas publicar as capturas e os vídeos nas redes sociais.
-46253cc402=Cargado correctamente!<NL/><TAG1/><TAG2/> Podes xogar en canto se descarguen os datos.<TAG3/><TAG4/>
 462b070ee8=<L_DOT1/><TAG1/>Se un mando está sobre roupa ou un obxecto brando, como un coxín, pode ser difícil oír a vibración. Fai o menor ruído posible durante a busca.<TAG2/><TAG3/><NL/><L_DOT1/><TAG4/>Os mandos sen función de vibración non se poden buscar con este método.<TAG5/><TAG6/><NL/><L_DOT1/><TAG7/>Se un mando non vibra, achega a consola ao lugar onde cres que está ou proba a buscalo con outra consola. Os mandos poden non vibrar se<TAG8/><NL/><L_DSH/><TAG9/>Están demasiado lonxe da consola.<TAG10/><TAG11/><NL/><L_DSH/><TAG12/>Non teñen batería ou teñen pouca.<TAG13/><TAG14/><NL/><L_DSH/><TAG15/>Non están sincronizados cunha consola ou están sincronizados con outra.<TAG16/><TAG17/>
 4648a8ad0d=Descarga pausada.
 4681bfffa8=Os datos poden ser restaurados descargándoos de novo.
@@ -956,7 +946,6 @@
 4781c23da1=Tes unha invitación!
 478430da0b=Fallou a actualización da base.
 47a86ce719=Viches o soporte integrado na parte traseira da consola <L_NS/>? Non só é práctico, tamén agocha un segredo!<NL/><NL/>Abre o soporte e listo! Aí está a rañura para tarxetas <L_MSD/>.<NL/><NL/>Insire nela unha tarxeta <L_MSD/> (véndese por separado) e terás máis espazo para descargas de software, <L_DLC/> e outras cousas.<NL/><NL/>Se che preocupaba quedar sen espazo, isto debería tranquilizarte.
-47ab34fa30=Hai datos gardados que non foron descargados.
 47bbed5385=Por favor, fai que <TAG1/>todos os xogadores<TAG2/> vexan esta pantalla.
 47c8937d2d=Iniciar inicialización
 47e70814c1=Seguro que queres pechar este software?<NL/><TAG1/><TAG2/>Selecciona unha opción coa panca de control e preme <TAG3/> para confirmar.<TAG4/><TAG5/>
@@ -1055,7 +1044,6 @@
 4e5dd4b68b=Todos os usuarios
 4e6f196ee2=Gañaches puntos!
 4e764df15d=Conéctate a Internet para ver a que xogan os teus amigos.
-4ea4ca5fdd=Algúns programas dixitais e contidos descargables inclúen unha tarxeta de xogo virtual ao mercalos.<TAG1/><NL/> Unha vez cargado, a icona do xogo engadirase ao menú INICIO e poderás xogar a ese xogo.<NL/><TAG2/><TAG3/> Para ver as túas cartas de xogo virtuais, abre o menú INICIO e selecciona <0xE13D/> (Cartas de xogo virtuais).<TAG4/><TAG5/>
 4ea6c8ec5f=Cancelar actualización de software
 4edb2b1dd3=Onde queres que comece o vídeo?
 4ee3f3cdd7=Produciuse un erro durante a lectura da cámara de movemento IR.<TAG1/><NL/>Se o problema persiste, consulta o sitio web de asistencia de<NL/><L_N10/>.<NL/><L_SNCE/>
@@ -1435,7 +1423,6 @@
 696aba4a38= persoa
 696b6f655c=Capturas de pantalla e vídeos
 6974646d8c=Fai o seguinte no outro sistema:
-697e8ed82b=A consola conectará á Internet para comprobar se este software admite a copia de seguridade usando o servizo de Nube de Datos de Gardado.<TAG1/><NL/>Será desconectado da comunicación local.
 698afa597b=Perdeuse a conexión porque o xogo foi suspendido.
 6990afc1a0=Non se pode engadir o usuario porque iniciaches sesión cunha conta de <L_N10/> que nunca foi vinculada a unha consola de <L_NS/> antes.<TAG1/><NL/>Confirma os datos da conta de <L_N10/> e inténtao de novo.
 69984a2324=Non se poden crear datos de gardado porque non hai espazo abondo na memoria do sistema.<TAG1/><NL/>Arquiva ou elimina datos innecesarios en <0xE130/> (Configuración da consola) ⇒ Xestión de datos no menú HOME.
@@ -1758,7 +1745,6 @@
 80e6a6cd97=Onde queres que remate o vídeo?
 80f8e384aa=Podes atopar máis información, como a data de lanzamento do software, en <L_NEP/>.
 80f9cf0668=Copiar/eliminar capturas de pantalla e vídeos
-810d1e183a=O certificado caducou ou aínda non é válido.<NL/>Asegúrate de que a configuración de data e hora desta consola sexa correcta.
 81292c6491=Bloqueado
 8151cd46c1=Podes acceder temporalmente aos datos doutra conta <L_N10/> non vinculada a esta consola iniciando sesión.<NL/><TAG1/><TAG2/>As túas credenciais de inicio de sesión non se gardarán nesta consola.<TAG3/><TAG4/>
 816a947236=Código de asistencia: <L_CODE/>
@@ -1825,7 +1811,6 @@
 858115d803=Amigos que comezaron recentemente a xogar a este xogo (<TAG1/>)
 858cfe6727=Agora podes vincular unha conta <L_N10/>.<NL/><TAG1/><TAG2/>Cunha conta vinculada, podes acceder ao xogo en liña, ás funcións de amigos, a <L_NEP/> e máis.<TAG3/><TAG4/>
 859515e3d1=Aplicación para teléfonos intelixentes
-85ac6fadc0=Algúns programas dixitais e contidos descargables inclúen unha tarxeta de xogo virtual ao mercalos.<TAG1/><NL/> Unha vez cargado, a icona do xogo engadirase ao menú INICIO e poderás xogar a ese xogo.<NL/><TAG2/><TAG3/> Para ver as túas cartas de xogo virtuais, abre o menú INICIO e<NL/> selecciona <0xE13D/> (Tarxetas de xogo virtuais).<TAG4/><TAG5/>
 85b3fdf3b1=Non se puido atopar o outro sistema.<TAG1/><NL/>Téntao de novo.
 85bab1710a=Agora podes introducir o PIN do control parental coa panca de control.<TAG1/><NL/><L_DOT1/><TAG2/>A panca de control permite introducir números máis rápido.<TAG3/><NL/><L_DOT1/><TAG4/>Ao usar a panca, os demais non poderán ver os números que seleccionas na pantalla.<TAG5/><TAG6/><NL/><TAG7/><TAG8/>Mantén premido <TAG9/> para cambiar ao teclado numérico e introducir o PIN como antes.<TAG10/><TAG11/>
 85babdce25=Este software tivo que pecharse por un erro.<TAG1/><NL/>Permites que <L_N10/> comparta información de erros desta consola cos desenvolvedores externos cuxo software fallou, para que poidan analizalo e melloralo?<TAG2/><NL/>A información sobre os destinos internacionais cos que se comparten datos e a protección de datos persoais está no seguinte sitio web (só en xaponés). Revísaa antes de decidir.<NL/><L_NCJP/><TAG3/><NL/><TAG4/>Podes cambiar esta configuración en calquera momento no menú HOME ⇒ <0xE130/> (Configuración da consola) ⇒ Sistema.<TAG5/>
@@ -2137,7 +2122,7 @@
 9cbf48d775=Podes gañar puntos de ouro de <L_MNT/> ao mercar certo software físico.
 9ccd9f4a45=Eliminarase o software para liberar espazo. Podes descargalo de novo seleccionando a icona no menú HOME. Os datos de usuario restantes pódense eliminar en Xestionar datos de gardado / Capturas de pantalla e vídeos, dentro de Xestión de datos.
 9cd6f78aee=Contido descargable
-9cec166228=Son <L_BT/><TAG1/><L_CR/><TAG2/>
+9cec166228=<L_BT/><TAG1/><L_CR/><TAG2/> - Son
 9cfe182021=Produciuse un erro.<TAG1/><NL/>Debes acceder a Internet desde esta consola polo menos unha vez.<NL/>No menú HOME, selecciona <0xE130/> (Configuración da consola) ⇒ Internet e configura unha conexión a Internet.
 9d26bc377e=cando esteas listo.
 9d31b66f74=<0xE131/> Comproba que xogos están de moda cos teus amigos!
@@ -2152,7 +2137,6 @@
 9dd5eff6c3=Eliminaranse todos os datos deste <L_AMI/>.
 9df28e2c80=Xirar
 9e327cdc7f=Non se atoparon canles que coincidan coa palabra clave introducida.
-9e4190a7c6=Non podes engadir usuarios agora.<TAG1/><NL/>Peche o software suspenso e selecciona<NL/><0xE130/> (Axustes do sistema) ⇒ Usuarios para engadir un usuario.
 9e50c9122e=4-8 díxitos
 9e52824cb7=Todos os datos seguintes copiaranse a unha <L_N10/> <TAG1/><L_SWT2/><TAG2/>:
 9e6637e3df=Suspéndese o xogo.<TAG1/><NL/>Para máis información, visita o sitio web de asistencia de <L_N10/>.<NL/><L_SNCE/><TAG2/><NL/>Para seguir xogando, conéctate a Internet e retoma o xogo desde o menú HOME.
@@ -2369,7 +2353,6 @@ ae17e30f8a=A partir de 3 anos
 ae199254f4=Podes definir un PIN en vez de iniciar sesión na túa conta <L_N10/>.
 ae24c5be9b=Esquerda
 ae318d40f5=Ao iniciar unha transferencia do sistema e subir datos ao servidor, aceptas o seguinte:
-ae3dadfaca=Produciuse un erro de descarga.
 ae44cb539b=Sincronizar dispositivo
 ae6030371d=Capturas de pantalla: <TAG1/>
 ae89a8d3fc=Preme <0xE0A5/> para recalibrar se a panca non funciona como debería.
@@ -3051,7 +3034,6 @@ e32050f975=Buscar por palabra clave
 e3241b8d7d=<TAG1/><LIST1/> <TAG2/><LIST2/> restantes
 e338cb1abc=Non se puido conectar ao servidor.<NL/>A rede pode estar ocupada ou pode haber un problema co servidor.<NL/>Téntao de novo máis tarde.<TAG1/><NL/>Consulta o sitio web de asistencia de <L_N10/> para obter información.<NL/><L_SNCE/>
 e33ca7be8f=<L_SQR/> Información importante<TAG1/><NL/>Os datos enviados ao servidor, como datos de gardado, capturas e<NL/>vídeos, volverán a este sistema. Porén, algúns datos<NL/>poden non aparecer exactamente como antes. Por exemplo<TAG2/><NL/><L_DOT1/> <TAG3/>Non se restaurarán as iconas de software do menú HOME.<NL/>Tamén se borrarán os axustes de grupos de Todo o software.<NL/><TAG4/><TAG5/>Non perderás o software descargable nin o <L_DLC/> adquiridos.<NL/>Carga a tarxeta de xogo virtual para volver descargar o software adquirido.<TAG6/><TAG7/><TAG8/><TAG9/><NL/><L_DOT1/> <TAG10/>Eliminarase a vinculación coa aplicación <L_NS/> Parental Controls.<NL/>Podes volver vincular a aplicación máis tarde.<TAG11/>
-e34a3245a8=Atopáronse novos contidos descargables.<NL/>Instalalos agora?
 e34c900863=Podes transferir o seguinte movendo a túa tarxeta <L_MSD/> ao sistema <L_N10/> <TAG1/><L_SWT2/><TAG2/>:<NL/><NL/><L_DOT1/> <TAG3/>Vídeos creados con <TAG4/><TAG5/><NL/><NL/>Garda a tarxeta <L_MSD/> nun lugar seguro ata que poidas usar o sistema <L_N10/> <TAG6/><L_SWT2/><TAG7/>.
 e353b6b293=Iniciar software
 e38a4e6bdc=Non vinculaches unha conta de redes sociais.<TAG1/><NL/>Vincula unha desde Suxestións de amigos na túa páxina de usuario.
@@ -3165,7 +3147,6 @@ eb38ff10fd=Esperando a outros usuarios<L_DOT3/>
 eb3a0cd4bb=Estás de aventura e ves unha paisaxe impresionante? <NL/>Arrasas co teu solo cheo de sentimento?<NL/><NL/>Rápido, preme <0xE0BA/> (o botón de captura)!<NL/>Farás unha captura de pantalla que se gardará no álbum. <NL/>Segue facendo capturas e axiña terás un tesouro de bos recordos de xogo!<NL/><NL/>Ah, pero iso non é todo! Tamén podes engadir texto a unha captura e publicala nas túas redes sociais favoritas. Comparte eses momentos cos teus amigos!<NL/><NL/>Para revivir un momento moi especial, podes gravar os últimos 30 segundos da partida nun vídeo*. <NL/>Mantén premido <0xE0BA/> ata escoitar un son. Tamén podes compartir vídeos desde o álbum, así que amosa ao mundo as túas fazañas!<NL/><NL/><L_SQR/> Atención, entusiastas das capturas e dos vídeos:<NL/>Se queres gardar moitas imaxes ou vídeos, quizais che conveña mercar unha tarxeta <L_MSD/>.<NL/><NL/>O almacenamento interno admite unhas 1.000 capturas de pantalla ou 100 vídeos, pero unha tarxeta <L_MSD/> con capacidade abonda admite ata 10.000 capturas ou 1.000 vídeos! Son moitos recordos!<NL/><NL/>Bo xogo,<NL/>Amelia N.
 eb3e96f4a9=Configurarase o control parental con esta conta <L_N10/>.<NL/>Queres rexistrar a consola na aplicación <TAG1/><L_NS/><TAG2/> Parental Controls?
 eb42cf244d=Se algún dos teus amigos de <TAG1/><L_N3D/><TAG2/> (<0xE131/>) tamén usa <TAG3/><L_NS/><TAG4/>, aparecerá aquí como suxestión de amigo.<NL/><TAG5/><TAG6/>Os teus amigos tamén deben ter activadas as suxestións de amigos de <TAG7/><L_N3D/><TAG8/> na súa páxina de usuario.<TAG9/><TAG10/>
-eb4fdc3239=Selecciona as tarxetas de xogo virtuais para cargalas neste sistema. Unha vez cargadas, as do xogo<NL/> engadirase a icona ao<TAG1/> Menú INICIO<TAG2/> , e poderás xogalo.
 eb5d251b7e=Progreso da descarga: <TAG1/>
 eb7396985b=Transferir datos de gardado a unha consola próxima.<NL/><TAG1/><TAG2/>Só se poden transferir entre usuarios vinculados á mesma conta <L_N10/>.<TAG3/><TAG4/>
 eb7bdb2af4=Non eliminar
@@ -3321,7 +3302,6 @@ f72c4d8bc4=Para analizar e recuperar os datos de gardado,<NL/>enviaranse os dato
 f73fd78021=Esta solicitude de amizade foi enviada usando un código de amigo.
 f749d70845=Necesitas unha subscrición a <L_NSO/>.<NL/>Podes probar o servizo cunha proba gratuíta.
 f756081e20=Aceptar
-f75b80d554=Este é o estado actual da copia de seguridade e descarga dos teus datos gardados.<TAG1/><NL/>Para obter máis información, vai ao menú INICIO, destaca o teu software e selecciona Opcións e, a continuación, selecciona Datos gardados na nube.
 f773776c15=A partir de 17 anos
 f781e48036=Navegar<L_DOT3/>
 f784485d66=Probar os botóns dos mandos

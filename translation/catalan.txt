@@ -1,4 +1,4 @@
-000393a3c5=Altres usuaris hi podran jugar en consoles vinculades a <TAG1/><TAG2/><TAG3/> mitjançant el seu <TAG4/>compte <L_N10/><TAG5/>.
+000393a3c5=Altres usuaris hi podran jugar en consoles que <TAG1/><TAG2/> ha vinculat<TAG3/> al seu <TAG4/>compte <L_N10/><TAG5/>.
 0009ba6e58=Aparella un dispositiu d'àudio <L_BT/>
 0010a3e244=Ara no pots jugar amb aquest programa.<TAG1/><NL/><TAG2/><TAG3/>Si el teu compte <L_N10/> està vinculat a una altra consola, connecta-la a Internet i torna-ho a provar.<TAG4/><TAG5/>
 001b8951e2=Botó dret
@@ -7,7 +7,7 @@
 0079e761c9=Iniciat fa poc<NL/>per <TAG1/><LIST1/>!
 008254084c=Web: <L_VS/>
 00903b93e9=Si desactives l'opció, els botons de la consola no funcionaran. Caldrà un comandament sense fil. En sortir del repòs o reiniciar la consola, l'opció es reactivarà sola
-00a4afc9e5=Encara no tinc una <L_N10/> <TAG1/><L_SWT2/><TAG2/>
+00a4afc9e5=No tinc una <L_N10/> <TAG1/><L_SWT2/><TAG2/> encara
 00d88ff7b0=S'esborraran totes les dades de la memòria del sistema, incloses les dades dels programes, les captures de pantalla i els vídeos. El sistema s'inicialitzarà amb els<L_XA0/>valors de fàbrica.<TAG1/><NL/>Quan acabi, treu la targeta <L_MSD/> d'aquest<L_XA0/>sistema.<TAG2/><NL/><L_SQR/> Avisos<TAG3/><NL/><L_DOT1/> <TAG4/>Les dades dels programes desades a la targeta <L_MSD/>, tret de captures de pantalla i vídeos, no es podran usar. (Les dades de la targeta <L_MSD/> no s'esborraran.)<TAG5/><TAG6/><NL/><L_DOT1/> <TAG7/>La versió del sistema no canviarà ni tornarà enrere.<TAG8/><TAG9/>
 00e36f62eb= h
 00e3fde319=No s'ha pogut iniciar la connexió amb el dispositiu extern.<TAG1/><NL/>Reinicia la consola des d'Opcions d'energia al menú d'energia (mantén premut el botó POWER durant tres segons).
@@ -16,7 +16,7 @@
 00fd224644=Obre la part posterior de la base i connecta els cables com es mostra.
 00fd6220c8=Aplicació instal·lada
 00feffff2b=Llista d'usuaris blocats
-011341569b=Primera partida fa <TAG1/><LIST1/>
+011341569b=Primera partida <TAG1/><LIST1/> enrere
 012bbad173=Arxiva dades d'altres programes
 012bd960e4=Error en publicar.
 0145befc2b=Jugat en l'última setmana
@@ -45,7 +45,6 @@
 02ff312b00=Guanya punts per aquest programari
 03224a982f=Jocs als quals juguen els teus amics
 034f860842=El programari del comandament està obsolet o malmès.<TAG1/><NL/>Pots actualitzar el comandament des del menú HOME a <0xE130/> (Configuració del sistema) ⇒ Comandaments i sensors.
-035854faa5=Es requereix una actualització del sistema.
 037bf810ca=Ah, i si vols canviar la configuració sense fil, ves al menú HOME i tria <0xE130/> (Configuració del sistema) ⇒ Mode d'avió.<NL/><NL/>Gaudeix del joc,<NL/>Amelia N.
 039dec73d7=Recuperant la targeta de joc virtual<L_DOT3/>
 03aa12391b=No es pot obtenir l'adreça IP.<TAG1/><NL/>Torna-ho a provar més tard.<TAG2/><NL/>Si el problema persisteix, prova el següent:<NL/><L_DOT1/><TAG3/>Comprova que estiguis connectat al dispositiu de xarxa correcte.<TAG4/><NL/><L_DOT1/><TAG5/>Introdueix manualment la configuració de l'adreça IP, si és possible.<TAG6/>
@@ -376,7 +375,6 @@
 1ba280c4ac= fitxer
 1bafc5aec0=No s'ha pogut expulsar la targeta de joc virtual.<NL/>Tanca el programari a la consola següent i <TAG1/>torna-ho a provar<TAG2/>.
 1bb0af5afb=Acosta les consoles entre si.
-1bc0f1b07d=Pots veure les teves targetes de joc virtual en aquesta pantalla.
 1bd353f902=A partir de 15 anys
 1beab99527=Restablint<L_DOT3/>
 1bf2339cc4=No es pot connectar.<TAG1/><NL/>El servidor no respon.<NL/>Torna-ho a provar més tard.
@@ -467,7 +465,6 @@
 223b73a0a9=No es poden enviar més sol·licituds d'amistat.<TAG1/><NL/>Gestiona els teus amics i/o les sol·licituds d'amistat enviades.
 223c84a24b=Restaurant els valors de fàbrica<L_DOT3/><NL/>No toquis el botó POWER.
 22559b0d33=Ara no hi ha cap comandament amb càmera de moviment IR<L_XA0/>connectat.<TAG1/><NL/>El comandament Joy‑Con<L_XA0/>(R) té una càmera de moviment IR. Si tens un <L_JCR/>, el pots connectar des de <0xE136/> (Comandaments) al menú HOME.
-225ae7dd8f=De qui vols carregar les targetes de joc virtual?
 225bf999d7=Hi ha una actualització per als comandaments.<NL/>Vols actualitzar-los ara?
 225ecd3c46=Windhoek, Johannesburg
 227df2a221=<0xE216/> Carregada en una altra consola
@@ -633,7 +630,6 @@
 2e52cdc443=Es tancarà el programa suspès.
 2e5902e127=El compte <L_N10/> vinculat a aquesta consola no es pot fer servir.<TAG1/><NL/>Obre la teva pàgina d'usuari des del menú HOME i torna a iniciar sessió al teu compte <L_N10/> o vincula un compte <L_N10/>.
 2e7e88a4ff=<L_SQR/> <TAG1/>Per als titulars de comptes <L_N10/> que fan servir aquesta consola:<TAG2/><TAG3/><NL/>Si inicialitzes la consola amb aquest mètode, a diferència de la inicialització normal, no podràs expulsar cap targeta de joc virtual carregada.<NL/>A més, la consola continuarà vinculada al teu compte i podrà fer servir els passis disponibles per al programari associat.<TAG4/><NL/>Per continuar fent servir el compte <L_N10/> amb aquesta consola <L_NS/>, torna a vincular el compte <L_N10/> a la consola després d'inicialitzar-la.<TAG5/><NL/>Per a més informació, visita el web d'assistència de <L_N10/>.<NL/><TAG6/>
-2e8169cc1b=Si encara no has carregat targetes de joc virtual en aquest sistema, no pots prestar-les. Carrega'n una en aquest sistema i torna-ho a provar.
 2eab00162a=No es pot calibrar mentre el comandament <L_JC/> es manté en horitzontal.<TAG1/><NL/>Pots canviar-ho a Canvia la subjecció/l'ordre.
 2eae57476a=Autenticació d'usuari
 2eb1816f46=Cap fitxer triat.
@@ -658,7 +654,6 @@
 3000afb270=Prem <0xE0A4/> o <0xE0A5/> en un comandament proper perquè vibri el comandament seleccionat.
 3021b52ea2=Cal un PIN per desactivar temporalment el control parental.
 304b22e907=S'ha activat la descàrrega automàtica de dades desades.<TAG1/><NL/><L_DOT1/><TAG2/>La primera descàrrega s'ha de fer manualment.<TAG3/><NL/><L_DOT1/><TAG4/>Per activar aquesta funció en altres consoles, cal gestionar la configuració de cadascuna.<TAG5/><NL/><L_WSP/><TAG6/><TAG7/><TAG8/>Pots canviar la configuració a <0xE130/> (Configuració del sistema) ⇒ Gestió de dades ⇒ Dades desades al núvol des del menú HOME.<TAG9/><TAG10/><TAG11/>
-304f5b8b60=No es pot comprovar si aquest programari admet la còpia de seguretat mitjançant el servei de núvol de dades desades.<TAG1/><NL/><TAG2/><TAG3/>Potser no podeu fer còpies de seguretat o descarregar dades desades.<TAG4/><TAG5/>
 305e65c96e=<0xE153/> Amagat de la llista
 305fbf4a1d=Programari (edició <L_N10/> <TAG1/><L_SWT2/><TAG2/>)
 307133e696=S'ha perdut la connexió amb el comandament.<NL/>Connecta un comandament i torna-ho a provar.
@@ -670,7 +665,6 @@
 30fa43a713=Per fer servir comandaments sense fil, cal desactivar el mode d'avió.<NL/><TAG1/>Pots fer-ho a Configuració ràpida (mantén premut <0xE0B9/>).<TAG2/>
 310b78c657=No es pot connectar a Internet.<TAG1/><NL/>El servidor no respon.<NL/>Torna-ho a provar més tard.
 3131d7b3ad=Esperant que s'uneixin els membres<L_DOT3/>
-314a0d4b35=La descàrrega de les dades de guardat d'aquest programari no ha finalitzat.<NL/>Per obtenir més informació, torna al menú INICI, obre el menú d'opcions del programari i selecciona Dades de guardat en el núvol.<NL/><TAG1/><TAG2/>Per continuar la descàrrega, cal estar connectat a Internet.<TAG3/><TAG4/>
 316ba3e086=Londres, Dublín, Lisboa
 3186e6c11d=Data i hora actuals: <TAG1/>
 319d350d97=No es pot afegir l'usuari.<TAG1/><NL/>Tanca el programa suspès i torna-ho a provar.
@@ -798,7 +792,6 @@
 3b75ec80c6=Si actives aquesta opció, el <L_NS/> <L_PRO/> es comunicarà amb la consola per cable quan hi estigui connectat amb el cable de càrrega USB. El punt de contacte <L_NFC/> del <L_PRO/> es desactivarà mentre el comandament faci servir la comunicació per cable.
 3b9a4da33e=Bloca
 3ba6b0e403=Hi ha hagut un error.<TAG1/><NL/>Torna a igualar la versió del programari.
-3bb21706da=La partida s'està suspendent.<NL/>El programari descarregat o el contingut descarregable pot estar sent reproduït en una altra consola utilitzant el mateix compte <L_N10/>.<TAG1/><NL/>Visiteu el lloc web de suport de <L_N10/> per obtenir més informació.<NL/><L_SNCE/>
 3bce3453d9=Pots comunicar-te amb usuaris locals per igualar la versió del programari.
 3bd943b89a=No es pot descarregar. Aquesta consola no és compatible.
 3bd98e65dd=Nouméa
@@ -808,7 +801,6 @@
 3c6507174d=S'han pujat les dades del sistema al servidor!<NL/><TAG1/><TAG2/>Descarrega-les amb una consola <L_N10/> <TAG3/><L_SWT2/><TAG4/>.<TAG5/><TAG6/>
 3c7f18176a=Fent una còpia de seguretat<L_DOT3/>
 3c9985d8c8=Vincula el mateix compte <L_N10/> que feies servir a l'altra consola.
-3ca414c388=Mida total
 3ca6f5d403=Ordena
 3cad586069=Omet
 3cb9a53b43=Registre fallit.<NL/>Torna-ho a provar.
@@ -842,7 +834,6 @@
 3eaa3e84c8=Cal una subscripció a <L_NSO/>.<NL/><TAG1/><TAG2/>Més informació a <L_NEP/>.<TAG3/><TAG4/>
 3eb297b487=Entrada cancel·lada.
 3ec017cc98=He oblidat el PIN
-3f1280b0c6=El programari preinstal·lat en aquest sistema encara no s'ha<L_XA0/> registrat. Si us plau, registreu el programari a<TAG1/><L_NEP/><TAG2/> i després continuar.
 3f1bdd937f=<L_D1/> <TAG1/>A l'altra consola, obre el menú HOME i tria <0xE13D/> (Targetes de joc virtuals) ⇒ <TAG2/>.<TAG3/><TAG4/><NL/><L_D2/> <TAG5/>Apropa les dues consoles.<TAG6/>
 3f428ba2f8=<0xE13D/> En veure les teves targetes de joc virtuals
 3f47263243=A partir de 7 anys
@@ -930,7 +921,6 @@
 459b35298e=Sense dades
 45cc9c4fd1=Connectat via <L_WIFI/>
 460f323772=No hi ha captures de pantalla ni vídeos desats en aquesta ubicació.<NL/>Fes moltes captures de pantalla i vídeos diferents per crear una col·lecció de records mentre jugues a <L_NS/>!<TAG1/><NL/>Pots fer captures de pantalla i vídeos amb el botó de captura. Prem-lo breument per capturar la pantalla actual o mantén-lo premut per gravar els 30 segons anteriors.<NL/>Després potser podràs publicar les captures de pantalla i els vídeos a les xarxes socials.
-46253cc402=S'ha carregat correctament!<NL/><TAG1/><TAG2/> Pots jugar tan bon punt es descarreguin les dades.<TAG3/><TAG4/>
 462b070ee8=<L_DOT1/><TAG1/>Si un comandament és sobre roba o un objecte tou, com un coixí, pot costar sentir-ne la vibració. Fes el mínim soroll possible durant la cerca.<TAG2/><TAG3/><NL/><L_DOT1/><TAG4/>Aquest mètode no permet cercar comandaments sense funció de vibració.<TAG5/><TAG6/><NL/><L_DOT1/><TAG7/>Si un comandament no vibra, apropa la consola al lloc on creus que és o prova de cercar-lo amb una altra consola. Els comandaments poden no vibrar si:<TAG8/><NL/><L_DSH/><TAG9/>Són massa lluny de la consola.<TAG10/><TAG11/><NL/><L_DSH/><TAG12/>Tenen poca bateria o estan descarregats.<TAG13/><TAG14/><NL/><L_DSH/><TAG15/>No estan aparellats amb cap consola o ho estan amb una altra.<TAG16/><TAG17/>
 4648a8ad0d=Descàrrega en pausa.
 4681bfffa8=Pots restaurar les dades si les tornes a descarregar.
@@ -956,7 +946,6 @@
 4781c23da1=Tens una invitació!
 478430da0b=Ha fallat l'actualització de la base.
 47a86ce719=T'has fixat en el suport integrat al darrere de la consola <L_NS/>? Doncs, a més de ser pràctic, amaga un secret!<NL/><NL/>Obre el suport i ja ho veuràs! Hi ha la ranura per a targetes <L_MSD/>.<NL/><NL/>Insereix-hi una targeta <L_MSD/> (venuda per separat) i la podràs fer servir com a espai addicional per a descàrregues de programari, <L_DLC/> i altres dades.<NL/><NL/>Si et preocupava quedar-te sense espai, això t'hauria de tranquil·litzar.
-47ab34fa30=Hi ha dades desades que no s'han descarregat.
 47bbed5385=Fes que <TAG1/>tots els jugadors<TAG2/> mostrin aquesta pantalla.
 47c8937d2d=Inicia la inicialització
 47e70814c1=Vols tancar aquest programari?<NL/><TAG1/><TAG2/>Tria una opció amb la palanca de control i prem <TAG3/> per confirmar.<TAG4/><TAG5/>
@@ -1055,7 +1044,6 @@
 4e5dd4b68b=Tots els usuaris
 4e6f196ee2=Has guanyat punts!
 4e764df15d=Connecta't a Internet per veure a què juguen els teus amics.
-4ea4ca5fdd=Alguns programes digitals i contingut descarregable inclouen una targeta de joc virtual en comprar-los.<TAG1/><NL/> Un cop carregat, la icona del joc s'afegirà al menú INICI i podràs jugar-hi.<NL/><TAG2/><TAG3/> Per veure les teves cartes de joc virtuals, obre el menú INICI i selecciona <0xE13D/> (Cartes de joc virtuals).<TAG4/><TAG5/>
 4ea6c8ec5f=Cancel·la l'actualització del programari
 4edb2b1dd3=On vols que comenci el teu vídeo?
 4ee3f3cdd7=Hi ha hagut un error de lectura de la càmera de moviment IR.<TAG1/><NL/>Si el problema persisteix, consulta el<NL/>web d'assistència de <L_N10/>.<NL/><L_SNCE/>
@@ -1435,7 +1423,6 @@
 696aba4a38= persona
 696b6f655c=Captures de pantalla i vídeos
 6974646d8c=Fes el següent a l'altra consola:
-697e8ed82b=La consola es connectarà a Internet per comprovar si aquest programari admet la còpia de seguretat mitjançant el servei de núvol de dades desades.<TAG1/><NL/>S'us desconnectarà de la comunicació local.
 698afa597b=S'ha perdut la connexió perquè s'ha suspès el joc.
 6990afc1a0=No es pot afegir l'usuari perquè has iniciat sessió amb un compte <L_N10/> que mai no s'ha vinculat a una consola <L_NS/>.<TAG1/><NL/>Comprova les dades del compte <L_N10/> i torna-ho a provar.
 69984a2324=No es poden crear dades desades perquè no hi ha prou espai a la memòria del sistema.<TAG1/><NL/>Arxiva o elimina dades innecessàries a <0xE130/> (Configuració del sistema) ⇒ Gestió de dades des del menú HOME.
@@ -1758,7 +1745,6 @@
 80e6a6cd97=On vols que acabi el teu vídeo?
 80f8e384aa=Trobaràs més informació, inclosa la data de llançament del programari, a <L_NEP/>.
 80f9cf0668=Copia/Elimina captures de pantalla i vídeos
-810d1e183a=El certificat ha caducat o encara no és vàlid.<NL/>Assegureu-vos que la data i l'hora d'aquesta consola estiguin configurades correctament.
 81292c6491=Blocat
 8151cd46c1=Pots accedir temporalment a les dades d'un altre compte <L_N10/> no vinculat a aquesta consola si hi inicies sessió.<NL/><TAG1/><TAG2/>Les teves credencials d'accés no es desaran en aquesta consola.<TAG3/><TAG4/>
 816a947236=Codi d'assistència: <L_CODE/>
@@ -1825,7 +1811,6 @@
 858115d803=Amics que han començat aquest joc fa poc (<TAG1/>)
 858cfe6727=Ara pots vincular un compte <L_N10/>.<NL/><TAG1/><TAG2/>Amb un compte vinculat, pots accedir al joc en línia, les funcions d'amistat, <L_NEP/> i més.<TAG3/><TAG4/>
 859515e3d1=App mòbil
-85ac6fadc0=Alguns programes digitals i contingut descarregable inclouen una targeta de joc virtual en comprar-los.<TAG1/><NL/> Un cop carregat, la icona del joc s'afegirà al menú INICI i podràs jugar-hi.<NL/><TAG2/><TAG3/> Per veure les teves cartes de joc virtuals, obre el menú INICI i<NL/> seleccioneu <0xE13D/> (Targetes de joc virtuals).<TAG4/><TAG5/>
 85b3fdf3b1=No s'ha pogut trobar l'altra consola.<TAG1/><NL/>Torna-ho a provar.
 85bab1710a=Ara pots triar d'introduir el PIN del control parental amb una palanca de control.<TAG1/><NL/><L_DOT1/><TAG2/>La palanca permet introduir números més ràpidament.<TAG3/><NL/><L_DOT1/><TAG4/>Amb la palanca, els altres no podran veure els números que seleccionis a la pantalla.<TAG5/><TAG6/><NL/><TAG7/><TAG8/>Pots mantenir premut <TAG9/> per canviar al teclat numèric i introduir el PIN com abans.<TAG10/><TAG11/>
 85babdce25=Aquest programa s'ha hagut de tancar per un error.<TAG1/><NL/>Permets que <L_N10/> comparteixi la informació d'errors d'aquesta consola amb els desenvolupadors externs dels programes que han fallat, per a anàlisi i millora?<TAG2/><NL/>El web següent informa sobre les destinacions internacionals de dades compartides i la protecció de dades personals (només en japonès). Revisa la informació abans de continuar.<NL/><L_NCJP/><TAG3/><NL/><TAG4/>Pots canviar aquesta opció en qualsevol moment a <0xE130/> (Configuració del sistema) ⇒ Sistema al menú HOME.<TAG5/>
@@ -2137,7 +2122,7 @@
 9cbf48d775=Pots guanyar punts d'or <L_MNT/> quan compris cert programari físic.
 9ccd9f4a45=S'eliminarà el programa per alliberar espai. El pots tornar a descarregar triant-ne la icona al menú HOME. Pots eliminar les dades d'usuari restants a Gestiona dades desades / Captures de pantalla i vídeos, dins de Gestió de dades.
 9cd6f78aee=Contingut descarregable
-9cec166228=Àudio <L_BT/><TAG1/><L_CR/><TAG2/>
+9cec166228=<L_BT/><TAG1/><L_CR/><TAG2/> - Àudio
 9cfe182021=Hi ha hagut un error.<TAG1/><NL/>Cal haver usat Internet almenys un cop en aquesta consola.<NL/>Al menú HOME, ves a <0xE130/> (Configuració del sistema) ⇒ Internet i configura una connexió.
 9d26bc377e=quan estiguis a punt.
 9d31b66f74=<0xE131/> Mira quins jocs triomfen entre els teus amics!
@@ -2152,7 +2137,6 @@
 9dd5eff6c3=S'esborraran totes les dades d'aquest <L_AMI/>.
 9df28e2c80=Gira
 9e327cdc7f=Cap canal coincideix amb la paraula clau.
-9e4190a7c6=No podeu afegir usuaris ara.<TAG1/><NL/>Tanca el programari suspès i selecciona<NL/><0xE130/> (Configuració del sistema) ⇒ Usuaris per afegir un usuari.
 9e50c9122e=4-8 dígits
 9e52824cb7=Totes les dades següents es copiaran a una <L_N10/> <TAG1/><L_SWT2/><TAG2/>:
 9e6637e3df=Se suspèn el joc.<TAG1/><NL/>Per a més informació, visita el web d'assistència de <L_N10/>.<NL/><L_SNCE/><TAG2/><NL/>Per continuar jugant, connecta't a Internet i reprèn-lo des del menú HOME.
@@ -2369,7 +2353,6 @@ ae17e30f8a=A partir de 3 anys
 ae199254f4=Pots configurar un PIN en lloc d'iniciar sessió al teu compte <L_N10/>.
 ae24c5be9b=Esq.
 ae318d40f5=En iniciar una transferència del sistema i pujar dades al servidor, acceptes el següent:
-ae3dadfaca=S'ha produït un error de descàrrega.
 ae44cb539b=Aparella un dispositiu
 ae6030371d=Captures de pantalla: <TAG1/>
 ae89a8d3fc=Prem <0xE0A5/> per tornar a calibrar la palanca si no funciona com s'espera.
@@ -2789,7 +2772,7 @@ cff1bc0332=Escriu la clau mestra.
 cff6e1ffbf=Posa la consola en una superfície plana i estable, amb la pantalla amunt.
 d014f8f022=Repòs automàtic (connectada al TV)
 d02a794da8=Cap targeta de joc virtual oculta.
-d03d9aaad3=<TAG1/>Els usuaris de <L_N10/> <TAG2/><L_SWT2/><TAG3/><TAG4/> poden fer servir <L_TGS/> i podeu jugar junts.
+d03d9aaad3=<TAG1/>Els usuaris de <L_N10/> <TAG2/><L_SWT2/><TAG3/> poden<TAG4/> fer servir <L_TGS/> i podeu jugar junts.
 d03e66ffbe=Dades desades
 d0508a7c3f=La consola s'apagarà perquè s'ha produït un error.<TAG1/><NL/>Torna-ho a provar en un lloc on la consola es pugui connectar a la xarxa.
 d05a28077c=2 segons
@@ -3051,7 +3034,6 @@ e32050f975=Cerca per paraula clau
 e3241b8d7d=<TAG1/><LIST1/> <TAG2/><LIST2/> restants
 e338cb1abc=No es pot connectar al servidor.<NL/>La xarxa pot estar ocupada o el servidor tenir un problema.<NL/>Torna-ho a provar més tard.<TAG1/><NL/>Consulta el web d'assistència de <L_N10/>.<NL/><L_SNCE/>
 e33ca7be8f=<L_SQR/> Informació important<TAG1/><NL/>Les dades enviades al servidor, com dades desades, captures de pantalla i<NL/>vídeos, tornaran a aquesta consola. Ara bé, algunes dades<NL/>potser no apareixeran exactament com abans. Per exemple:<TAG2/><NL/><L_DOT1/> <TAG3/>No es restauraran les icones del programari al menú HOME.<NL/>També s'esborrarà la configuració dels grups de Tot el programari.<NL/><TAG4/><TAG5/>El programari descarregable i el <L_DLC/> comprats no es perdran.<NL/>Per tornar a descarregar programari comprat, carrega'n la targeta de joc virtual.<TAG6/><TAG7/><TAG8/><TAG9/><NL/><L_DOT1/> <TAG10/>S'eliminarà qualsevol vincle amb l'aplicació <L_NS/> Parental Controls.<NL/>La podràs tornar a vincular més endavant.<TAG11/>
-e34a3245a8=S'ha trobat nou contingut descarregable.<NL/>Vols instal·lar-lo ara?
 e34c900863=Pots transferir el contingut següent si mous la teva targeta <L_MSD/> a la consola <L_N10/> <TAG1/><L_SWT2/><TAG2/>:<NL/><NL/><L_DOT1/> <TAG3/>Vídeos creats amb <TAG4/><TAG5/><NL/><NL/>Guarda la targeta <L_MSD/> en un lloc segur fins que puguis fer servir la consola <L_N10/> <TAG6/><L_SWT2/><TAG7/>.
 e353b6b293=Inicia el programa
 e38a4e6bdc=No has vinculat cap compte de xarxes socials.<TAG1/><NL/>Vincula un compte a Suggeriments d'amics a la teva pàgina d'usuari.
@@ -3165,7 +3147,6 @@ eb38ff10fd=Esperant altres usuaris<L_DOT3/>
 eb3a0cd4bb=Veus un paisatge espectacular en plena aventura? <NL/>Arrenques ovacions amb un solo ple de sentiment?<NL/><NL/>Ràpid, prem <0xE0BA/> (és el botó de captura)!<NL/>Faràs una captura de pantalla que es desarà a l'àlbum. <NL/>Continua fent captures i aviat tindràs un tresor de bons records de joc!<NL/><NL/>Ah, però això no és tot! També pots afegir text a una captura de pantalla i publicar-la a les teves xarxes socials preferides. Comparteix aquests moments de joc amb els teus amics!<NL/><NL/>I si vols reviure un moment molt, molt especial, pots gravar els últims 30 segons de joc en un vídeo*. <NL/>Només cal mantenir premut <0xE0BA/> fins que sentis un petit so. També pots compartir vídeos directament des de l'àlbum, així que mostra al món les teves gestes de joc!<NL/><NL/><L_SQR/> Atenció, apassionats de les captures de pantalla i dels vídeos:<NL/>Si vols desar moltes imatges o vídeos, potser et convé comprar una targeta <L_MSD/>.<NL/><NL/>La memòria interna pot contenir unes 1.000 captures de pantalla o 100 vídeos, però una targeta <L_MSD/> prou gran pot contenir fins a 10.000 captures de pantalla o 1.000 vídeos! Són molts records!<NL/><NL/>Gaudeix del joc,<NL/>Amelia N.
 eb3e96f4a9=El control parental es configurarà amb aquest compte <L_N10/>.<NL/>Vols fer el registre a l'aplicació <TAG1/><L_NS/><TAG2/> Parental Controls?
 eb42cf244d=Si algun dels teus amics de <TAG1/><L_N3D/><TAG2/> (<0xE131/>) també fa servir <TAG3/><L_NS/><TAG4/>, se't suggerirà com a amic aquí.<NL/><TAG5/><TAG6/>Els teus amics també han de tenir activats els suggeriments d'amics de <TAG7/><L_N3D/><TAG8/> a la seva pàgina d'usuari.<TAG9/><TAG10/>
-eb4fdc3239=Seleccioneu les targetes de joc virtuals per carregar-les en aquest sistema. Un cop carregades, les del joc<NL/> s'afegirà la icona a la<TAG1/> Menú INICI<TAG2/> , i podràs reproduir-lo.
 eb5d251b7e=Progrés de descàrrega: <TAG1/>
 eb7396985b=Transfereix dades desades a una consola propera.<NL/><TAG1/><TAG2/>Només es poden transferir dades desades entre usuaris vinculats al mateix compte <L_N10/>.<TAG3/><TAG4/>
 eb7bdb2af4=No eliminis
@@ -3321,7 +3302,6 @@ f72c4d8bc4=Per analitzar i recuperar les dades desades, les<NL/>dades desades d'
 f73fd78021=Aquesta sol·licitud d'amistat s'ha enviat mitjançant un codi d'amic.
 f749d70845=Cal una subscripció a <L_NSO/>.<NL/>Pots provar el servei amb una prova gratuïta.
 f756081e20=Accepta
-f75b80d554=Aquesta és l'estat actual de la còpia de seguretat i la descàrrega de les teves dades de guardat.<TAG1/><NL/>Per obtenir més informació, ves al menú INICI, ressalta el teu programari i selecciona Opcions, i després selecciona Dades de guardat en el núvol.
 f773776c15=A partir de 17 anys
 f781e48036=Navega<L_DOT3/>
 f784485d66=Prova els botons dels comandaments
